@@ -14,3 +14,18 @@ To exclude ignore files, run
 python list_files.py --ignore ignore.txt --input files.txt
 ```
 where ignore.txt contains the ignore rules and files.txt is the list of all files.
+
+### dup_match_by_checksum.py
+This script computes the xxhash of each file and stores the hashes in a dictionary for later write-out to serialized json format.  
+To obtain the dictionary of checksums, run
+```
+python dup_match_by_checksum.py files.txt
+```
+where files.txt is a list of files to compute xxhash for. files.txt is an optional argument, which if not given, will trigger the script to crawl the storage file system.  
+The output of the script is checksums.txt
+
+### check_dup_from_checksum_file.py
+This script outputs groups of duplicate files based on checksums.txt.  
+```
+python check_dup_from_checksum_file.py
+```
