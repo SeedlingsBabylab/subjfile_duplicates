@@ -36,6 +36,7 @@ if __name__ == '__main__':
 	parser.add_argument('--ignore', action='store')
 	parser.add_argument('--input', action='store')
 	args = parser.parse_args()
+	files = []
 	if args.crawl:
 		get_all_files('/Volumes/pn-opus/Seedlings')
 		with open('files.txt', 'w') as f:
