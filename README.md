@@ -37,7 +37,7 @@ python first_level.py path/to/first/directory path/to/second/directory
 ```
 
 ### dup_match_all.py
-This script outputs a csv specifying files in the first level of two directories with same name but different contents.
+This script outputs a json file specifying files with the same contents in two directories.
 ```
 python dup_match_all.py path/to/first/directory path/to/second/directory
 ```
