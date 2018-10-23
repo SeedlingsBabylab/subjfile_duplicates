@@ -29,3 +29,15 @@ This script outputs groups of duplicate files based on checksums.txt.
 ```
 python check_dup_from_checksum_file.py
 ```
+
+### first_level.py
+This script outputs a csv specifying files in the first level of two directories with same name but different contents.
+```
+python first_level.py path/to/first/directory path/to/second/directory
+```
+
+### dup_match_all.py
+This script outputs a csv specifying files in the first level of two directories with same name but different contents.
+```
+python dup_match_all.py path/to/first/directory path/to/second/directory
+```
