@@ -68,7 +68,8 @@ if __name__ == '__main__':
 
     get_all_files(dir_1)
 
-    get_all_files(dir_2)
+    if sys.argv[2]:
+        get_all_files(sys.argv[2])
 
     file_filter()
     global start_time
