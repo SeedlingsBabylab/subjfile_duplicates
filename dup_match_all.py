@@ -40,6 +40,7 @@ def file_filter():
 		except:
 			return ""
 	files = [x for x in files if not (get_extension(x) in exclude_file_type)]
+	#files = [file for file in files if file.endswith(".py")]
 
 def write_out():
 	with open('output.txt', 'w') as f:
@@ -64,14 +65,20 @@ def multithread_checksum():
 
 if __name__ == '__main__':
     dir_1 = sys.argv[1]
-    dir_2 = sys.argv[2]
+    print time.time()
 
     get_all_files(dir_1)
+    print "finish first dir"
 
     if sys.argv[2]:
         get_all_files(sys.argv[2])
+        print "finish second dir"
 
     file_filter()
-    global start_time
+
     start_time = time.time()
     multithread_checksum()
+    print time.time()
+    print len(files)
+    print len([hash_dict[index] for index in hash_dict.keys() if len(hash_dict[index]) == 2])
+    print len([hash_dict[index] for index in hash_dict.keys() if len(hash_dict[index]) == 1])
