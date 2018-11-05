@@ -37,10 +37,14 @@ def multithread_checksum():
 
 
 if __name__ == '__main__':
-
     for txt in os.listdir(dir):
         if txt.startswith("path_hash_") and not txt.endswith("_finished.txt"):
-            with open(os.path.join(dir, file), 'rb') as f:
+            files.clear()
+            hash_list.clear()
+            with open(os.path.join(dir, txt), 'rb') as f:
                 files.extend(f.readlines())
             multithread_checksum()
-            
+            with open(os.path.join(dir, txt.replace(".txt", "_finished.txt")), 'w+') as f:
+                for hash in hash_list:
+                    f.write(hash + "\n")
+            os.remove(os.path.join(dir, txt))
