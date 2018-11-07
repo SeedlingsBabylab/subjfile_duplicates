@@ -24,7 +24,5 @@ if __name__ == '__main__':
 
 	for i in range(0, len(files)/num_per_f+1):
 		with open(os.path.join(result_dir, "path_hash_{}.txt".format(i)), 'w+') as f:
-			print i*num_per_f, (i+1)*num_per_f-1
-			print files
 			for file in files[i*num_per_f : (i+1)*num_per_f]:
 				f.write(file + "\n")
