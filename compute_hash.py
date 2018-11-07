@@ -2,6 +2,7 @@ import xxhash
 from multiprocessing import Process, Pool
 import os
 import time
+import sys
 
 hashf = xxhash.xxh64
 files = []
@@ -36,16 +37,21 @@ def multithread_checksum():
 
 
 if __name__ == '__main__':
-    for txt in os.listdir(dir):
-        start_time = time.time()
-        if txt.startswith("path_hash_") and not txt.endswith("_finished.txt"):
-            files = []
-            hash_list = []
-            with open(os.path.join(dir, txt), 'rb') as f:
-                files.extend([line.replace("\n", "") for line in f.readlines()])
-            multithread_checksum()
-            print ("finished {}".format(txt))
-            with open(os.path.join(dir, txt.replace(".txt", "_finished.txt")), 'w+') as f:
-                for hash in hash_list:
-                    f.write(hash)
-            #os.remove(os.path.join(dir, txt))
+	top_dir = sys.argv[1]
+
+	for folder in os.listdir(top_dir):
+		if os.path.isdir(folder):
+			dir = folder
+		    for txt in os.listdir(dir):
+		        start_time = time.time()
+		        if txt.startswith("path_hash_") and not txt.endswith("_finished.txt"):
+		            files = []
+		            hash_list = []
+		            with open(os.path.join(dir, txt), 'rb') as f:
+		                files.extend([line.replace("\n", "") for line in f.readlines()])
+		            multithread_checksum()
+		            print ("finished {}".format(txt))
+		            with open(os.path.join(dir, txt.replace(".txt", "_finished.txt")), 'w+') as f:
+		                for hash in hash_list:
+		                    f.write(hash)
+		            #os.remove(os.path.join(dir, txt))
