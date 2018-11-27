@@ -8,7 +8,7 @@ result_dir = "./"
 def read_file(path):
     with open(path, 'rb') as f:
         for file in f.readlines():
-            [file, hash] = file.replace("\n", "").split(",")
+            [file, hash] = file.replace("\n", "").rsplit(",", 1)
             if hash in hash_dict:
                 hash_dict[hash].append(file)
             else:
@@ -35,6 +35,10 @@ if __name__ == '__main__':
         process_dir(dir2)
 
 dup_list = [", ".join(hash_dict[key]) for key in hash_dict.keys() if len(hash_dict[key]) > 1]
-with open(os.path.join(result_dir, "dup_result.txt"), 'w+') as f:
-    for dup in dup_list:
-        f.write(dup + "\n")
+with open(os.path.join(result_dir, "dup_result_other.txt"), 'w+') as f:
+    with open(os.path.join(result_dir, "dup_result_trl.txt"), 'w+') as f_trl:
+        for dup in dup_list:
+            if ".trl" in dup:
+                f_trl.write(dup + "\n")
+            elif "/Applications/" not in dup:
+                f.write(dup + "\n")
