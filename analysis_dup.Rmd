@@ -1,0 +1,43 @@
+---
+title: "duplicates"
+output: html_document
+---
+
+```{r libraries}
+# install.packages("jsonlite")
+# library(rjson)
+library(jsonlite)
+library(tidyverse)
+```
+
+```{r load_json}
+# open json from file
+json_file <- fromJSON("dup_result_pp.json", flatten=TRUE)
+
+# display columns of json file
+colnames(json_file)
+
+# switch to df
+dup_df <- as.data.frame(json_file)
+
+```
+
+```{r filtering}
+# remove Pages.app, SSI/ssi[...], .DS_Store
+cleaned_dup <- dup_df %>% 
+  filter(!(grepl("Pages", duplicates))) %>%
+  filter(!(grepl("/SSI/ssi-master/", duplicates))) %>%
+  filter(!(grepl(".DS_Store", duplicates)))
+
+# add column with index of duplicate
+cleaned_dup$ID <- seq.int(nrow(cleaned_dup))
+
+# separate duplicates on several rows
+cleaned_dup <- cleaned_dup %>%
+  unnest(duplicates)
+
+# print max number of ups for one file
+max(cleaned_dup$num_duplicates)
+
+write_csv(cleaned_dup, "cleaned_duplicates.csv")
+```
