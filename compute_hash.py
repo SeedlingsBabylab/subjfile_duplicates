@@ -9,6 +9,8 @@ files = []
 # dir = "/Users/estellehe/Documents/BLAB/workspace/duplicate script/"
 
 def compute_hash(file):
+	if ".wav" in file or ".mp4" in file:
+		return ("Error", file)
 	def file_as_blockiter(file, blocksize=4096):
 		with open(file, 'rb') as f:
 			block = f.read(blocksize)
@@ -28,10 +30,14 @@ def multithread_checksum():
 	p = Pool(20)
 	counter = 0
 	for i in range(0, len(files), 20):
+		#print i
+		#print ("start {}".format(files[i:min(i+20, len(files))]))
 		results = p.map_async(compute_hash, files[i:min(i+20, len(files))])
 		results = results.get()
-        for result in results:
-            hash_list.append("{}, {}\n".format(result[1], result[0]))
+		for result in results:
+			hash_list.append("{}, {}\n".format(result[1], result[0]))
+		#print len(hash_list)
+	#print len(hash_list)
 	p.close()
     #print('FINISHED {}/{}	ESTIMATED TIME REMAINING: {}'.format(counter, len(files), (time.time()-start_time)*(len(files)-counter)/counter))
 
@@ -48,8 +54,9 @@ if __name__ == '__main__':
 					hash_list = []
 					with open(os.path.join(dir, txt), 'rb') as f:
 					    files.extend([line.replace("\n", "") for line in f.readlines()])
+					print ("start {}".format(os.path.join(dir, txt)))
 					multithread_checksum()
-					print ("finished {}".format(txt))
+					print ("finished {}".format(os.path.join(dir, txt)))
 					with open(os.path.join(dir, txt.replace(".txt", "_finished.txt")), 'w+') as f:
 					    for hash in hash_list:
 					        f.write(hash)
