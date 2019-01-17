@@ -48,13 +48,14 @@ def ignore(files, ignore_config):
 
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser(description='Crawling directories with the option to ignore certain filetypes and folders')
-	parser.add_argument('--crawl', action='store_true')
-	parser.add_argument('--ignore', action='store')
-	parser.add_argument('--input', action='store')
+	group = parser.add_mutually_exclusive_group(required=True)
+	group.add_argument('--crawl', action='store', help='The folder to be crawled')
+	group.add_argument('--input', action='store', help='The file that constains a list of paths to files')
+	parser.add_argument('--ignore', action='store', help='The file that contains rules that specifies folders/files to be ignored')
 	args = parser.parse_args()
 	files = []
 	if args.crawl:
-		get_all_files('/Volumes/pn-opus/Seedlings')
+		get_all_files(args.crawl)
 		with open('files.txt', 'w') as f:
 			for file in files:
 				f.write(file + '\n')
