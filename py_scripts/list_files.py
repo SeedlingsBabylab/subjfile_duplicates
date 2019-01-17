@@ -3,21 +3,37 @@ import os
 import argparse
 import re
 
+'''
+	Use the scandir library (faster implementation than os.walk) to retrieve a list of files in a particular directory
+	scandir.walk() returns (root dir, folders, files)
+'''
 def get_all_files(path):
 	for entry in scandir.walk(path):
 		for item in entry[2]:
 			files.append(os.path.join(entry[0], item))
 
+'''
+	Converts matching rules to regex format
+	e.g.
+		MyFolder/*  -> ^MyFolder/.*$
+		This regex rule will match all subdirectories of 'MyFolder', effectively excluding the directory 'MyFolder'
+		*SomeString* -> ^.*SomeString.*$
+		This regex rule will match all files with path that contains the string 'SomeString'
+'''
 def process_ignore_config(ignore_config):
 	rules = []
 	for config in ignore_config:
-		config = config.replace('.', '\.')
+		config = config.replace('.', '\.') # To escape for . in the regex syntax
 		config = config.replace('*', '.*')
 		#config = config.replace('*', '')
 		config = '^' + config + '$'
 		rules.append(config)
 	return rules
 
+
+'''
+	Remove all files matching any of the ignore rules from the list of all files
+'''
 def ignore(files, ignore_config):
 	new_files = []
 	for file in files:
