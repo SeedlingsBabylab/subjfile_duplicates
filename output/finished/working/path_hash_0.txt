@@ -1,0 +1,100 @@
+/Volumes/pn-opus/Seedlings/Working_Files/.DS_Store
+/Volumes/pn-opus/Seedlings/Working_Files/~$liability check_coding_issues.docx
+/Volumes/pn-opus/Seedlings/Working_Files/Thumbs.db
+/Volumes/pn-opus/Seedlings/Working_Files/Remaining issues in 06mo videos.docx
+/Volumes/pn-opus/Seedlings/Working_Files/reliability_check_coding_issues.docx
+/Volumes/pn-opus/Seedlings/Working_Files/09_12/.DS_Store
+/Volumes/pn-opus/Seedlings/Working_Files/09_12/audio/09_12_audio_wordmerged.csv
+/Volumes/pn-opus/Seedlings/Working_Files/09_12/audio/.DS_Store
+/Volumes/pn-opus/Seedlings/Working_Files/09_12/audio/09_12_sparse_code.ulx.cex
+/Volumes/pn-opus/Seedlings/Working_Files/09_12/audio/09_12_sparse_code.cha.bak
+/Volumes/pn-opus/Seedlings/Working_Files/09_12/audio/09_12_sparse_code.cha
+/Volumes/pn-opus/Seedlings/Working_Files/09_12/audio/09_12_Audio_Coding_Issues.docx
+/Volumes/pn-opus/Seedlings/Working_Files/09_12/audio/09_12.wav
+/Volumes/pn-opus/Seedlings/Working_Files/09_12/audio/error/09_12_audio_log.csv
+/Volumes/pn-opus/Seedlings/Working_Files/09_12/video/09_12_coderEB_final_personal_info.csv
+/Volumes/pn-opus/Seedlings/Working_Files/09_12/video/09_12_video_wordmerged.csv
+/Volumes/pn-opus/Seedlings/Working_Files/09_12/video/09_12_coderEB_final.opf
+/Volumes/pn-opus/Seedlings/Working_Files/09_12/video/09_12_Video_Coding_Issues.docx
+/Volumes/pn-opus/Seedlings/Working_Files/09_12/video/error/09_12_video_log.csv
+/Volumes/pn-opus/Seedlings/Working_Files/12_12/Audio/12_12_sparse_code.cha
+/Volumes/pn-opus/Seedlings/Working_Files/12_12/Audio/12_12.wav
+/Volumes/pn-opus/Seedlings/Working_Files/12_12/Audio/12_12_Audio_Coding_Issues.docx
+/Volumes/pn-opus/Seedlings/Working_Files/12_12/Audio/12_12_sparse_code.cha.bak
+/Volumes/pn-opus/Seedlings/Working_Files/12_12/Audio/12_12_audio_wordmerged.csv
+/Volumes/pn-opus/Seedlings/Working_Files/12_12/Audio/error/12_12_audio_log.csv
+/Volumes/pn-opus/Seedlings/Working_Files/12_12/Video/12_12_coderLN_final.opf
+/Volumes/pn-opus/Seedlings/Working_Files/12_12/Video/12_12_Video_Coding_Issues.docx
+/Volumes/pn-opus/Seedlings/Working_Files/12_12/Video/12_12_video_wordmerged.csv
+/Volumes/pn-opus/Seedlings/Working_Files/18_12/Audio/18_12.wav
+/Volumes/pn-opus/Seedlings/Working_Files/18_12/Audio/18_12_sparse_code.cha.bak
+/Volumes/pn-opus/Seedlings/Working_Files/18_12/Audio/18_12_sparse_code.cha
+/Volumes/pn-opus/Seedlings/Working_Files/18_12/Audio/18_12_Audio_Coding_Issues.docx
+/Volumes/pn-opus/Seedlings/Working_Files/18_12/Video/18_12_coderEB_final.opf
+/Volumes/pn-opus/Seedlings/Working_Files/18_12/Video/18_12_Video_Coding_Issues.docx
+/Volumes/pn-opus/Seedlings/Working_Files/18_12/Video/18_12_coderEB_final_personal_info.csv
+/Volumes/pn-opus/Seedlings/Working_Files/18_12/Video/18_12_video_wordmerged.csv
+/Volumes/pn-opus/Seedlings/Working_Files/10_12/.DS_Store
+/Volumes/pn-opus/Seedlings/Working_Files/10_12/Audio/10_12.wav
+/Volumes/pn-opus/Seedlings/Working_Files/10_12/Audio/.DS_Store
+/Volumes/pn-opus/Seedlings/Working_Files/10_12/Audio/10_12_sparse_code.cha.bak
+/Volumes/pn-opus/Seedlings/Working_Files/10_12/Audio/10_12_sparse_code.cha
+/Volumes/pn-opus/Seedlings/Working_Files/10_12/Audio/10_12_Audio_Coding_Issues.docx
+/Volumes/pn-opus/Seedlings/Working_Files/10_12/Video/10_12_Video_Coding_Issues.docx
+/Volumes/pn-opus/Seedlings/Working_Files/10_12/Video/10_12_coderSK_final.opf
+/Volumes/pn-opus/Seedlings/Working_Files/10_12/Video/10_12_coderSK_final_personal_info_processed.csv
+/Volumes/pn-opus/Seedlings/Working_Files/11_12/.DS_Store
+/Volumes/pn-opus/Seedlings/Working_Files/11_12/audio/11_12.wav
+/Volumes/pn-opus/Seedlings/Working_Files/11_12/audio/11_12_sparse_code.cha
+/Volumes/pn-opus/Seedlings/Working_Files/11_12/audio/11_12_Audio_Coding_Issues.docx
+/Volumes/pn-opus/Seedlings/Working_Files/11_12/video/11_12_coderTE_final.opf
+/Volumes/pn-opus/Seedlings/Working_Files/11_12/video/.DS_Store
+/Volumes/pn-opus/Seedlings/Working_Files/11_12/video/11_12_coderTE_final_processed.csv
+/Volumes/pn-opus/Seedlings/Working_Files/11_12/video/11_12_video_wordmerged.csv
+/Volumes/pn-opus/Seedlings/Working_Files/11_12/video/11_12_Video_Coding_Issues.docx
+/Volumes/pn-opus/Seedlings/Working_Files/11_12/video/error/11_12_video_log.csv
+/Volumes/pn-opus/Seedlings/Working_Files/15_12/.DS_Store
+/Volumes/pn-opus/Seedlings/Working_Files/15_12/Audio/15_12_sparse_code.cha
+/Volumes/pn-opus/Seedlings/Working_Files/15_12/Audio/15_12_sparse_code.cha.bak
+/Volumes/pn-opus/Seedlings/Working_Files/15_12/Audio/15_12.wav
+/Volumes/pn-opus/Seedlings/Working_Files/15_12/Audio/15_12_Audio_Coding_Issues.docx
+/Volumes/pn-opus/Seedlings/Working_Files/01_12/01 Speaker Codes_final.docx
+/Volumes/pn-opus/Seedlings/Working_Files/01_12/01_notes_and_cast_of_characters.doc
+/Volumes/pn-opus/Seedlings/Working_Files/01_12/Thumbs.db
+/Volumes/pn-opus/Seedlings/Working_Files/01_12/audio/01_12_sparse_code_errors.txt
+/Volumes/pn-opus/Seedlings/Working_Files/01_12/audio/01_12_sparse_code.cha
+/Volumes/pn-opus/Seedlings/Working_Files/01_12/audio/01_12_audio_wordmerged.csv
+/Volumes/pn-opus/Seedlings/Working_Files/01_12/audio/01_12.wav
+/Volumes/pn-opus/Seedlings/Working_Files/01_12/audio/01_12_sparse_code_processed.csv
+/Volumes/pn-opus/Seedlings/Working_Files/01_12/audio/01_12_sparse_code.cha.bak
+/Volumes/pn-opus/Seedlings/Working_Files/01_12/audio/01_12_audio_coding_issues.docx
+/Volumes/pn-opus/Seedlings/Working_Files/01_12/audio/error/01_12_audio_log.csv
+/Volumes/pn-opus/Seedlings/Working_Files/01_12/video/01_12_video_wordmerged.csv
+/Volumes/pn-opus/Seedlings/Working_Files/01_12/video/01_12_processed.csv
+/Volumes/pn-opus/Seedlings/Working_Files/01_12/video/01_12_sparse_code.opf
+/Volumes/pn-opus/Seedlings/Working_Files/01_12/video/error/01_12_video_log.csv
+/Volumes/pn-opus/Seedlings/Working_Files/04 speaker code checks/04_16.wav
+/Volumes/pn-opus/Seedlings/Working_Files/04 speaker code checks/04_09_sparse_code.cha
+/Volumes/pn-opus/Seedlings/Working_Files/04 speaker code checks/04_16_Audio_Coding_Issues.docx
+/Volumes/pn-opus/Seedlings/Working_Files/04 speaker code checks/04 Speaker Codes.docx
+/Volumes/pn-opus/Seedlings/Working_Files/04 speaker code checks/04 Notes and Cast of Characters.docx
+/Volumes/pn-opus/Seedlings/Working_Files/04 speaker code checks/.DS_Store
+/Volumes/pn-opus/Seedlings/Working_Files/04 speaker code checks/04_11_sparse_code.cha
+/Volumes/pn-opus/Seedlings/Working_Files/04 speaker code checks/04_16_sparse_code.cha
+/Volumes/pn-opus/Seedlings/Working_Files/04 speaker code checks/04_09.wav
+/Volumes/pn-opus/Seedlings/Working_Files/04 speaker code checks/04_11.wav
+/Volumes/pn-opus/Seedlings/Working_Files/04 speaker code checks/04_11_Audio_Coding_Issues.docx
+/Volumes/pn-opus/Seedlings/Working_Files/04 speaker code checks/04_09_Audio_Coding_Issues2.docx
+/Volumes/pn-opus/Seedlings/Working_Files/14_12/.DS_Store
+/Volumes/pn-opus/Seedlings/Working_Files/14_12/video/14_12_video_sparse_code_processed.csv
+/Volumes/pn-opus/Seedlings/Working_Files/14_12/video/14_12_coderEB_final.opf
+/Volumes/pn-opus/Seedlings/Working_Files/14_12/video/14_12_video_wordmerged.csv
+/Volumes/pn-opus/Seedlings/Working_Files/14_12/video/error/14_12_video_log.csv
+/Volumes/pn-opus/Seedlings/Working_Files/Catherine/CDI_wordlist.csv
+/Volumes/pn-opus/Seedlings/Working_Files/Catherine/Cross-validation production study.docx
+/Volumes/pn-opus/Seedlings/Working_Files/Catherine/Demographics gathering.R
+/Volumes/pn-opus/Seedlings/Working_Files/Catherine/CDI_wordlist.xlsx
+/Volumes/pn-opus/Seedlings/Working_Files/Catherine/.DS_Store
+/Volumes/pn-opus/Seedlings/Working_Files/Catherine/merged_bl_cdi_new.csv
+/Volumes/pn-opus/Seedlings/Working_Files/Catherine/CDI_wordlist2.csv
+/Volumes/pn-opus/Seedlings/Working_Files/Catherine/CLAN/.DS_Store

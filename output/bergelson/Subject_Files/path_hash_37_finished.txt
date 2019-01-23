@@ -1,0 +1,100 @@
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Audio_Stims/can_shoe.wav, cfc3112c22e62a13
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Audio_Stims/do_bottle.wav, 50b06f23d17721a0
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Audio_Stims/where_monkey.wav, b70be25b900c1b5d
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Audio_Stims/can_blocks.wav, ea48b3291d13a00d
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Audio_Stims/look_elephant.wav, be75c10fa020d11d
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Audio_Stims/look_kitty.wav, ed3183ed056b76a6
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Audio_Stims/where_teddy.wav, 381aff2c1d95af7b
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Audio_Stims/do_phone.wav, ad75c84a03b88bc5
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/.DS_Store, be730ddfa43fc981
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Y17_Stimuli.xlsx, bcc14fb1d1db9292
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/DataSource0017.txt, 11af7c00c87fb4b5
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Image_Stims/block7.jpg, cf13ab3ad7abd931
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Image_Stims/book7.jpg, f75d49e7b5904a5d
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Image_Stims/cat.jpg, 67544af04158926e
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Image_Stims/sippycup2.jpg, fa449b98fea9dff2
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Image_Stims/truck23.jpg, a222ce59b2b70e87
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Image_Stims/book68.jpg, aafeeeb6e9134ece
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Image_Stims/block.jpg, ac37443839381b51
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Image_Stims/truck7.jpg, a4aae453c23077ab
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Image_Stims/ball.jpg, 12e06b1e19c4e8c7
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Image_Stims/headphones.jpg, ea7f9e3776705d0c
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Image_Stims/Thumbs.db, 21865ad9dd2def71
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Image_Stims/headphones2.jpg, 59a0e4cbff509a74
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Image_Stims/ball56.jpg, a4f7d3e8786afe04
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Image_Stims/brush.jpg, d82f630d79625563
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Image_Stims/cat15.jpg, 7679039f45bb31e6
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Image_Stims/brush5.jpg, 31300aa81788b2fc
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Image_Stims/sippycup.jpg, 04a451c8732c69f1
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Audio_Stims/where_book.wav, 2b5e2140ba7a73d8
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Audio_Stims/look_truck.wav, 40b146f00ff846b6
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Audio_Stims/where_cat.wav, 14e7d4b09e7f021a
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Audio_Stims/do_block.wav, 89af868d272136af
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Audio_Stims/can_sippycup.wav, 6e992fa28eacbf74
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Audio_Stims/do_headphones.wav, 88b5f3377d6f61fc
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Audio_Stims/look_brush.wav, 9d15b8843758881d
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y17/Audio_Stims/can_ball.wav, 694df3a867d9bafa
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/.DS_Store, 2e9f24f9128685c5
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/DataSource0005.txt, 90bfb1aaecb1055b
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Y05_Stimuli.xlsx, 5c86fae791ae1a7a
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Image_Stims/spoon_combined.jpg, 6bd22b1b2a8d48f0
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Image_Stims/blocks16.jpg, 730be819a06e80a5
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Image_Stims/shoe.jpg, 5cf4d23a88440bb2
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Image_Stims/stroller.jpg, 01e28b8a7bdb1249
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Image_Stims/book7.jpg, f75d49e7b5904a5d
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Image_Stims/puppy14.jpg, baaca9f186a4e12a
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Image_Stims/spoon14.jpg, 942590b15f7e7d4f
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Image_Stims/book63.jpg, 98561f33bad80cb0
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Image_Stims/shoe11.jpg, e89ee2873792290f
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Image_Stims/cow.jpg, a75d1eb502b4f0ce
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Image_Stims/blocks2.jpg, c5157d2c3b85107c
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Image_Stims/stroller_combined.jpg, 04d86283466cc04b
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Image_Stims/cow_combined.jpg, 29c8863d69348abb
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Image_Stims/Thumbs.db, 58cb4731f8287c0d
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Image_Stims/spoon.jpg, f85cd1f254950a58
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Image_Stims/highchair.jpg, 4c741fd7f200eb6e
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Image_Stims/shoe_combined.jpg, da54d4b1a8ec59ca
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Image_Stims/highchair3.jpg, d74bafcc71e91cd8
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Image_Stims/puppy_combined.jpg, 3db4b1e62a0e24d4
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Image_Stims/cow19.jpg, 1635e1a892591a38
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Image_Stims/stroller4.jpg, 0abce5bd89350d72
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Image_Stims/puppy3.jpg, 5b2f694bef19d8a1
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Image_Stims/highchair_combined.jpg, a8cd4529ff0da85e
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Audio_Stims/do_cow.wav, affea5e0e82c2935
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Audio_Stims/where_highchair.wav, b37bfd44789a9218
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Audio_Stims/look_spoon.wav, f88e17aabfa7eb6c
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Audio_Stims/where_shoe.wav, a52783f7b6e0c30b
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Audio_Stims/can_blocks.wav, ea48b3291d13a00d
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Audio_Stims/look_book.wav, 1448e50e3991579e
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Audio_Stims/do_puppy.wav, 04409aae5e84c94b
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05/Audio_Stims/can_stroller.wav, 1a23940c5c5ec9ba
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/EB_Y05_Stimuli.xlsx, 86ee903f4ab74a51
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/.DS_Store, e87e8840d1c4b813
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/DataSource0021.txt, cc1b3bee2ca01c37
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Image_Stims/blocks.jpg, 2db88122c4b593b9
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Image_Stims/Highchair5.jpg, c7fb788e9fa64058
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Image_Stims/Cow22.jpg, 7c619ac9e6f43dc7
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Image_Stims/.DS_Store, 3d217c89b81ac72e
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Image_Stims/book7.jpg, f75d49e7b5904a5d
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Image_Stims/cow.jpg, ef46db3751d8e999
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Image_Stims/puppy5.jpg, d925951f693976c5
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Image_Stims/Blocks18.jpg, 1d7089f94ff602a0
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Image_Stims/Shoe15.jpg, ec8f9ea650204115
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Image_Stims/Thumbs.db, 7e87d39ce14e32ce
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Image_Stims/Diaper12.jpg, 0b6809a6feebe53e
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Image_Stims/highchair.jpg, 4c741fd7f200eb6e
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Image_Stims/shoe3.jpg, e8eb5c59a17126f8
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Image_Stims/Book70.jpg, 16c359fcf5a78fe6
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Image_Stims/Puppy17.jpg, cbb58cd1be8daa38
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Image_Stims/bottle.jpg, 84971e8d9f2b2722
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Image_Stims/diaper.jpg, c05d65fcacd83d62
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Image_Stims/Bottle21.jpg, aae650d6d2cfe0aa
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Audio_Stims/can_puppy.wav, c707beccc8cdb6a3
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Audio_Stims/where_highchair.wav, b37bfd44789a9218
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Audio_Stims/can_cow.wav, ac03b12e126024ef
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Audio_Stims/where_bottle.wav, 0fabbb753d27fadb
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Audio_Stims/look_diaper.wav, 90330b5664f09645
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Audio_Stims/do_shoe.wav, 217b290344a7e58e
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Audio_Stims/do_book.wav, ef7bc52438daf733
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y05 copy_EB training/Audio_Stims/look_blocks.wav, 020877a19743147c
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Y36_Stimuli.xlsx, 6ae253a1378e92ce

@@ -1,0 +1,100 @@
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D068/PB_Recordings/REC012.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D068/PB_Recordings/REC007.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D068/PB_Recordings/REC009.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D068/PB_Recordings/REC030.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D068/PB_Recordings/REC034.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D068/PB_Recordings/REC027.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D068/PB_Recordings/REC028.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D068/PB_Recordings/REC015.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D068/PB_Recordings/REC006.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D068/PB_Recordings/REC048.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D068/PB_Recordings/REC032.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D068/PB_Recordings/REC035.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D068/PB_Recordings/REC023.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D068/PB_Recordings/REC041.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D068/PB_Recordings/REC018.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D068/PB_Recordings/REC033.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D068/PB_Recordings/REC020.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D068/PB_Recordings/REC014.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D068/PB_Recordings/REC045.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/.DS_Store
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Reading_LogRound1.xlsx
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/Thumbs.db
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC005.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC024.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC022.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC004.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC001.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC002.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC017.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC021.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC010.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC016.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC013.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC019.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC008.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC011.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC003.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC012.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC007.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC009.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC015.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC006.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC023.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC018.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC020.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D123/D123_PB_Recordings /REC014.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D069/D069_PB_Reading_Log.xlsx
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D069/.DS_Store
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D069/Thumbs.db
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D069/PB_Recordings/REC005.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D069/PB_Recordings/REC004.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D069/PB_Recordings/REC001.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D069/PB_Recordings/REC002.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D069/PB_Recordings/REC017.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D069/PB_Recordings/REC010.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D069/PB_Recordings/REC016.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D069/PB_Recordings/REC013.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D069/PB_Recordings/REC019.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D069/PB_Recordings/REC008.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D069/PB_Recordings/REC011.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D069/PB_Recordings/REC003.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D069/PB_Recordings/REC012.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D069/PB_Recordings/REC007.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D069/PB_Recordings/REC009.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D069/PB_Recordings/REC015.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D069/PB_Recordings/REC006.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D069/PB_Recordings/REC018.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D069/PB_Recordings/REC014.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/Thumbs.db
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/D070_PB_Reading_LogRound1.xlsx
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC005.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC024.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC022.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC004.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC001.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC025.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC002.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC017.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC026.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC021.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC010.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC016.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC013.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC019.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC008.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC011.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC003.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC012.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC007.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC009.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC015.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC006.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC023.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC018.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC020.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D070/PB_Recordings/REC014.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D082/D082_PB_Reading_Log.xlsx
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D082/Thumbs.db
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D082/PB_Recordings/REC005.WAV
+/Volumes/psych/BergelsonLab/Subject_Files/PictureBook/D082/PB_Recordings/REC004.WAV

@@ -1,0 +1,100 @@
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_18/In-Lab_Visit/Stimuli/Image_Stims/bell.jpg
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_18/In-Lab_Visit/Stimuli/Image_Stims/bunny8.jpg
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_18/In-Lab_Visit/Stimuli/Image_Stims/fire.jpg
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_18/In-Lab_Visit/Stimuli/Image_Stims/Thumbs.db
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_18/In-Lab_Visit/Stimuli/Image_Stims/triangle2.jpg
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_18/In-Lab_Visit/Stimuli/Audio_Stims/where_shoe.wav
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_18/In-Lab_Visit/Stimuli/Audio_Stims/where_triangle.wav
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_18/In-Lab_Visit/Stimuli/Audio_Stims/do_doggy.wav
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_18/In-Lab_Visit/Stimuli/Audio_Stims/can_bell.wav
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_18/In-Lab_Visit/Stimuli/Audio_Stims/look_ducky.wav
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_18/In-Lab_Visit/Stimuli/Audio_Stims/look_bunny.wav
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_18/In-Lab_Visit/Stimuli/Audio_Stims/can_fire.wav
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_18/In-Lab_Visit/Stimuli/Audio_Stims/do_kangaroo.wav
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/.DS_Store
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/.DS_Store
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Processing/.DS_Store
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Processing/Video_Files/32_15_combined.veg
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Processing/Video_Files/32_15_usbaudio1.WAV
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Processing/Video_Files/32_15_parent1.mp4.sfk
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Processing/Video_Files/32_15_combined.veg.bak
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Processing/Video_Files/32_15_down1.mp4.sfk
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Processing/Video_Files/32_15_main1.MTS
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Processing/Video_Files/32_15_down1.mp4
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Processing/Video_Files/32_15_video_scrubbed.mp4
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Processing/Video_Files/32_15_up1.mp4.sfk
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Processing/Video_Files/32_15_up1.mp4
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Processing/Video_Files/Thumbs.db
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Processing/Video_Files/32_15_main1.MTS.sfk
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Processing/Video_Files/32_15_video.mp4
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Processing/Video_Files/32_15_parent1.mp4
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Processing/Video_Files/32_15_usbaudio1.sfk
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Processing/Audio_Files/32_15.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Processing/Audio_Files/32_15_silences.txt
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Processing/Audio_Files/32_15_subregions.cha
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Processing/Audio_Files/32_15_lena5min.csv
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Processing/Audio_Files/32_15.lena.cha
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Processing/Audio_Files/32_15_silences_added.cha
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Processing/Audio_Files/32_15.wav
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Analysis/32_15_unique.txt
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Analysis/Audio_Analysis/32_15_audio_sparse_code.csv
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Analysis/Audio_Analysis/old_files/32_15_coderAR_audio_checkSD.xlsx
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Analysis/Audio_Analysis/old_files/Thumbs.db
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Analysis/Audio_Analysis/old_files/32_15_coderAR_audio_ready_for_check.csv
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Analysis/Audio_Analysis/old_files/32_15_audiocount.txt
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Analysis/Video_Analysis/32_15_video_sparse_code.csv
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Analysis/Video_Analysis/old_files/32_15_videocount.txt
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Analysis/Video_Analysis/old_files/32_15_coderSD_video_checkST.xlsx
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Analysis/Video_Analysis/old_files/Thumbs.db
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Analysis/Video_Analysis/old_files/32_15_coderSD_video_ready_for_check.csv
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Coding/Video_Transcription
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Coding/Audio_Transcription
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Coding/Video_Annotation/32_15_coderSD_final.opf
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Coding/Video_Annotation/32_15_coderSD_personal_info.csv
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Coding/Video_Annotation/32_15_Video_Coding_Issues.docx
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Coding/Video_Annotation/old_opfs
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Coding/Audio_Annotation/old_chas
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Coding/Audio_Annotation/32_15_subregsplice.csv
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Coding/Audio_Annotation/32_15_coderAR_final.cha
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_15/Home_Visit/Coding/Audio_Annotation/32_15_Audio_Coding_Issues.docx
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/family pictures/IMG_0070.jpg
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/family pictures/IMG_0063.jpg
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/family pictures/IMG_0069.jpg
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/family pictures/IMG_0055.jpg
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/family pictures/IMG_0059.jpg
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/family pictures/IMG_0064.jpg
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/family pictures/IMG_0052.jpg
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/family pictures/IMG_0058.jpg
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/family pictures/V__48F6.jpg
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/family pictures/Thumbs.db
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/family pictures/IMG_0056.jpg
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/family pictures/IMG_0051.jpg
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/family pictures/IMG_0060.jpg
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/family pictures/V__FBD6.jpg
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/family pictures/IMG_0066.jpg
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/family pictures/IMG_0053.jpg
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/family pictures/IMG_0054.jpg
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/family pictures/IMG_0057.jpg
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_13/.DS_Store
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_13/Home_Visit/.DS_Store
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_13/Home_Visit/Processing/.DS_Store
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_13/Home_Visit/Processing/Video_Files/32_13_combined.veg.bak
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_13/Home_Visit/Processing/Video_Files/32_13_usbaudio1.sfk
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_13/Home_Visit/Processing/Video_Files/32_13_main1.MTS
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_13/Home_Visit/Processing/Video_Files/32_13_down1.mp4
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_13/Home_Visit/Processing/Video_Files/32_13_video_scrubbed.mp4
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_13/Home_Visit/Processing/Video_Files/32_13_usbaudio1.WAV
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_13/Home_Visit/Processing/Video_Files/32_13_parent1.CHK
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_13/Home_Visit/Processing/Video_Files/32_13_video.mp4
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_13/Home_Visit/Processing/Video_Files/32_13_combined.veg
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_13/Home_Visit/Processing/Video_Files/32_13_main1.MTS.sfk
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_13/Home_Visit/Processing/Video_Files/Thumbs.db
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_13/Home_Visit/Processing/Video_Files/32_13_up1.mp4
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_13/Home_Visit/Processing/Video_Files/32_13_up1.mp4.sfk
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_13/Home_Visit/Processing/Video_Files/32_13_parent1.CHK.sfk
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_13/Home_Visit/Processing/Video_Files/32_13_down1.mp4.sfk
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_13/Home_Visit/Processing/Video_Files/corrupted/32_13_parent1.CHK
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_13/Home_Visit/Processing/Audio_Files/32_13_silences.txt
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_13/Home_Visit/Processing/Audio_Files/32_13_lena5min.csv
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_13/Home_Visit/Processing/Audio_Files/32_13_silences_added.cha
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/32_11-20-2014/32_13/Home_Visit/Processing/Audio_Files/32_13_coderJS_final_processed.csv

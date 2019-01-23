@@ -1,0 +1,100 @@
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/08_09_10_audio_rescrub/17_10_scrubbed.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/08_09_10_audio_rescrub/27_08_scrubbed.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/08_09_10_audio_rescrub/20_09_scrubbed.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/08_09_10_audio_rescrub/20_08_scrubbed.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/08_09_10_audio_rescrub/02_09_scrubbed.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/08_09_10_audio_rescrub/25_08_scrubbed.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/08_09_10_audio_rescrub/15_08_scrubbed.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/08_09_10_audio_rescrub/30_08_scrubbed.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/08_09_10_audio_rescrub/21_10_scrubbed.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/08_09_10_audio_rescrub/40_09_scrubbed.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/08_09_10_audio_rescrub/18_08_scrubbed.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/08_09_10_audio_rescrub/02_10_scrubbed.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/08_09_10_audio_rescrub/46_08_scrubbed.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/08_09_10_audio_rescrub/19_08_scrubbed.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/08_09_10_audio_rescrub/37_10_scrubbed.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/08_09_10_audio_rescrub/36_09_scrubbed.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/08_09_10_audio_rescrub/18_09_scrubbed.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/08_09_10_audio_rescrub/17_08_scrubbed.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/08_09_10_audio_rescrub/28_10_scrubbed.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/08_09_10_audio_rescrub/32_08_scrubbed.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/08_09_10_audio_rescrub/07_10_scrubbed.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/08_09_10_audio_rescrub/45_08_scrubbed.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/08_09_10_audio_rescrub/13_10_scrubbed.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/01_08.its, 6172c03aa6efa42f
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/03_08.lena.cha, d68eac831f5efb89
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/09_08.lena.cha, 3acce3b32ce60673
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/45_10.lena.cha, 7b614cbe59201725
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/27_09.lena.cha, c5c8ac4129e457a4
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/31_10.its, d1189d7e0d200c91
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/39_10.its, 1a3b607868a4dfca
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/28_09.its, 1e273d4c30d55a90
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/44_08.lena.cha, 4271aaf5095593c0
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/30_10.lena.cha, a6f862701a0d88e0
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/38_08.lena.cha, 45eb0023b20116cf
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/21_09.its, 7340c5bd91a60cf4
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/26_09.lena.cha, c286b90e596e0822
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/42_09.lena.cha, 1c0705d287bf4a12
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/03_09.lena.cha, cf5912e78d61efa6
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/46_10.its, a5f92bb5cd96fa0c
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/03_10.lena.cha, 831f20d30079cdd0
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/02_10.its, 3a523774e9d0d9b4
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/12_10.its, 0a69c35c24dcc1b3
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/27_08.lena.cha, 26f074e2f5aa2b7d
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/14_08.lena.cha, 24b24d68fb85fe66
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/21_09.lena.cha, e91927513794344e
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/20_08.lena.cha, 2da563c29f0aacc0
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/23_09.lena.cha, d50ba7778dc2b36e
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/23_09.its, d0ec5a793899bf75
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/06_10.lena.cha, 208efe72a2d3624e
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/46_10.lena.cha, 94c5b9024fd45680
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/43_10.its, 41c3e6fc9c6e3847
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/23_10.its, aa3d6f10e5ba0d40
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/07_08.lena.cha, e53d5e960511b418
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/30_09.lena.cha, 737a2bafd6b2d3bd
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/23_10.lena.cha, eb2f6d144778b541
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/46_08.its, d89e25d997141fcc
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/37_10.its, ed8543231073add3
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/01_10.lena.cha, eca2a5a591feac18
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/17_09.lena.cha, 0b8d1e3ea6ed8e93
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/29_08.its, f1bd0a6ec31dc61d
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/34_10.its, 1eda5038f067be13
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/41_10.lena.cha, f644f35448c83bcf
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/33_10.its, 5554f29db9610798
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/32_10.lena.cha, d8b1b8e2ded9a584
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/21_10.its, 190d8fbd7dc533a0
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/43_08.its, c4012c74524568cd
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/44_10.its, 07a46cebc25145a2
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/34_08.its, 9484749636ec239c
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/16_10.lena.cha, 643c6df421e217a5
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/42_08.lena.cha, 7dc9317647ee35dd
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/04_09.lena.cha, cd7ad382c5883b0d
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/36_08.its, f8274ec8bb7c4a4a
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/46_09.lena.cha, 8f78b212b389b1f9
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/17_08.lena.cha, 00e0ebc94ddbcab8
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/44_09.its, 32e42409b2ea417b
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/44_10.lena.cha, 1d91dbdf42160c80
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/19_08.lena.cha, fb02ab6ab17b0baf
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/29_08.lena.cha, b1b4727882ebbc10
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/14_10.lena.cha, 04f5c72d4d07a933
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/41_09.its, 15fad24e4e88af7d
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/31_08.its, e3ac3c46a2646ee3
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/33_10.lena.cha, 7af95dc2e1340ee3
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/29_09.lena.cha, 0b5d206dcccbafaa
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/26_08.its, d6e4a075a59c10cf
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/06_09.lena.cha, dfa193c2587a83fd
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/40_10.its, 3a31ba39d2bb8d5c
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/38_10.lena.cha, 1eb2361b8a631c18
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/27_10.its, 9886d3e2f1b29923
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/27_08.its, 6d3d8b12b044ca10
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/25_10.its, 37185b67acbadc4d
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/32_09.lena.cha, 8bc77815be6b7166
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/30_08.lena.cha, bea7676506dca45d
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/33_08.lena.cha, 1b35128714f9a8d6
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/40_10.lena.cha, bb8c94f2dbe6e8f7
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/43_09.lena.cha, ecabf13a5388766f
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/08_09.its, 30315c91590e5a9a
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/42_08.its, 2326e9b5b8e6c127
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/46_09.its, 8fcd0504ea0559e9
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/01_10.its, c65438032852c274
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio/8_9_10 copy_original_name2/13_10.lena.cha, e82a276ef953c36f

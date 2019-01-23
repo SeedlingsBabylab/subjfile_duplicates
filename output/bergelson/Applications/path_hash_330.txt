@@ -1,0 +1,100 @@
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMATemplateManagerWindowTitleBarView.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMATableOutlineStrokeInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMACollaboratorListEditModeViews.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TPMacBookmarkStyleChooserSheet.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TPMacPageNumberPopoverViewController.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TSDMacAnnotationPopover.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMAChartTrendlineInspectorPane.nib
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMACalloutInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TSTMacRowColumnStepperHUDViewController.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMAChartReferenceLinesInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMACustomFormatNumberFormatInitialView.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TPMacObjectPlacementInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMATextPaginationAndBreaksInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/PagesUndo.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TSCHDefaultDataStackedColumn.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TSTextUndo.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TPMacExportRTFOptionsAccessoryView.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMAChartLegendFillInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMAArrowInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TSDMacReplacePresetConfirmationSheetController.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMAChartReferenceLineSubSelectionInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMACustomFormatInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/DefaultDateTimeFormats.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMADocumentPassphraseRemoteChangeWindow.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TSCHDefaultDataScatter.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMATouchIDPreferencesView.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMATemplatePreferencesSheet.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TSDMacIAHUDWindow.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TPMacExportEPubOptionsAccessoryView.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TSCHDesignDefaultData3DArea.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TPMacGeneralPreferencesPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TSApplicationTouchBar.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TSTMacFormulaCellEditorWindow.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TSTextPlatform.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TSTMacStickyBitViewController.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMACloudSharingOptionsSheetView.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TPMacAnnotationBar.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMAMovieStartStopTimeInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMAStrokeBasicInspectorPaneController.nib
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMATextBorderInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TSCHDefaultDataMultiDataScatter.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMATableDirectionInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMAExportPDFAdvancedOptionsView.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMAChartCategoryAxisOptionsInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMAChartBubbleOptionsInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMATextListInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TSWPMacHyperlink.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMAChartPieLabelDistanceFromCenterInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMAOriginalSizeInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMAActivityLogEntryCellView.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TPMacFootnoteInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMAChartValueAxisOptionsInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMATextSpacingInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TSStyles.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/pl.lproj/TMAEmptyStylePickerInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Notebook Paper.sfctex.mipmaps/notebook_paper_yellow_grad-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Notebook Paper.sfctex.mipmaps/notebook_paper_purple_flat-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Notebook Paper.sfctex.mipmaps/notebook_paper_blue_grad-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Notebook Paper.sfctex.mipmaps/notebook_paper_yellow_flat-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Notebook Paper.sfctex.mipmaps/notebook_paper_gray_flat-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Notebook Paper.sfctex.mipmaps/notebook_paper_green_grad-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Notebook Paper.sfctex.mipmaps/notebook_paper_red_flat-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Notebook Paper.sfctex.mipmaps/notebook_paper_purple_grad-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Notebook Paper.sfctex.mipmaps/notebook_paper_green_flat-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Notebook Paper.sfctex.mipmaps/notebook_paper_red_grad-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Notebook Paper.sfctex.mipmaps/notebook_paper_gray_grad-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Notebook Paper.sfctex.mipmaps/notebook_paper_blue_flat-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Wood.sfctex.mipmaps/Wood_BarF_grad_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Wood.sfctex.mipmaps/Wood_BarD_grad_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Wood.sfctex.mipmaps/Wood_BarD_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Wood.sfctex.mipmaps/Wood_BarF_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Wood.sfctex.mipmaps/Wood_BarB_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Wood.sfctex.mipmaps/Wood_BarC_grad_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Wood.sfctex.mipmaps/Wood_BarE_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Wood.sfctex.mipmaps/Wood_BarB_grad_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Wood.sfctex.mipmaps/Wood_BarA_grad_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Wood.sfctex.mipmaps/Wood_BarE_grad_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Wood.sfctex.mipmaps/Wood_BarA_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Wood.sfctex.mipmaps/Wood_BarC_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Brushed Metal.sfctex.mipmaps/nanodkBlue3_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Brushed Metal.sfctex.mipmaps/Reflection_red_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Brushed Metal.sfctex.mipmaps/Reflection_blue_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Brushed Metal.sfctex.mipmaps/Reflection_dkblue_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Brushed Metal.sfctex.mipmaps/nanoGreen3_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Brushed Metal.sfctex.mipmaps/nanoOrange3_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Brushed Metal.sfctex.mipmaps/nanoWhite3_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Brushed Metal.sfctex.mipmaps/Reflection_green_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Brushed Metal.sfctex.mipmaps/nanoBlue3_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Brushed Metal.sfctex.mipmaps/Reflection_white_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Brushed Metal.sfctex.mipmaps/Reflection_orange_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Brushed Metal.sfctex.mipmaps/nanoRed3_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Exhibition.sfctex.mipmaps/watercolor_New_Tiled_Blue_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Exhibition.sfctex.mipmaps/watercolor__tiling_green_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Exhibition.sfctex.mipmaps/watercolor_New_Tiled_Green_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Exhibition.sfctex.mipmaps/watercolor_gradient_green_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Exhibition.sfctex.mipmaps/watercolor_New_Tiled_Teal_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Exhibition.sfctex.mipmaps/watercolor__tiling_blue_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Exhibition.sfctex.mipmaps/watercolor__tiling_teal_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Exhibition.sfctex.mipmaps/watercolor_New_Tiled_Purple_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Exhibition.sfctex.mipmaps/watercolor__tiling_red_mipmaps.plist

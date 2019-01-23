@@ -1,0 +1,100 @@
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Orange Book.sfrframe/Contents/Resources/orangebook_thumbnail.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Orange Book.sfrframe/Contents/Resources/orangebook_ll.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Orange Book.sfrframe/Contents/Resources/index.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Orange Book.sfrframe/Contents/Resources/orangebook_left.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Orange Book.sfrframe/Contents/Resources/wellImage@2x.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Portfolio Paper.sfctex.lowres/portfolio_paper_purple_grad-Layer0Image_low_res.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Portfolio Paper.sfctex.lowres/portfolio_paper_green_grad-Layer0Image_low_res.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Portfolio Paper.sfctex.lowres/portfolio_paper_green_flat-Layer0Image_low_res.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Portfolio Paper.sfctex.lowres/portfolio_paper_blue_flat-Layer0Image_low_res.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Portfolio Paper.sfctex.lowres/portfolio_paper_red_grad-Layer0Image_low_res.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Portfolio Paper.sfctex.lowres/portfolio_paper_gray_grad-Layer0Image_low_res.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Portfolio Paper.sfctex.lowres/portfolio_paper_brown_grad-Layer0Image_low_res.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Portfolio Paper.sfctex.lowres/portfolio_paper_blue_grad-Layer0Image_low_res.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Portfolio Paper.sfctex.lowres/portfolio_paper_brown_flat-Layer0Image_low_res.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Portfolio Paper.sfctex.lowres/portfolio_paper_red_flat-Layer0Image_low_res.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Portfolio Paper.sfctex.lowres/portfolio_paper_purple_flat-Layer0Image_low_res.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Portfolio Paper.sfctex.lowres/portfolio_paper_gray_flat-Layer0Image_low_res.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Speckled Paper.sfctex/speckle_yellow.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Speckled Paper.sfctex/speckle_blue.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Speckled Paper.sfctex/speckle_orange.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Speckled Paper.sfctex/speckle_ltgray.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Speckled Paper.sfctex/speckle_red.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Speckled Paper.sfctex/speckle_gray.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Construction Paper.sfctex/dk_red2.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Construction Paper.sfctex/dark_gray2.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Construction Paper.sfctex/lt_gray2.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Construction Paper.sfctex/ltbrown2.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Construction Paper.sfctex/dk_blue2.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Construction Paper.sfctex/dkbrown2.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Watermark.sfctex/watermark_paper_blueDk_flat-Layer0Image.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Watermark.sfctex/watermark_paper_blueLt_grad.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Watermark.sfctex/watermark_paper_blueLt_grad-Layer0Image.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Watermark.sfctex/watermark_paper_brown_grad-Layer0Image.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Watermark.sfctex/watermark_paper_purple_grad.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Watermark.sfctex/watermark_paper_red_grad-Layer0Image.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Watermark.sfctex/watermark_paper_green_grad.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Watermark.sfctex/watermark_paper_brown_grad.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Watermark.sfctex/watermark_paper_blueDk_grad-Layer0Image.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Watermark.sfctex/watermark_paper_green_grad-Layer0Image.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Watermark.sfctex/watermark_paper_purple_grad-Layer0Image.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Watermark.sfctex/watermark_paper_red_grad.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAMovieLoopInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAGroupUngroupInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAStrokeInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMACellTextStyleInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TSCHDefaultDataColumn.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TSApplication.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAChartSharedValueLabelsCurrencyInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TSWPMacRubyTextViewController.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAChartSeriesDataSymbolInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAMoveToiCloudSheet.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/arguments.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAChartCategoryAxisLabelsInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TSWPMacEquationEditorChoiceView.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TSChartsTouchBar.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TPMacExportEPubAdvancedOptionsView.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAChartSeriesValueLabelsAxisInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TSDrawables.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAConditionalStyleMixedStateInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAChartSharedValueLabelsAccuracyInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAFunctionBrowserPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAConditionalStyleAddRulePane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TSTTableContextMenus.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TPMacBookmarkInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAExportPanel.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMATextBorderDisclosureInspectorPaneView.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMATableAlternatingRowColorInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAPositionInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TSCHDesignDefaultDataScatter.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TSWPMacSpellingContextMenu.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAStrokeBasicInspectorPaneController.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TSCHDefaultDataBubble.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMATextAlignmentInspector.nib
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TSWPMacEndNoteCitationPopoverView.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAWarningsInspectorPaneView.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMATextInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAAlignDistributeInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TSCHMacCDEWindow.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAChartFontInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TSApplication.stringsdict
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAExportProgressPanel.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAChartSeriesValueLabelsInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAChartSeriesPlotOnAxisInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TSAccessibility.stringsdict
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TPMacTextWrapInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMALocaleHUDWindow.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAChartSeriesFillInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/Pages.stringsdict
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAMovieControlsInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMACellMixedPopupInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMALineEndPointInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMACustomFormatDateTokenDelegate.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TPMacSectionInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAChartValueAxisGridlinesInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TSTMacStockSearchView.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAConditionalStyleRuleHeaderPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAChartReferenceLineInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMALockUnlockInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TSCHDefaultDataMixed.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/he.lproj/TMAPassphraseUI.nib

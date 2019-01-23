@@ -1,0 +1,100 @@
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Audio_Analysis/Old_Files/.DS_Store, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Audio_Analysis/Old_Files/01_06_unique2.txt, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Audio_Analysis/Old_Files/01_06_coderDL_audio_checkAS_old.csv, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Audio_Analysis/Old_Files/01_06_coderJH_audio_ready_for_check.csv, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Audio_Analysis/Old_Files/01_06_audiocount.txt, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Audio_Analysis/Old_Files/01_06_unique.txt, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Audio_Analysis/Old_Files/Thumbs.db, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Audio_Analysis/Old_Files/01_06_coderJH_audio_checkSD.xlsx, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Audio_Analysis/Old_Files/01_06_coderJH_audio_checkSD.csv, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Audio_Analysis/Old_Files/01_06_coderDL_audio_ready_for_check.csv, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Audio_Analysis/Old_Files/Extra files/01_06_stat.frq_coderVL.csv, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Audio_Analysis/Old_Files/Extra files/01_06_coderSK_audio_checkEB_oldformat.csv, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Audio_Analysis/Old_Files/Extra files/01_06_consensuscheckEB_VL.xlsx, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Audio_Analysis/Old_Files/Extra files/01_06_stat.frq_coderVL.xls, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Audio_Analysis/Old_Files/Extra files/01_06_coderSK_audio_checkEB.xlsx, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Audio_Analysis/Old_Files/Extra files/01_06_consensuscheckEB_SK.xlsx, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Audio_Analysis/Old_Files/Extra files/01_06_stat.frq_consensus_coderSK.csv, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Audio_Analysis/Old_Files/Extra files/Thumbs.db, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Video_Analysis/01_06_video_sparse_code.csv, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Video_Analysis/Old_Files/01_06_coderSD_video_checkSK.xlsx, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Video_Analysis/Old_Files/01_06_videocount.txt, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Video_Analysis/Old_Files/01_06_coderJS_video_checkST.xlsx, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Video_Analysis/Old_Files/01_06_coderJS_video_checkST.csv, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Video_Analysis/Old_Files/01_06_coderJS_video_ready_for_check.csv, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Video_Analysis/Old_Files/01_06_coderEB_video_checkEB_old.csv, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Analysis/Video_Analysis/Old_Files/01_06_coderSD_video_ready_for_check.csv, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/.DS_Store, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Transcription, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Transcription, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/01_06_Video_Coding_Issues.docx, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/.DS_Store, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Thumbs.db, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/01_06_sparse_code.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/old_opfs, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/01_06_coderEB.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/01_06_consensus_final.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/01_06_coderSK.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_coderSD_video_checkSK.xlsx, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_coderAM.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_consensusJH.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/maskregions.csv, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_consensusSD_final.csv, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_coderAS.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_consensusLN.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_consensus_copySA.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_consensusSD.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_checkAM.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_coderHW.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_consensus.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_coderSA.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_consensusAA.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_consensus_copyAS.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_coderAA.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_coderARcopy.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_coderTE.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_coderAR.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_coderDL.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_coderSD.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_coderSD_video_ready_for_check.csv, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_coderJH.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_checkTE.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_coderSK.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_consensus.EPopf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_consensusDL.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Video_Annotation/Old_Files/Training/01_06_coderEP.opf, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/.DS_Store, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/01_06_Long_Audio_Coding_Issues.docx, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/01_06_sparse_code.cha, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/01_06_sparse_code_processed.csv, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/old_chas/01_06_sparse_code_scrub.cha, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/01_06_newclan_merged_processed.csv, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/01_06_consensus_final.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/01_06_coderVL.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/01_06_coderSK.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/01_06_coderEB.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/01_06_newclan_merged.cha, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/01_06_Audio_Coding_Issues.docx, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/Training/01_06_differencesLN.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/Training/01_06_coderAM.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/Training/final_consensus.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/Training/01_06_coderAP.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/Training/01_06_coderSM.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/Training/01_06_coderLN.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/Training/01_06_consensusJH.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/Training/01_06_coderAR.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/Training/01_06_silences_added copy.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/Training/01_06_coderJH.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/Training/01_06_coderAS.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/Training/01_06.wav, Error
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/Training/01_06_consensus_chair.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/Training/01_06_consensusAR.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/Training/01_06_differencesAR.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/Training/01_06_coderTE.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/Training/01_06_coderAA.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/Training/01_06_coderDL.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/Training/01_06_coderSA.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/Training/01_06_coderHW.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/Training/01_06_differencesSA.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/Home_Visit/Coding/Audio_Annotation/Old_Files/Training/01_06_consensusAS.cex, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/Fake_Subject_Files/01_05-19-2014/01_06/In-Lab_Visit/Eyetracking, ef46db3751d8e999

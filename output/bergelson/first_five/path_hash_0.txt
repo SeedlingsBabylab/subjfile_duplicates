@@ -1,0 +1,8 @@
+/Volumes/psych/BergelsonLab/first_five/First_five_words_CDI.csv
+/Volumes/psych/BergelsonLab/first_five/.DS_Store
+/Volumes/psych/BergelsonLab/first_five/all_basiclevel.csv
+/Volumes/psych/BergelsonLab/first_five/wordbank_firstfive.csv
+/Volumes/psych/BergelsonLab/first_five/first_five_hg.R
+/Volumes/psych/BergelsonLab/first_five/first_five_by_sub.csv
+/Volumes/psych/BergelsonLab/first_five/.RData
+/Volumes/psych/BergelsonLab/first_five/.Rhistory

@@ -1,0 +1,100 @@
+/Volumes/pn-opus/Seedlings/Lab_Documentation/ParticipantTrackingSheetJune32017.xlsx, e13eaedb46e37241
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Directory_Flowchart.docx, c600d58b6a0d4bd5
+/Volumes/pn-opus/Seedlings/Lab_Documentation/.DS_Store, f1ad4b1c0051b155
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Audio_recordings_duration.csv, 2a7a7744aab7465f
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Computer_Inventory.xlsx, f57d0cece71db51d
+/Volumes/pn-opus/Seedlings/Lab_Documentation/~$Speaker_Codes_Checks.xlsx, 764a3a0e581b9a5a
+/Volumes/pn-opus/Seedlings/Lab_Documentation/~$Processing_Recording_Notes.xlsx, 2cecca0f8d683e39
+/Volumes/pn-opus/Seedlings/Lab_Documentation/~$Staff_Data_Cleaning.xlsx, 57d6e8fea98e8629
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Thumbs.db, 0137219012f21adc
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Protocol_11-2-2015-2.docx, cb1c4587477da876
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Equipment Dictionary.xlsx, d6f9b6c8604eb15d
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Weekly_Summary.xlsx, d0efe19206c7f565
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Weekly_InOut_Checklist.xlsx, cd137f823749d17d
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Crash Log Rochester.xlsx, a64a563e570b140e
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Email Archive Procedure.docx, 6b562f09575c1325
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Changes_Log.xlsx, 86b9a1424f81d170
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Fixing Speaker Codes Rules.docx, c75220332d11826f
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/.DS_Store, 20ce0df0e00dcf77
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Seedlings Work Log.xlsx, 3ce69c9b2431bd7a
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Thumbs.db, 812c1ad53d2886f3
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/RA computer comments.docx, 53c85282ab80299d
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/.DS_Store, fa9de421f7ed9335
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Fall 2015/The rest of November.xlsx, b70de9f3a5ca06b2
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Fall 2015/Tentative Fall 2015.xlsx, 09b9a6be42f5c384
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Fall 2015/December & January .xlsx, ecad03598a0f4468
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Fall 2015/Fall 2015 RA Schedule.xlsx, 5e700294ff578c49
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Fall 2015/RA's for the Fall.xlsx, 524c04cce11b225c
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Spring 2016/Spring 2016 Schedule.xlsx, d77b01a93a0c076a
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Spring 2016/Schedule 2-22 through 3-4.xlsx, b5e4c0f614a7d1e7
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Summer 2015/Lab Meeting 5-14.docx, 3f9712c31579d7ed
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Summer 2015/RA Schedule.xlsx, aac79f03eae1a763
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Summer 2015/July 6-July 17.xlsx, a0fb0fc2f9ea9da5
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Summer 2015/Last Week of Summer Semester.xlsx, f9595a81112a054a
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Summer 2015/July 13-July 24.xlsx, f3c71a4b94a8f2bb
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Summer 2015/May 25-June 5.xlsx, 73394f60d86c713a
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Summer 2015/July 20th-July 31st.xlsx, 4b826716d2fe09b5
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Summer 2015/May18-May29.xlsx, 85b64d378497c48b
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Summer 2015/August 17th -August 28th.xlsx, e267263b3e0696be
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Summer 2015/June 15-June 26.xlsx, 18a135b6da763730
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Summer 2015/beginning of summer.xlsx, a7dea417b57868fd
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Summer 2015/August 3-14.xlsx, bc421ee4e9b81f78
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Summer 2015/June 22-July 3.xlsx, bc8c51407f5ed3a4
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Summer 2015/August 9th-August 21st.xlsx, 6edf252525d9a281
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Summer 2015/July 27th-August 7th.xlsx, 323864a725292796
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Summer 2015/June 1-June 12.xlsx, 7d663cdd136a80a4
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Summer 2015/June 8-June 19.xlsx, 3778b59ee487f45d
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Summer 2015/June 29-July 10.xlsx, 5f20b02e98890f73
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Spring 2015/Week of 3-23-15.docx, 5eec10e694078a33
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Spring 2015/Week of 3-2-3-6.docx, e0aaba5fd940d4ce
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Spring 2015/Week of 4-20-15.docx, fad3d890751684eb
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Spring 2015/Week of 4-27.docx, 18f926951d627c89
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Spring 2015/Week of 5-4-15.docx, 2cfc7b45f657398b
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Spring 2015/Week of 4-6-15.docx, f13996d7bfbc7c99
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Spring 2015/Week of 3-16-15.docx, 08b0d2b0afb05d61
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Spring 2015/Week of 2-23-15.docx, 4954d4dad39d5db1
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Spring 2015/Week of 4-13-15.docx, fe56618351f8b929
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Spring 2015/Week of 3-30-15.docx, e11e3d5e89faf9e6
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Summer 2016/Summer 2016.xlsx, b88fdcd988bbb4ce
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Summer 2016/Cover%20letter%20for%20SEEDLingS%20.docx, 1a5f24ddadddd801
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/Schedules/Summer 2016/Thumbs.db, 2827b9a16c65ec28
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/RA Task Surveys/Seedlings RA Survey.docx, b6fe5102450cbb18
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/RA Task Surveys/Seedlings RA Survey Responses.docx, 733f8e35a887a106
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/RA Task Surveys/RA Task Ranks.xlsx, 9961302b72450a3a
+/Volumes/pn-opus/Seedlings/Lab_Documentation/RAs/RA Task Surveys/Thumbs.db, 84cabe463382b422
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/library_transfer.PNG, fcfc8b04adc584ae
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/testword.png, dfaee48b51e2522e
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/parse clan compare 2.PNG, 6e72659b0b01d99b
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/testword2.png, dfc6f36b070b6fef
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/compare_columns.png, 6e4f55cf56234940
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/02basiclevel.png, 44c6d5a9f7cf87a2
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/clan_checks.png, a78af719ccdea497
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/vid processing render.PNG, a4153bcd2590653c
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/anyconnect-icon.png, b35547ddbad9f92b
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/05basiclevel.png, bbb8767b137b72f9
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/compare_columns2.png, a7a0418a84c73a77
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/File_Loc_InfoGraphic.docx, 68177744c4ee44a7
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/compare_columns3.png, d1f986e9ac9b438f
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/parse clan compare.png, 28fdc30270bd99d8
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/parse clan compare 1.PNG, 6f32abc9a9589fd9
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/clancomments_output.png, 42165a5a0971852d
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/Thumbs.db, 727ffe963f6649a9
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/grau.PNG, b4cfac68c8befe81
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/compare_columns_successful.png, b5d7d1c8756b85ed
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/labeled_video_still.png, ef520f1e84a021df
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/vegas prop.PNG, b2b8373a39914964
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/runall.png, 328d70f63ac6fd31
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/compare_columns1.png, f2ed79c8ee6d81bb
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/datasource_transfer.PNG, 7a7f82a1f3722ab9
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/06basiclevel.png, ca7cedee8737fae7
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/PVT/export_data2.jpg, 6bddd42f29ab5f6b
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/PVT/warning.jpg, f37b75d0c76dba89
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/PVT/export_data1.jpg, c0aeb7de5dba9302
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/PVT/assessment.jpg, a097605ff51875b9
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/PVT/participant_info.jpg, e177d3e5aa1f66da
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/CLAN checks/caps_fixed.png, 18da3dbf35baf2e6
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/CLAN checks/success.png, 107302f6da1e4d1e
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/CLAN checks/tab_fixed.png, 8a50d350d6c3a04d
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/CLAN checks/skips_found.png, e47992147d5e6c34
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/CLAN checks/delimiter.png, 125687702b5c1c71
+/Volumes/pn-opus/Seedlings/Lab_Documentation/Wiki_Attachments/CLAN checks/parse_clan2_freq.png, d9915ac840492b3d

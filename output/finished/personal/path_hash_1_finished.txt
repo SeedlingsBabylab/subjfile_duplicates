@@ -1,0 +1,78 @@
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_15_ASL/27_15_transcription_SW.opf, d3345f78b0f1f5ca
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_15_ASL/27_15_coderSW_ASL_ready_for_check.xlsx, 166b19ff27c28f4d
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_15_ASL/27_15_coderSW_ASL.opf, 89b64998bd16cbf0
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_15_ASL/27_15_Video_Coding_Issues.docx, ae60ad763e080600
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_15_ASL/27_15_coderSW_ASL.csv, 4e907dd64b13af0a
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_15_ASL/27_15_coderSW_ASL_checkSD.xlsx, d45cbe76b4afb422
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_15_ASL/27_15_coderSW_ASL_checkSD.csv, 1d4ecd64c99e8b17
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_06_ASL/27_06_coderSW_ASL.csv, 7b95740f5bdb1d55
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_06_ASL/27_06_transcription_SW.opf, 4ed1debb003dbb85
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_06_ASL/27_06_coderSW_ASL_ready_for_check.xlsx, edafbf0b412193df
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_06_ASL/27_06_coderSW_ASL.opf, 6852c167d11f09d8
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_06_ASL/27_06_coderSW_ASL_checkSD.xlsx, 7c16c60e7839b88d
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_06_ASL/27_06_coderSW_ASL_checkSD.csv, c4636b0dd336733d
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_06_ASL/27_06_Video_Coding_Issues.docx, e9ac25068a251e96
+/Volumes/pn-opus/Seedlings/Personal/hgg/39_06_Trial7.mp4, 9ec6888ec673aa53
+/Volumes/pn-opus/Seedlings/Personal/hgg/22_06_Trial14.mp4, 270e65de49c5eebd
+/Volumes/pn-opus/Seedlings/Personal/hgg/39_06_Trial7again.mp4, 9ec6888ec673aa53
+/Volumes/pn-opus/Seedlings/Personal/hgg/27_06_Trial15.mp4, c06b549dda0081e5
+/Volumes/pn-opus/Seedlings/Personal/hgg/T7.m4v, 0a9d2f5b0b8fc497
+/Volumes/pn-opus/Seedlings/Personal/hgg/14_06_Trial7.mp4, eb95bf6991e18074
+/Volumes/pn-opus/Seedlings/Personal/hgg/20_06_Trial8.mp4, 5065590a8023b4f9
+/Volumes/pn-opus/Seedlings/Personal/hgg/30_06_Trial10.mp4, 4cbd7a47afba38c1
+/Volumes/pn-opus/Seedlings/Personal/hgg/27_06_Trial5.mp4, c9a2fc11f0b3b0e1
+/Volumes/pn-opus/Seedlings/Personal/hgg/39_06_Trial12.mp4, 5f2e34103156ae3b
+/Volumes/pn-opus/Seedlings/Personal/hgg/14_06_Trial20.mp4, 9d1604d2ce2bd08e
+/Volumes/pn-opus/Seedlings/Personal/hgg/11_06_Trial33.mp4, 0fc73037567fa6c8
+/Volumes/pn-opus/Seedlings/Personal/hgg/39_06_Trial15.mp4, 523ee38af237109d
+/Volumes/pn-opus/Seedlings/Personal/hgg/T12.mp4, 256a0d23fbed396c
+/Volumes/pn-opus/Seedlings/Personal/hgg/08_06_Trial6.mp4, 51bf8f67a1cbead9
+/Volumes/pn-opus/Seedlings/Personal/Josh/Thumbs.db, b295c4170d3fa915
+/Volumes/pn-opus/Seedlings/Personal/Josh/Methods_Writing/Methods_Writing_2015-04-15-JS.docx, e77b6932af966ebd
+/Volumes/pn-opus/Seedlings/Personal/Josh/Methods_Writing/Methods_Writing_2015-03-25-JS_editEB.docx, 8d46883a65b8465f
+/Volumes/pn-opus/Seedlings/Personal/Josh/Methods_Writing/Methods_Writing_2015-04-15-JS_editEB.docx, 266a882e5b2acf5e
+/Volumes/pn-opus/Seedlings/Personal/Josh/Methods_Writing/Thumbs.db, 1bb8ee63e66c3a08
+/Volumes/pn-opus/Seedlings/Personal/Josh/Methods_Writing/Methods_Writing_2015-03-23-JS.docx, eea7d8170af0debd
+/Volumes/pn-opus/Seedlings/Personal/Alex/readme.txt, 8330c49799be3551
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/Avg_CVC&Month_First_Word.png, 68e9c0c33c9220c8
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/graph2_without_bestfitline.png, 58a807e37a873d5f
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/CVC_Count_Total_Input_without6&7.png, a39a9593e014a39d
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/CVC_Count_Reading_Count.png, da1e3c90cedfb8d4
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/Total_Input&Month_First_Word.png, 2c6c7c2c2642ba78
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/months of first word.xlsx, 4bae0a0a375d38ac
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/CVC_Prouduction_Month.png, 345e39664c663c09
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/Number of Subjects-Month of Language Onset.png, 9e27a728960f964e
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/CVC compressed.csv, 271001fb0969bd7b
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/CVC_Count_Reading_Count_bysubject.png, f363df6367d50eba
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/important_r_script.R, 1bae41a8d43d52dd
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/CVC output.csv, 271001fb0969bd7b
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/graph5_without_bestfitline.png, 54e9e1ed5f51381c
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/Thumbs.db, c158a8ba4c7ff0a8
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/audio_counts_Sub01-16_Mon06-13.csv, 142b4bb5cee65a99
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/months of first word.csv, 8c967826f9d2f60d
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/audio_reading_counts.csv, b86c7d72a23762e4
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/CVC_Production_Month_bysubject.png, 302552cc174cbb7e
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/Time of first word.csv, a38c00023d226776
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/CVC_Count&Total_Input.png, a1b5d1dce38af03e
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/Word_Input_Month_without6&7.png, 78d7ae0fcaff60af
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/Word_Input_Month_bysubject_without6&7.png, bc313ecb734a3b2f
+/Volumes/pn-opus/Seedlings/Personal/Tessa/MotorTimestamps_TE.xlsx, 28cf1aabe21379c3
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Seedlings_CDI_Words_deidentified_Seedlings.csv, 0be889db342e39c0
+/Volumes/pn-opus/Seedlings/Personal/Tessa/.DS_Store, 6fe8e9454e944c97
+/Volumes/pn-opus/Seedlings/Personal/Tessa/readme.txt, 197072034068c35d
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Scripts/response_id.py, d37097b830d95d38
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Scripts/replicationgraphs.R, 9734b215ec44d1b2
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Scripts/walk_point.R, 93edfc90b61664c8
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Parent Surveys/Seedlings_CDI_Words_deidentified_Seedlings.csv, 8bac489491f5630e
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Parent Surveys/motor-diff-final.csv, 3b12457f16cc3866
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Parent Surveys/Seedlings_Motor_Survey_de-identified.csv, 2a4c82a486d4c3e4
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Parent Surveys/cdi-diff-final.xlsx, a1f58702730b5a22
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Data/ObservedWalk_CDI.csv, 370e6a2e67838db8
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Data/Prewalk_Input_First_WordWalk_Month.csv, 7c81ee07b7f48a57
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Data/ReportedWalk_CDI.csv, 50434ac8028e9630
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Data/all_basiclevel_home_data_3_16_16.txt, 61e3315b331f7e82
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Data/Reported_Observed_Walk_InDays.csv, fd9359300d4fc94e
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Data/pwt.csv, 160e8e928ae4b909
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Data/walk_point.csv, fde3afcadf3cfeb5
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Data/wallecampos.csv, 9b8bc88ea4db9e3e
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Data/CDI.csv, 537152cacad75573

@@ -1,0 +1,100 @@
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_14_402_9483.27_9484.39.wav, b0bad169fdd80624
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_09_524_18770.1_18770.7.wav, ed295a84a5a7289f
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_14_402_1617.13_1618.3.wav, abad61db8aba3a85
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_04_256_32125.77_32126.41.wav, 6eac05459ed67e7a
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_11_433_37442.7_37443.45.wav, 58cfc0596f4f6e92
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_08_371_14903.92_14904.52.wav, 3e1a86034fce53a8
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_26_221_21241.65_21242.62.wav, 1dcb02f024d2b52c
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_09_524_36248.43_36250.02.wav, 883494f6c4a0b50d
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_11_433_2508.18_2508.78.wav, f6ff20649dee4c0a
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_09_524_15652.11_15653.14.wav, c0a5091587c46935
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_28_310_42840.17_42840.77.wav, 3799a3c2ebb7cc11
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_36_214_27547.56_27549.49.wav, 6382e7726b5878dd
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_09_524_15355.03_15355.95.wav, 28655fb9515c4588
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_11_433_40130.41_40131.69.wav, 1f03e8fbbc617976
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_08_371_9541.76_9542.38.wav, 1be52a122ce6f641
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_11_433_20233.72_20234.46.wav, 414bfff2d8403b2f
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_08_371_12824.2_12824.82.wav, f45bd000dde5f729
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_26_221_18147.86_18149.12.wav, bf7954f0e5e07c5f
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_26_221_15832.71_15833.96.wav, ca34f6aaeb6f68ca
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_09_524_10380.8_10381.4.wav, 7e5196ef6738ee98
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_44_279_1923.33_1924.26.wav, 63e09f72229e38d0
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_43_461_32438.79_32439.96.wav, 2431585dc0c9fdc1
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_09_524_17592.62_17596.57.wav, 12326a9572dd8b86
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_36_214_3670.3_3671.62.wav, af733a9bd065cbd0
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_26_221_3280.64_3281.25.wav, 4430cffaeefee171
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_44_279_35773.28_35774.64.wav, b7c8484fe3cdd5df
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_43_461_16784.67_16785.55.wav, f31cfe1abf1eeb70
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_04_256_1445.1_1446.37.wav, 738b1f60b491e205
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_14_402_2712.9_2713.56.wav, 7223d834853c83bf
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_14_402_742.82_743.42.wav, 3add43da0657c717
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_08_371_33512.32_33513.3.wav, 0b07f0fc5109c180
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_08_371_28888.04_28889.09.wav, 430ccd68ac821de9
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_26_221_17331.65_17335.33.wav, cd1c28074fe8e42d
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_36_214_31599.94_31601.04.wav, ce246f28308c99ba
+/Volumes/pn-opus/Seedlings/ACLEW/aclew_babble_corpus/output/Seedlings_28_310_2782.0_2782.68.wav, eb92c367ba339ab4
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/.DS_Store, 86f3993f1fa5e20b
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/9909.wav, 522aebb33cd63d50
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/5271.wav, acc35bd4b96d8245
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/7030.wav, 2f075df9f739a523
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-Round-3_CR.pfsx, d4e1b14c3be9086d
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/7030-Round-1_CR.pfsx, ff9180a492c8b843
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/7030-Round-1_CR.txt, bb80d7a2bc012c45
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-Round-2_CR.txt, 809969b18024b4e9
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/7030-Round-3_CR.txt, d24ff9d787a4e72e
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/9909-Round-1_CR.pfsx, d831a26c61d6e3be
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-Round-3_CR.eaf, 874d50b0b9453b7f
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-Round-5_CR.pfsx, 31d43b95b21202b8
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/7030-Round-1_CR.eaf, 23bb5e9bb5dea02c
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/9909-Round-2_CR.txt, c1c6366c079f572b
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-1.JPG, 4dc6c4ba06f0a74b
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-Round-1_CR.pfsx, cd4d81ea3f3c6deb
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-Round-2_CR.pfsx, fc805857699dae22
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-Round-2_CR.eaf.001, fe5137ae7504a52d
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/9909-Round-3_CR.eaf, 4a21eb99be89fd42
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/9909-Round-2_CR.pfsx, ef31cb5cedb78006
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/9909-Round-2_CR.eaf, 5f500c126c20465e
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/7030-Round-3_CR.eaf, 7c3e5bf75fa8bd07
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/9909-Round-3_CR.pfsx, 242ab40c7ee03bdf
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-Round-4_CR.pfsx, 82b1e316ad32a021
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-Round-2_CR.eaf, 8989e231e35e7def
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/7030-Round-2_CR.pfsx, 192e5b36d5a53394
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-2.JPG, 67fb16cae9e90475
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/7030-Round-2_CR.txt, 5fc19494b27bc634
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-Round-3_CR.eaf.001, 0071c5ecfb2ec8e2
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-Round-5_CR.eaf, b846f13c244a59a2
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-Round-5_CR.txt, 2e714b5a81a69bcf
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/Thumbs.db, 5ce968320f21a359
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-Round-1_CR.txt, 79a7648923586568
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-Round-4_CR.eaf.001, 381e8a93b9ddbcfb
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-Round-4_CR.txt, b84b583cf01a49db
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/7030-Round-3_CR.pfsx, 2a5398451529f68c
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-Round-4_CR.eaf, d6bbd19663e7b681
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-Round-3_CR.txt, e6f997deacb5d7b6
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-Round-1_CR.eaf, 89642d760c59ea72
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/7030-Round-2_CR.eaf, cd357f405f970d04
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/9909-Round-1_CR.txt, 32e91ba003855d88
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-Round-5_CR.eaf.001, 122740e5f62b5625
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-5.JPG, a82ee2407d772788
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/9909-Round-1_CR.eaf, 04b9e4348c512052
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-3.JPG, 6770511b7d45f722
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/CR training/5271-4.JPG, 16946761a231cbd3
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/HH training/.DS_Store, c626025a301fce9d
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/HH training/8-18 months /9909-Round-2-HH.eaf.001, d7b3cc46491478ef
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/HH training/8-18 months /9909-Round-1-HH.eaf.001, 26ef3c7132279b50
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/HH training/8-18 months /.DS_Store, 3d217c89b81ac72e
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/HH training/8-18 months /9909-Round-1-HH.pfsx, dd549a03d71620f1
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/HH training/8-18 months /9909-Round-3-HH.eaf, 946b8476edc969ef
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/HH training/8-18 months /9909-Round-2-HH.pfsx, 026d5a6be721344e
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/HH training/8-18 months /9909-Round-1-HH.eaf, 921483fdc7a9ee21
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/HH training/8-18 months /9909-Round-3-HH.pfsx, d052990dcd62ffd3
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/HH training/8-18 months /5271-Round 2-HH.pfsx, 20d5c3679baeb312
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/HH training/8-18 months /9909-Round-2-HH.eaf, d629eeb8e6183c0f
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/HH training/8-18 months /9909-Round-3-HH.eaf.001, 58a2ad94d3d54d13
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/HH training/0-7 months /7030-Round-1-HH.eaf.001, c404336dcb46892c
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/HH training/0-7 months /.DS_Store, 3d217c89b81ac72e
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/HH training/0-7 months /7030-Round-1-HH.pfsx, fdf48a4712f9d0c9
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/HH training/0-7 months /7030-Round-2-HH.eaf, 647847ce43666ed2
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/HH training/0-7 months /7030-Round-3-HH.eaf.001, 832981123df8ba39
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/HH training/0-7 months /7030-Round-3-HH.eaf, 4c3d92ca2c18c36a
+/Volumes/pn-opus/Seedlings/ACLEW/Spanish Training Rounds/HH training/0-7 months /7030-Round-3-HH.pfsx, 7a4a7fdb84962157

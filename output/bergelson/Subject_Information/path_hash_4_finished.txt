@@ -1,0 +1,47 @@
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research Data%3dredacted 16.docx, 4468d22865663975
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/IS-Final-Transition Assessment-June2018-Sent.docx, 4edd2f82d91c4151
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research Data-Redacted %285%29.docx, 276aaf063a29999c
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/CDIdemographs/grid_arrange_demo.R, d1e7836b87583f1f
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/CDIdemographs/geom_smooth_demo.R, 75ce3b6134e1e910
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/CDIdemographs/best_attempt_demo.R, 0a9266d6d2901c11
+/Volumes/psych/BergelsonLab/Subject_Information/Questionnaires/CDI_sample_export_11-02-16.csv, de7f8de65aa72099
+/Volumes/psych/BergelsonLab/Subject_Information/Questionnaires/EMQ_Backup_06-14-2017.csv, 48a7ce5ff03273cd
+/Volumes/psych/BergelsonLab/Subject_Information/Questionnaires/CDI_Backup_06-14-2017.csv, beef30e1c196f059
+/Volumes/psych/BergelsonLab/Subject_Information/Questionnaires/EMQ_sample_export_11-02-16.csv, 2c6946f4c6ccf60d
+/Volumes/psych/BergelsonLab/Subject_Information/CDI_data_wrangling/CDI_data.csv, eef5cc842391d49d
+/Volumes/psych/BergelsonLab/Subject_Information/CDI_data_wrangling/webcdi_template_responses.csv, 8fd796e5fc3dea37
+/Volumes/psych/BergelsonLab/Subject_Information/CDI_data_wrangling/.DS_Store, be0d7fb233dd0137
+/Volumes/psych/BergelsonLab/Subject_Information/CDI_data_wrangling/Qualtrics_CDI_key.csv, 161e700260012d74
+/Volumes/psych/BergelsonLab/Subject_Information/CDI_data_wrangling/VNA_webcdi_format.csv, e4d604b785160082
+/Volumes/psych/BergelsonLab/Subject_Information/CDI_data_wrangling/CDI_June 15, 2018.csv, 031b5310a2ca080c
+/Volumes/psych/BergelsonLab/Subject_Information/CDI_data_wrangling/Thumbs.db, a3253666fc50c8ff
+/Volumes/psych/BergelsonLab/Subject_Information/CDI_data_wrangling/webcdi_exapmle_Duke SEEDLingS Control WG_data.csv, 06b8fd7a93d055c3
+/Volumes/psych/BergelsonLab/Subject_Information/CDI_data_wrangling/DSC CDI/DSC_CDI_webcdi_format.csv, 4463865a1d3b547e
+/Volumes/psych/BergelsonLab/Subject_Information/CDI_data_wrangling/DSC CDI/DSC CDI Data Notes.docx, 9ae4ef665b3a8ddd
+/Volumes/psych/BergelsonLab/Subject_Information/CDI_data_wrangling/CDI_R/CDI R checks.R, bbe99b74fcdc2d9b
+/Volumes/psych/BergelsonLab/Subject_Information/CDI_data_wrangling/CDI_R/DSC_CDI_data_webcdi_format.csv, 26cb4e4d7ba609af
+/Volumes/psych/BergelsonLab/Subject_Information/CDI_data_wrangling/CDI_R/vocabulary_norms_prod.csv, 55a7ca5ab9b3ad67
+/Volumes/psych/BergelsonLab/Subject_Information/CDI_data_wrangling/CDI_R/vocabulary_norms_comp.csv, b7f58255fe2c1f0d
+/Volumes/psych/BergelsonLab/Subject_Information/CDI_data_wrangling/CDI_R/item_data_comp.csv, 090ca454c66f5442
+/Volumes/psych/BergelsonLab/Subject_Information/CDI_data_wrangling/CDI_R/.Rapp.history, ef46db3751d8e999
+/Volumes/psych/BergelsonLab/Subject_Information/CDI_data_wrangling/CDI_R/item_data_prod.csv, 9b5ef30d68120037
+/Volumes/psych/BergelsonLab/Subject_Information/CDI_data_wrangling/CDI_R/.RData, e488143402ed5f45
+/Volumes/psych/BergelsonLab/Subject_Information/CDI_data_wrangling/CDI_R/.Rhistory, 948dc2630e0b932a
+/Volumes/psych/BergelsonLab/Subject_Information/CDI_data_wrangling/YM CDI/YM_CDI_webcdi_outputformat.csv, 9fc2c4faa133eee4
+/Volumes/psych/BergelsonLab/Subject_Information/CDI_data_wrangling/YM CDI/YM_CDI_webcdi_format.csv, f4a8bce4b53f8004
+/Volumes/psych/BergelsonLab/Subject_Information/CDI_data_wrangling/YM CDI/YM_CDI_web_inputformat.csv, 2bcd3d395969f35e
+/Volumes/psych/BergelsonLab/Subject_Information/HI_OSU/OSU BabyTalk Longitudinal Participants 2Nov2018.xlsx, ca214f47bd63794d
+/Volumes/psych/BergelsonLab/Subject_Information/HI_OSU/Normal Hearing Matching Guidelines.docx, f8aff402ffbd0307
+/Volumes/psych/BergelsonLab/Subject_Information/HI_OSU/NH Matches for HL Participants.xlsx, 95c43bb6c1e5b10c
+/Volumes/psych/BergelsonLab/Subject_Information/HI_OSU/OSU BabyTalk Longitudinal Participants 13Sept2018.xlsx, a96ebfc002bb373c
+/Volumes/psych/BergelsonLab/Subject_Information/HI_OSU/6 9 12 LENA Triplets.xlsx, 4755d1f9aae7c950
+/Volumes/psych/BergelsonLab/Subject_Information/HI_OSU/~$NH Matches for HL Participants.xlsx, d2987b26d10a6272
+/Volumes/psych/BergelsonLab/Subject_Information/HI_OSU/6 9 12 LENA Ages.xlsx, 2a26190068bd8192
+/Volumes/psych/BergelsonLab/Subject_Information/HI_OSU/Triplet Matches.xlsx, 3b1ea9fd88cb6415
+/Volumes/psych/BergelsonLab/Subject_Information/HI_OSU/LENA file for Duke 14Aug2018.xlsx, 55624d75491b5353
+/Volumes/psych/BergelsonLab/Subject_Information/HI_OSU/~$LENA file for Duke 14Aug2018.xlsx, d2987b26d10a6272
+/Volumes/psych/BergelsonLab/Subject_Information/HI_OSU/~$rmal Hearing Matching Guidelines.docx, 53a66ec620c4d97c
+/Volumes/psych/BergelsonLab/Subject_Information/HI_OSU/HL matches ALR.xlsx, 8db5f51c54f0bca3
+/Volumes/psych/BergelsonLab/Subject_Information/Participant_Tracking/Participant Tracking Sheets7-25-18.xlsx, 70373139ecb2deba
+/Volumes/psych/BergelsonLab/Subject_Information/Participant_Tracking/Participant Tracking Sheets10-4-18.xlsx, e1fb17fed736343b
+/Volumes/psych/BergelsonLab/Subject_Information/Participant_Tracking/Participant Tracking Sheets7-26-18.xlsx, 594bf1f7e6516bd1

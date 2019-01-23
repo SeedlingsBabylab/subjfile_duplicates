@@ -1,0 +1,100 @@
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Hardcover.sfctex.mipmaps/hardcover_paper_lime_grad-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-pl-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-it-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/pt_PT.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/fallback-YMD.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-fr-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-pt-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-de-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-en-YMD.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-hi-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-tr-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-he-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/fallback-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/fallback-DYM.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-es-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-sv-YMD.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-hr-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-th-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-en-MDY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-en-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-el-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-ro-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-nb-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-sk-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-cs-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/fallback-MDY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-nl-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-ja-YMD.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-ar-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-vi-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-fi-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-hu-YMD.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-zh-YMD.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-zh-Hant-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-uk-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-da-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-ca-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-zh-Hant-YMD.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/fallback-YDM.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/nl_BE.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-ko-YMD.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-ru-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-ar-YMD.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-fr-YMD.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-zh-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/fallback-MYD.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-id-DMY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DateTimeFormats/generic-es-MDY.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex.mipmaps/scrapbook_paper_black_flat-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex.mipmaps/scrapbook_paper_brown_flat-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex.mipmaps/scrapbook_paper_brown_grad-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex.mipmaps/scrapbook_paper_red_flat-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex.mipmaps/scrapbook_paper_green_flat-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex.mipmaps/scrapbook_paper_blue_flat-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex.mipmaps/scrapbook_paper_red_grad-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex.mipmaps/scrapbook_paper_blue_grad-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex.mipmaps/scrapbook_paper_orange_grad-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex.mipmaps/scrapbook_paper_black_grad-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex.mipmaps/scrapbook_paper_green_grad-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex.mipmaps/scrapbook_paper_orange_flat-Layer0Image_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Marble.sfctex/stone_marble_barF_grad_hi-Layer0Image.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Marble.sfctex/stone_marble_barA_grad_hi-Layer0Image.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Marble.sfctex/stone_marble_barC_flat_hi-Layer0Image.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Marble.sfctex/stone_marble_barE_flat_hi-Layer0Image.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Marble.sfctex/stone_marble_barD_grad_hi-Layer0Image.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Marble.sfctex/stone_marble_barC_grad_hi-Layer0Image.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Marble.sfctex/stone_marble_barB_flat_hi-Layer0Image.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Marble.sfctex/stone_marble_barD_flat_hi-Layer0Image.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Marble.sfctex/stone_marble_barB_grad_hi-Layer0Image.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Marble.sfctex/stone_marble_barF_flat_hi-Layer0Image.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Marble.sfctex/stone_marble_barA_flat_hi-Layer0Image.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Marble.sfctex/stone_marble_barE_grad_hi-Layer0Image.jpg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TMAMovieLoopInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TMAGroupUngroupInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TMAStrokeInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TMACellTextStyleInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TSCHDefaultDataColumn.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TSApplication.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TMAChartSharedValueLabelsCurrencyInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TSWPMacRubyTextViewController.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TMAChartSeriesDataSymbolInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/arguments.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TMAChartCategoryAxisLabelsInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TSWPMacEquationEditorChoiceView.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TSChartsTouchBar.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TPMacExportEPubAdvancedOptionsView.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TMAChartSeriesValueLabelsAxisInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TSDrawables.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TMAConditionalStyleMixedStateInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TMAChartSharedValueLabelsAccuracyInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TMAFunctionBrowserPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TMAConditionalStyleAddRulePane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TSTTableContextMenus.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TPMacBookmarkInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TMAExportPanel.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TMACellNumeralSystemInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TMATextBorderDisclosureInspectorPaneView.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TMATableAlternatingRowColorInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TMAPositionInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/id.lproj/TSCHDesignDefaultDataScatter.plist

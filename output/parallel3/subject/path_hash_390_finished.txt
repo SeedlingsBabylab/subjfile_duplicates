@@ -1,0 +1,100 @@
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_12/In-Lab_Visit/Stimuli/Image_Stims/eggs.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_12/In-Lab_Visit/Stimuli/Image_Stims/bear7.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_12/In-Lab_Visit/Stimuli/Image_Stims/phone.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_12/In-Lab_Visit/Stimuli/Image_Stims/jellyfish.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_12/In-Lab_Visit/Stimuli/Image_Stims/hand.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_12/In-Lab_Visit/Stimuli/Image_Stims/Thumbs.db, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_12/In-Lab_Visit/Stimuli/Image_Stims/dinosaur3.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_12/In-Lab_Visit/Stimuli/Image_Stims/cup12.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_12/In-Lab_Visit/Stimuli/Audio_Stims/can_bear.wav, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_12/In-Lab_Visit/Stimuli/Audio_Stims/where_cup.wav, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_12/In-Lab_Visit/Stimuli/Audio_Stims/do_hand.wav, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_12/In-Lab_Visit/Stimuli/Audio_Stims/look_jellyfish.wav, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_12/In-Lab_Visit/Stimuli/Audio_Stims/where_dinosaur.wav, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_12/In-Lab_Visit/Stimuli/Audio_Stims/can_playdoh.wav, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_12/In-Lab_Visit/Stimuli/Audio_Stims/look_eggs.wav, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_12/In-Lab_Visit/Stimuli/Audio_Stims/do_phone.wav, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/.DS_Store, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/.DS_Store, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Eyetracking/38_18_2etracking.mp4, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Eyetracking/38_18_etracking.mp4, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Eyetracking/38_18_production.mp4, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Eyetracking/DataSource3818.txt, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Eyetracking/38_18_production.MTS, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Eyetracking/Thumbs.db, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Eyetracking/38_18_2etracking.MTS, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Eyetracking/38_18_etracking.MTS, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Stimuli/38_18_stimuli.xlsx, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Stimuli/Image_Stims/airplane4.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Stimuli/Image_Stims/shoe.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Stimuli/Image_Stims/water24.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Stimuli/Image_Stims/coat.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Stimuli/Image_Stims/birdie3.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Stimuli/Image_Stims/scuttlebug.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Stimuli/Image_Stims/couch.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Stimuli/Image_Stims/Thumbs.db, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Stimuli/Image_Stims/money2.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Stimuli/Audio_Stims/do_airplane.wav, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Stimuli/Audio_Stims/where_shoe.wav, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Stimuli/Audio_Stims/look_coat.wav, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Stimuli/Audio_Stims/do_money.wav, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Stimuli/Audio_Stims/can_scuttlebug.wav, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Stimuli/Audio_Stims/can_water.wav, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Stimuli/Audio_Stims/where_couch.wav, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_18/In-Lab_Visit/Stimuli/Audio_Stims/look_birdie.wav, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/Toy pictures/IMG_0142.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/Toy pictures/IMG_0147.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/Toy pictures/IMG_0144.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/Toy pictures/IMG_1555.JPG, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/Toy pictures/IMG_0141.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/Toy pictures/IMG_0143.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/Toy pictures/IMG_0149.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/Toy pictures/IMG_0148.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/Toy pictures/IMG_1554.JPG, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/Toy pictures/IMG_1556.JPG, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/Toy pictures/IMG_0153.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/Toy pictures/IMG_0150.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/Toy pictures/IMG_0146.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/Toy pictures/IMG_0140.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/Toy pictures/IMG_0151.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/Toy pictures/IMG_1558.JPG, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/Toy pictures/IMG_1557.JPG, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/Toy pictures/IMG_0152.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/Toy pictures/IMG_0145.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/Toy pictures/IMG_0138.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/Toy pictures/IMG_0139.jpg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Processing/Video_Files/38_13_combined.veg, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Processing/Video_Files/38_13_video_scrubbed.mp4, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Processing/Video_Files/38_13_main1.MTS.sfk, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Processing/Video_Files/38_13_parent1.mp4.sfk, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Processing/Video_Files/38_13_video.mp4, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Processing/Video_Files/Thumbs.db, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Processing/Video_Files/38_13_combined.veg.bak, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Processing/Video_Files/38_13_main1.MTS, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Processing/Video_Files/38_13_usbaudio1.sfk, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Processing/Video_Files/38_13_parent1.mp4, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Processing/Video_Files/38_13_usbaudio1.WAV, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Processing/Audio_Files/38_13_silences_added.cha, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Processing/Audio_Files/38_13_lena5min.csv, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Processing/Audio_Files/38_13.wav, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Processing/Audio_Files/38_13.its, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Processing/Audio_Files/38_13_subregions.cha, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Processing/Audio_Files/38_13_silences.txt, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Processing/Audio_Files/38_13.lena.cha, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Analysis/38_13_unique.txt, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Analysis/Audio_Analysis/38_13_audio_sparse_code.csv, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Analysis/Audio_Analysis/old_files/38_13_coderSM_audio_ready_for_check.csv, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Analysis/Audio_Analysis/old_files/Thumbs.db, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Analysis/Audio_Analysis/old_files/38_13_audiocount.txt, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Analysis/Audio_Analysis/old_files/38_13_coderSM_audio_checkSD.xlsx, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Analysis/Video_Analysis/38_13_video_sparse_code.csv, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Analysis/Video_Analysis/old_files/38_13_coderJH_video_ready_for_check.csv, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Analysis/Video_Analysis/old_files/38_13_coderJH_video_checkSD.xlsx, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Analysis/Video_Analysis/old_files/Thumbs.db, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Analysis/Video_Analysis/old_files/38_13_videocount.txt, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Analysis/Video_Analysis/old_files/38_13_video_sparse_code_2018-01-26.csv, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Coding/Video_Annotation/38_13_coderJH_personal_info.csv, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Coding/Video_Annotation/Thumbs.db, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Coding/Video_Annotation/38_13_sparse_code.opf, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Coding/Video_Annotation/38_13_Video_Coding_Issues.docx, Error
+/Volumes/pn-opus/Seedlings/Subject_Files/38/38_13/Home_Visit/Coding/Video_Annotation/old_opfs/38_13_coderJH_final_2018-01-26.opf, Error

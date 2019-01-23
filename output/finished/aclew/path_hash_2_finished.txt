@@ -1,0 +1,100 @@
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_5-ND.eaf.001, f348e4dd8249c5d8
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_2-ND.txt, 3d3c7f1de4b37cb8
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_4-.eaf, 9d6183eecc6dfacd
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_5-.pfsx, 27e941ef3251735e
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_2-.eaf, a36c3d326659325a
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_4-ND.eaf.001, bf25e1e3bb90498a
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_2-.eaf.001, 706591c22cfdb07f
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_4-ND.eaf, 874fe177502e7c74
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_2-ND.eaf, 15bc1acb041fb3e3
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_3-ND.eaf.001, 84f97ef9c36e0816
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_1-.pfsx, acbf621155043527
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_5-ND.pfsx, 2e8d59ed0c56cd03
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_3-.pfsx, 0f1c30e2fcefcaa9
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_5-ND.eaf, be3927ebde938eee
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_3-.eaf, 91a591490775340d
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_4-ND.pfsx, 2a35f7abb748cd78
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_2-ND.pfsx, a4e7e14c8cc0c8ac
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_1-ND.eaf, c1c3fe5f95971af8
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_5-ND.txt, fc13e56bef053aae
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_1-ND.eaf.001, db491f9505c13b90
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_5-.eaf, c0b6745f4abbd531
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_3-ND.pfsx, 57c02aa64f956e01
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_1-ND.pfsx, af8e30edf69a2b4e
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_4-.pfsx, ba6f74a0aac8dafb
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/5959-GS_Training_Round_3-ND.eaf, 920f6a992842f1f1
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/Pass Report/ACLEW Annotation Scheme_ Gold Standard Test.pdf, bc4141775a954434
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/08-18/Pass Report/ACLEW Annotation Scheme_ Gold Standard Test19-36.pdf, d8b4eb7ddd7c6feb
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/19-36/VanDamFJ11-GS_Training_Round_2-.pfsx, c63465f48cc09789
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/19-36/VanDamFJ11-GS_Training_Round_3-ND.txt, 9eea94cabdaddef4
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/19-36/VanDamFJ11-GS_Training_Round_2-.eaf, 3927230c17f737b8
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/19-36/VanDamFJ11-GS_Training_Round_1-.eaf, 71462ff5b8a451f1
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/19-36/VanDamFJ11-GS_Training_Round_2-ND.eaf, e141757e5f75ce55
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/19-36/VanDamFJ11-GS_Training_Round_1-ND.eaf.001, 06b8fcf421728dcb
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/19-36/VanDamFJ11-GS_Training_Round_3-.eaf, c1af673924f04760
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/19-36/VanDamFJ11-GS_Training_Round_2-ND.eaf.001, 965d5e334c215724
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/19-36/VanDamFJ11-GS_Training_Round_1-.pfsx, f2defa6e9e442138
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/19-36/VanDamFJ11-GS_Training_Round_2-ND.txt, 347c7788ee727e6f
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/19-36/VanDamFJ11-GS_Training_Round_1-ND.pfsx, eb71a6ef626b5717
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/19-36/VanDamFJ11-GS_Training_Round_1-ND.eaf, 1e73d7aea99bfeb3
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/19-36/VanDamFJ11-GS_Training_Round_1-ND.txt, 6f7eb724bc12f534
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/19-36/VanDamFJ11-GS_Training_Round_3-.pfsx, 550ad7312655e087
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/19-36/VanDamFJ11-GS_Training_Round_3-ND.pfsx, 39666999e13b79b2
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/19-36/VanDamFJ11-GS_Training_Round_3-ND.eaf.001, b1481731c51ed621
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/19-36/VanDamFJ11-GS_Training_Round_3-ND.eaf, 5af30c2b378fbd3a
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_ND/19-36/VanDamFJ11-GS_Training_Round_2-ND.pfsx, 1d69baf717d0b97f
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/GS_Comparison_Files/VanFJ11-GS-Final.eaf, 1b25a3803ffae851
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/GS_Comparison_Files/VanFJ11-GS-Final.eaf.001, af23f4714f1fdf83
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/GS_Comparison_Files/5959-GS-Final.txt, ae1285bddd45a83a
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/GS_Comparison_Files/VanFJ11-GS-Final.elan.cha, 811dfbfdb2c868c6
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/GS_Comparison_Files/5959-GS-Final.elan.cha, 8654ca3cd5ddbbbd
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/GS_Comparison_Files/minCHATVan2.cha, a17eb6256631c16e
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/GS_Comparison_Files/5959-GS-Final.pfsx, 6386b0c8f730b0a3
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/GS_Comparison_Files/GSCHATVanFJ11.cha, a17eb6256631c16e
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/GS_Comparison_Files/2337-GS-Final.eaf, f43b941730215dda
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/GS_Comparison_Files/minCHATVan3.cha, dc1539548234023a
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/GS_Comparison_Files/5959-GS-Final.eaf, 5e506479876d4ad3
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/GS_Comparison_Files/2337-GS-Final.txt, ad7c488321de71a1
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/GS_Comparison_Files/2337-GS-Final.pfsx, c35848707b50e22c
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/GS_Comparison_Files/VanFJ11-GS-Final.txt, d2db74667cd57e1f
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/GS_Comparison_Files/manual_export_5959.cha, f867f00f1cc85122
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/GS_Comparison_Files/VanFJ11-GS-Final.pfsx, af99e0bd194bcffb
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/0396-HH-mediafileonly.pfsx, e67bc2fda055c002
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/.DS_Store, af3c4663b5c02a6d
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/test 0396.pfsx, 1d377be9c29aff7c
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/0396-HH-mediafileonly.eaf.001, 199d8d9f8dc5f1ec
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/0396-HH-mediafileonly.eaf, a018803fb22141d6
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/test 0396.eaf.001, b463c6469d017260
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/test 0396.eaf, ab2ded705928af46
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/.DS_Store, 2bd46110e90ccefa
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/Master files for transcription/2337 coder HH master file min 1-3.docx, 4e6664dc3500c354
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/Master files for transcription/VanDamFJ11 Master file minutes 1-5.docx, 6d61f24c70b68075
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/Master files for transcription/Thumbs.db, 219899429cd0f860
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/Master files for transcription/5959 master file minutes 1-2.docx, 40073c74c2e7e230
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/08-18/5959-GS_Training_Round_1-HH.txt, 00ab09093f1a6237
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/08-18/5959-GS_Training_Round_2-HH(final).txt, 1c934a21948250c8
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/08-18/5959-GS_Training_Round_2-HH.pfsx, 8b4dd023eedf71b0
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/08-18/5959-GS_Training_Round_2-HH.txt, 5db3c5475f9f2cda
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/08-18/Screen Shot 2018-01-12 at 10.08.50 AM.png, 46e14fb3cde402ca
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/08-18/5959-GS_Training_Round_2-HH.eaf, eecad7c88282a88e
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/0-7/2337-GS_Training _Round_3-HH.pfsx, e4a12d13c39d5f32
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/0-7/2337-GS_Training _Round_3-HH(final).txt, df4eea78a371f092
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/0-7/Screen Shot 2018-01-16 at 10.00.55 AM.png, 93cf8b2297589b67
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/0-7/2337-GS_Training _Round_1-HH2.txt, 8a04e9fe4e9dc17d
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/0-7/2337-GS_Training _Round_2-HH(2).txt, c9b47cab4a112e7a
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/0-7/2337-GS_Training _Round_3-HH.eaf, df0082e3adac5e3e
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/19-36/Screen Shot 2018-01-23 at 10.51.40 AM.png, 5cf07c865cd5f53e
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/19-36/VanDamFJ11-GS_Training_Round_2-HH(2).txt, b9ae43d7048a62f4
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/19-36/VanDamFJ11-GS_Training_Round_1-HH.txt, 423aec7a64be3f95
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/19-36/.DS_Store, 33543caf26091fb9
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/19-36/VanDamFJ11-GS_Training_Round_1-HH.eaf, c5f8dbd185e61f74
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/19-36/VanDamFJ11-GS_Training_Round_4-HH.txt, d8a83ca117d80e8f
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/19-36/VanDamFJ11-GS_Training_Round_5-HH(10).txt, cc7d8665c49f3870
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/19-36/VanDamFJ11-GS_Training_Round_5-HH.txt, 77658d9fe9d8accb
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/19-36/Thumbs.db, 87eb4eea91de56f1
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/19-36/VanDamFJ11-GS_Training_Round_3-HH(2).txt, 892cf023c2514d7b
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/coder_HH/Final Passed Files/19-36/VanDamFJ11-GS_Training_Round_1-HH.pfsx, 732b3708a0b1b8fe
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/ACLEW-basic-templates/ACLEW-basic-template_00-07mo.etf, bdd982d2f801797a
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/ACLEW-basic-templates/ACLEW-basic-template_08-18mo.pfsx, 4e856bb8fc3aa234
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/ACLEW-basic-templates/.DS_Store, 3d217c89b81ac72e
+/Volumes/pn-opus/Seedlings/ACLEW/ACLEW_Training_Files/ACLEW-basic-templates/ACLEW-basic-template_all-tiers.pfsx, 4e856bb8fc3aa234

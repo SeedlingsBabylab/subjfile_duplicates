@@ -1,0 +1,100 @@
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/CDI ID
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/CDI_last_download_ready_to_be_remerged.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/header_edits.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/CDI_headers.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Seedlings_CDI_Words_deidentified_Seedlings.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/.DS_Store
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/.smbdeleteAAA109d453a6
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/motor_merged_cleaned.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/CDI_headers.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/README.rtf
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Seedlings_Motor_Survey_de-identified.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Motor_headers.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/CDI ID_ Motor ID notes_Dec15.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/cdi_merged_cleaned.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/motor_locomotion_cleaned_OOD.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/CDI & Motor de-identified sets from May 2016/merged_cdi.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/CDI & Motor de-identified sets from May 2016/merged_motor.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Final_questionnaires/.DS_Store
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Final_questionnaires/Seedlings_CDI_Words_deidentified_May_2016.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Final_questionnaires/~$Questionnaire_Completion_Time_needs_to_be_merged_with_final_dataset.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Final_questionnaires/Seedlings_Motor_Survey_de-identified_May_2016.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Final_questionnaires/Motor_last_download_ready_to_be_merged_with_May_data_deidentified.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Final_questionnaires/CDI_last_download_ready_to_be_remerged_06-22-17.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Final_questionnaires/CDI_last_download_ready_to_be_merged_with_May_data_deidentified.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Final_questionnaires/Thumbs.db
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Final_questionnaires/CDI_last_download_ready_to_be_merged_headersfixed.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Final_questionnaires/.smbdeleteAAA1094d0fff
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Final_questionnaires/Contents of this Folder.docx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Final_questionnaires/Questionnaire_Completion_Time_needs_to_be_merged_with_final_dataset.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Final_questionnaires/final_merged/final_cdi_merged.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Final_questionnaires/final_merged/.DS_Store
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Final_questionnaires/final_merged/final_motor_merged.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/May_2016_de-identified_Questionnaires/Seedlings_CDI_Words_deidentified_Seedlings.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/May_2016_de-identified_Questionnaires/Seedlings_Motor_Survey_de-identified.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Re-exports in progress/.DS_Store
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Re-exports in progress/motor-diff-final.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Re-exports in progress/Seedlings_Motor_Survey-exported May 5_textversion.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Re-exports in progress/Seedlings-Vocabulary_CDI_Words__Gesture-exported May 5_textversion.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Re-exports in progress/cdi-diff-final.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Re-exports in progress/not using/Seedlings_Motor_Survey-exported May 3.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Re-exports in progress/not using/motor_diff.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Re-exports in progress/not using/Seedlings-Vocabulary_CDI_Words__Gesture-exported May 5.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/Re-exports in progress/not using/cdi_diff.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/August_2016_Download/Seedlings_Motor_Survey_final_download.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/August_2016_Download/Vocabulary_CDI_Words__Gestures_Seedlings_final_download_choicetext.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/August_2016_Download/Vocabulary_CDI_Words__Gestures_Seedlings_final_download_codedvalues.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/August_2016_Download/Motor_last_download_ready_to_be_merged_with_May_data.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Old_downloads_and_datasets/August_2016_Download/CDI_last_download_ready_to_be_merged_with_May_data.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Questionnaire_completion_dates/cdi_dates_with_notes.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Questionnaire_completion_dates/motor_dates_with_notes.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Questionnaire_completion_dates/cdi_and_motor_hard_copies.txt
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/SEEDLingS_lab_visit_info/Eyetracking_Order.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/SEEDLingS_lab_visit_info/Which_consent_form_was_used.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/SEEDLingS_lab_visit_info/Feeding_status.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/SEEDLingS_lab_visit_info/Vocab_Exposure.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/Student Mileage Form.xls
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/Adult Consent.pdf
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/RA-Lab Visit.docx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/Vocabulary Exposure.docx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/Non-Seedlings Child Consent.pdf
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/Parking Pass.pdf
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/Audio Video Release 2016.pdf
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/babblingfeeding.docx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/Blank_Motor_Questionnaire.pdf
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/Audio Video Release 2015.pdf
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/Protocol.docx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/Demographic Info.doc
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/Thumbs.db
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/Staff Mileage Form.pdf
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/Checklist for home visits.docx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/Home Sheet-Contact Info.docx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/Vocab Exposure (6 month).docx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/Binder Insert.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/MCDI.pdf
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/Motor Form.pdf
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/Mileage Reimbursement for Staff.xls
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/18-month visit/SeedlingsCertificate.psd
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/18-month visit/NEW Seedlings Consent Form.doc
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/18-month visit/SEEDLingS Exit Survey.docx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/18-month visit/M-CHAT-R_F.pdf
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/18-month visit/photo_video_consent (website).pdf
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/18-month visit/Thumbs.db
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/18-month visit/Personal Information for Families.docx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/All_Paperwork/18-month visit/EI Steps.jpg
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/ACLEW/SEEDLingS ACLEW.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Follow_up_data/.DS_Store
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Follow_up_data/MEFS_09-04-2018.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Follow_up_data/SEEDLings_Followup_ASQ_Score_report.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Follow_up_data/QUILS_09-04-2018.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Follow_up_data/SEEDLingS_childcare_responses_6to18mos.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Follow_up_data/SEEDLingS_Followup_Visit_Notes.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Follow_up_data/NIH_09-04-2018.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Follow_up_data/Exports/.DS_Store
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Follow_up_data/Exports/SEEDLings_Followup_ASQ_Score_report.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Follow_up_data/Exports/NIH_Toolbox/2018-05-22 11.56.38 Assessment Data.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Follow_up_data/Exports/NIH_Toolbox/2018-07-27 17.30.07 Assessment Data.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Follow_up_data/Exports/NIH_Toolbox/2018-07-27 17.30.07 Assessment Scores.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Follow_up_data/Exports/NIH_Toolbox/2018-02-17 14.58.10 Registration Data.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Follow_up_data/Exports/NIH_Toolbox/2018-04-08 17.35.48 Registration Data.csv
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Follow_up_data/Exports/NIH_Toolbox/2018-04-23 09.09.57 Assessment Scores.csv

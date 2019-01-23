@@ -1,0 +1,100 @@
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/Home_Visit/Coding/Audio_Annotation/old_chas/44_14_sparse_code_2018-10-29-11-2-21.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/Home_Visit/Coding/Audio_Annotation/old_chas/44_14_sparse_code_2018-12-20-11-20-12.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/Home_Visit/Coding/Audio_Annotation/old_chas/44_14_sparse_code_2018-10-22-16-47-17.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/Home_Visit/Coding/Audio_Annotation/old_chas/44_14_sparse_code_2018-12-20-15-11-55.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/Home_Visit/Coding/Audio_Annotation/old_chas/44_14_sparse_code_2018-07-12.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/Home_Visit/Coding/Audio_Annotation/old_chas/44_14_sparse_code_2018-10-29-14-55-50.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/.DS_Store
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Eyetracking/DataSource4414.txt
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Eyetracking/44_14_pbook.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Eyetracking/44_14_production.MTS
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Eyetracking/44_14_etracking.MTS
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Eyetracking/44_14_production.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Eyetracking/44_14_2pbook.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Eyetracking/Thumbs.db
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Eyetracking/44_14_etracking.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Eyetracking/44_14_2pbook.MTS
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Stimuli/44_14_stimuli.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Stimuli/Image_Stims/cheerios2.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Stimuli/Image_Stims/wonderpets.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Stimuli/Image_Stims/phone11.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Stimuli/Image_Stims/doggy.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Stimuli/Image_Stims/bunny8.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Stimuli/Image_Stims/hand.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Stimuli/Image_Stims/Thumbs.db
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Stimuli/Image_Stims/shirt4.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Stimuli/Image_Stims/tooth.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Stimuli/Audio_Stims/do_shirt.wav
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Stimuli/Audio_Stims/do_cheerios.wav
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Stimuli/Audio_Stims/where_doggy.wav
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Stimuli/Audio_Stims/can_phone.wav
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Stimuli/Audio_Stims/can_wonderpets.wav
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Stimuli/Audio_Stims/look_tooth.wav
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Stimuli/Audio_Stims/where_bunny.wav
+/Volumes/pn-opus/Seedlings/Subject_Files/44/44_14/In-Lab_Visit/Stimuli/Audio_Stims/look_hand.wav
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0202.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0182.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/car14.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/doggy16.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0175.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0201.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0176.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0186.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0177.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0183.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0180.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0187.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0198.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0197.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0199.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0195.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0194.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/baba4.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0191.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0181.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0196.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0192.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0200.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0189.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0178.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0184.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0185.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/44/Toy pictures/IMG_0190.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/.DS_Store
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/ETracking_Notes_Issues.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Pilots/P3_etracking.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Pilots/P8_etracking2.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Pilots/P3_etracking.MTS
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Pilots/P8_etracking1.MTS
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Pilots/Thumbs.db
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Pilots/P8_etracking2.MTS
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Pilots/P8_etracking1.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/semNS_02_etracking.MTS
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/NS_05_etracking.MTS
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/NS_11_etracking.MTS
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/semNS_02_etracking.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/NS_01_etracking.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/NS_11_etracking.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/NS_09_etracking.MTS
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/NS_05_etracking.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/NS_04_etracking.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/NS_08_etracking.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/NS_06_etracking.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/NS_09_etracking.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/NS_07_etracking.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/NS_03_etracking.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/Thumbs.db
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/semNS_01_etracking.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/semNS_01_etracking.MTS
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/NS_04_etracking.MTS
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/NS_06_etracking.MTS
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/NS_03_etracking.MTS
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/NS_12_etracking.MTS
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/NS_08_etracking.MTS
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/NS_10_etracking.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/NS_10_etracking.MTS
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/NS_01_etracking.MTS
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/NS_07_etracking.MTS
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Non-Seedlings/NS_12_etracking.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Completed/2015-05-14_JS check on 2016-07-08/1908.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/Eyetracking_Videos/Completed/2015-05-14_JS check on 2016-07-08/1908.MTS

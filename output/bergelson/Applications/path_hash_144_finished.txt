@@ -1,0 +1,100 @@
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TPMacDocumentInspector.strings, 85318e79b1363d74
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMATextSpacingDisclosureInspectorPaneView.strings, 6ceee7456fd1b26f
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TSCHDesignDefaultDataColumn.plist, be85b8a09a92f9ed
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMAConnectionLineInspector.strings, ebd45c5e6fc37ec7
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TPMacExportWordAdvancedOptionsView.strings, f4211ce602e44a5a
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMAPasswordRemoveView.strings, e2bfbf8bf9eddc48
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMAChartCategoryAxisGridlinesInspectorPane.strings, 1c054bcd41161d9c
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TSAccessibilityTouchBar.strings, 211836069bbfb43e
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TSTables.strings, 9049265a0aa1148a
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMATemplateManagerWindowTitleBarView.strings, e219a3d6d43d343d
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMAOpacityInspector.nib, f0affdbb49c0bedf
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMATableOutlineStrokeInspector.strings, f3adc5d742392fe7
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMACollaboratorListEditModeViews.strings, e8e940b81f7c2b0c
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TPMacBookmarkStyleChooserSheet.strings, 3972bd54453ddeec
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TPMacPageNumberPopoverViewController.strings, 74954435540d7ba6
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TSDMacAnnotationPopover.strings, 69ff4f3b80a8feaf
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMACalloutInspector.strings, b39a6a7ff8ecd0d9
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TSTMacRowColumnStepperHUDViewController.strings, d94066d608c0bd8c
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMAChartReferenceLinesInspectorPane.strings, 4311e076f0c4fac5
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMAPasswordChangeWindow.strings, 92c5aaccc09916a0
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMACustomFormatNumberFormatInitialView.strings, 0d3d5f18df8ef8e5
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TPMacObjectPlacementInspector.strings, 0e9991484dd55d1b
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMATextPaginationAndBreaksInspector.strings, 81fbcd09ca306875
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/PagesUndo.strings, dd4075fdddefed94
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TSCHDefaultDataStackedColumn.plist, 11c3087a3992805d
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TSTextUndo.strings, 18c61b01c373b269
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TPMacExportRTFOptionsAccessoryView.strings, bc6089a594143b99
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMAChartLegendFillInspectorPane.strings, f65a30d276ad05d8
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMAArrowInspector.strings, f250ae3520e8269d
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMAChartSharedValueLabelsAccuracyInspectorPane.nib, 3e7d755457e4b163
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TSDMacReplacePresetConfirmationSheetController.strings, dba11a5bed1c8952
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMAChartReferenceLineSubSelectionInspectorPane.strings, f919922f2a147e02
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMACustomFormatInspector.strings, fcde3de36f15f399
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/DefaultDateTimeFormats.plist, 7ae72b0eb7ddbaea
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMADocumentPassphraseRemoteChangeWindow.strings, 3f061c31d697dd1d
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TSCHDefaultDataScatter.plist, 2c85fa848d4fbb28
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMATouchIDPreferencesView.strings, 5ee5d3a244145d69
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMATemplatePreferencesSheet.strings, f9a90adcf0c1d192
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TSDMacIAHUDWindow.strings, 5fdb1e8fb919b09f
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TPMacExportEPubOptionsAccessoryView.strings, cad1183580c13264
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TSCHDesignDefaultData3DArea.plist, 92323989159e34b5
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TPMacGeneralPreferencesPane.strings, 5f055e058f76d426
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/MainMenu.nib, 47f0895ba9003c46
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TSApplicationTouchBar.strings, 95dea399a5d27917
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TSTMacFormulaCellEditorWindow.strings, 2d5d549e9d3749f1
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TSTextPlatform.strings, 46c03f5a05d25ede
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TSTMacStickyBitViewController.strings, 027bc49f2aeb89ee
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMACloudSharingOptionsSheetView.strings, 1d33348891a3fe25
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TPMacAnnotationBar.strings, 6aa0106d4de29c92
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMAMovieStartStopTimeInspector.strings, 667431acd1c50b06
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMATextBorderInspector.strings, e3fee3fa9ea2e5f7
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TSCHDefaultDataMultiDataScatter.plist, d20d6f0a69e7833a
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TSCHMacChartPresetSheet.nib, fc651d9f028c59e8
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMATableDirectionInspector.strings, 8012500ceb125040
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMAExportPDFAdvancedOptionsView.strings, fa681268c639e8ac
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMAChartCategoryAxisOptionsInspectorPane.strings, 05f0ed00b1950cf7
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMAChartBubbleOptionsInspectorPane.strings, f09ef7c21ada1b6b
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMATextListInspector.strings, f07554095c1f57fc
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMAPasswordInputView.strings, d198f19fcb2f2556
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TSWPMacHyperlink.strings, 79d5694c815976ce
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMAChartPieLabelDistanceFromCenterInspectorPane.strings, 85c8c5dac5951b31
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMAOriginalSizeInspector.strings, 65597251ee69710e
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMAActivityLogEntryCellView.strings, 3fc2354595b9d2c7
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMAPassphraseUI.strings, 32f2cff3516f13a1
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TPMacFootnoteInspector.strings, 47b0f69032af241c
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMAChartValueAxisOptionsInspectorPane.strings, 3db45b73346efe7e
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMATextSpacingInspector.strings, ad778cbef72b2250
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TSStyles.strings, 1d616ffcab6dffae
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/de.lproj/TMAEmptyStylePickerInspector.strings, 8a8bc349024170f6
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Blue.sfctex.mipmaps/white_mipmaps.plist, dceba8a21ca7f5c6
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex/scrapbook_paper_blue_grad-Layer0Image.jpg, 14a775b29669b7d7
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex/scrapbook_paper_green_grad-Layer0Image.jpg, 961e965aa271ff95
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex/scrapbook_paper_green_flat-Layer0Image.jpg, 4d8e665d3380d70c
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex/scrapbook_paper_orange_grad-Layer0Image.jpg, 416d359363484243
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex/scrapbook_paper_red_flat-Layer0Image.jpg, 86a4cb084f70213d
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex/scrapbook_paper_brown_grad-Layer0Image.jpg, 74baae03b56556ee
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex/scrapbook_paper_black_grad-Layer0Image.jpg, 98a9c81c3375a019
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex/scrapbook_paper_orange_flat-Layer0Image.jpg, 7e051e410647e700
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex/scrapbook_paper_blue_flat-Layer0Image.jpg, bca2a6e0ca2783ee
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex/scrapbook_paper_brown_flat-Layer0Image.jpg, 3741081e358e864a
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex/scrapbook_paper_red_grad-Layer0Image.jpg, 313a27f8f6261fb4
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex/scrapbook_paper_black_flat-Layer0Image.jpg, d2406a21e3c11362
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/NumberFormatterSymbols/it.plist, d88f94948372c97b
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/NumberFormatterSymbols/ar.plist, ded0c38f6b3da8ab
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/NumberFormatterSymbols/mg.plist, e0c6405c03b6d061
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/NumberFormatterSymbols/bg.plist, a83914106174436c
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/NumberFormatterSymbols/gu.plist, 8435ad86b943851b
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/NumberFormatterSymbols/kl.plist, 4c8aa4c86d67ba15
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/NumberFormatterSymbols/os.plist, 9e05bb111303cda7
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/NumberFormatterSymbols/lg.plist, fe16ad09ee49c6bf
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/NumberFormatterSymbols/vi.plist, b8f9d170af01cade
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/NumberFormatterSymbols/yo.plist, 23754b9bec50c37a
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/NumberFormatterSymbols/bn.plist, aa1275bdbe6fe80f
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/NumberFormatterSymbols/bo.plist, 21303fef6b00fdd4
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/NumberFormatterSymbols/ga.plist, a854d22410e7ef01
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/NumberFormatterSymbols/mn.plist, ea57c06750b08a6e
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/NumberFormatterSymbols/pt.plist, eb0175317e3c5936
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/NumberFormatterSymbols/kw.plist, 518342128601da7e
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/NumberFormatterSymbols/rn.plist, 9b2c57630f3b2d5c
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/NumberFormatterSymbols/uk.plist, 891d380c755d17d9

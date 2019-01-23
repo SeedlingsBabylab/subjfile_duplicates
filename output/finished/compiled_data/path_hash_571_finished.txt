@@ -1,0 +1,100 @@
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/12_14pb/39.trl, e7d4a9134eef4f35
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/12_14pb/17.trl, 296fa2f951dd8339
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/12_14pb/16.trl, 5a7c6520bf0bfe18
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/12_14pb/19.trl, a34d55c4ee94f467
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/12_14pb/37.trl, 04703732aa11bc18
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/12_14pb/22.trl, 8c65d014e631188a
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/12_14pb/12.trl, 22951500eefc4ce8
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/12_14pb/4.trl, 8186a7f47df83d67
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/12_14pb/21.trl, 96b6a898438f5799
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/12_14pb/6.trl, d3209bba1c0fc129
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/12_14pb/11.trl, cc06fd34c5023ee2
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/12_14pb/9.trl, 33555f30797da369
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/pb39_18/3.trl, 0f74b1b16b7318e8
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/pb39_18/7.trl, 05cc58b71373de4a
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/pb39_18/10.trl, f17b3452f9614c19
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/pb39_18/8.trl, 7a5ff6ef311ae25d
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/pb39_18/13.trl, 68123c3b39261f50
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/pb39_18/5.trl, d02160c2c5414901
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/pb39_18/2.trl, a8126f22867268db
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/pb39_18/1.trl, b299dcc3f7dbd186
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/pb39_18/pb39_18.ses, 2e44ac870af3b8ba
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/pb39_18/12.trl, f594f72274a9d012
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/pb39_18/4.trl, 9dc8dc30ff7921ae
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/pb39_18/6.trl, fe4624315646a287
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/pb39_18/11.trl, 438f2233e8621f44
+/Volumes/pn-opus/Seedlings/Compiled_Data/evs_fixrep_mesrep_res/seedlings_picturebook_7-26-2016.res/pb39_18/9.trl, 64ec79c37c02e4f2
+/Volumes/pn-opus/Seedlings/Compiled_Data/jsalt_PI_spreadsheets/jsalt_5m_audio_random_samples.xlsx, 629c7d9747b2d2bc
+/Volumes/pn-opus/Seedlings/Compiled_Data/jsalt_PI_spreadsheets/.DS_Store, 0911c7ba55cd6e2c
+/Volumes/pn-opus/Seedlings/Compiled_Data/jsalt_PI_spreadsheets/jsalt_5m_audio_high_density.xlsx, ceb8f2d80eb89c47
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basiclevel_home_data_07-19-17.csv, 596810d0c88245db
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/.DS_Store, 95eecd10506142b3
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basiclevel_home_data_agg_featherUSEME, e00840330715b747
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basiclevel_home_data_3_16_16.txt, 61e3315b331f7e82
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basiclevel_home_data_agg.txt, d1995ed1d63e963a
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basiclevel_home_data_featherUSEME, 09f9390e7af002b8
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basiclevel_home_data_OLDVERSION.txt, 7ceda813eed3efca
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/basiclevel_cleanup_audio/audio_cleanup.R, 2e76d70955c4657d
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/basiclevel_cleanup_audio/.DS_Store, 3d217c89b81ac72e
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/basiclevel_cleanup_audio/audio_cleanup_5-2-17.R, 73cc9ce119b6b74b
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/basiclevel_cleanup_audio/audio_counts_Sub01-16_Mon06-13.csv, 13038d3dfcda1395
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/basiclevel_cleanup_audio/.Rapp.history, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/basiclevel_cleanup_audio/.Rhistory, 4e12ddb1303f8501
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/exp word plots.zip, 4fd23536fe422712
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/experiment_words_agg.txt, 2ae919b9ca71a205
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/num_experimentwords_home_data_agg.txt, 2b3745a8eefe2327
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/all_basiclevel_home_data_agg.txt, aeb967c2eadd385b
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/Six-twelve-eighteen_audio_video_data_SD.html, 6779af8e9ecd31d1
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video.Rmd, c990fba97ee20f9e
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/all_basiclevel_home_data_5_04_16.txt, 0aae690f8b16ef37
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/Six-twelve-eighteen_audio_video_data_SD.Rmd, 8e6008676c00364d
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video.html, 14f6baa85559c214
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/.Rhistory, 69d792084f63f204
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_files/figure-html/unnamed-chunk-1-5.png, 006607c883f8c87d
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_files/figure-html/unnamed-chunk-1-6.png, cfe2062bc5c582f9
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_files/figure-html/unnamed-chunk-4-6.png, 0b434d5d0e43c5d4
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_files/figure-html/unnamed-chunk-1-4.png, 5e64051f2809857c
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_files/figure-html/unnamed-chunk-1-1.png, 03ee500e932caad6
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_files/figure-html/unnamed-chunk-4-1.png, f9fdc918d7cd26a1
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_files/figure-html/unnamed-chunk-4-2.png, 3d7ff0d4a94fe992
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_files/figure-html/unnamed-chunk-1-2.png, 106c9a49a71430e9
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_files/figure-html/unnamed-chunk-4-5.png, 917217c63010fece
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_files/figure-html/unnamed-chunk-4-3.png, c09f1b04650a15fe
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_files/figure-html/unnamed-chunk-1-7.png, e86f37db4992cdba
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_files/figure-html/unnamed-chunk-4-4.png, d7b8b49ddb7fee25
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_files/figure-html/unnamed-chunk-3-1.png, 3c64038c8b5b9e98
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_files/figure-html/unnamed-chunk-4-8.png, 80ed4f36391edf51
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_files/figure-html/unnamed-chunk-4-7.png, c3a88e4c9d097365
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_files/figure-html/unnamed-chunk-1-3.png, dc5a8b3825e8a992
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_files/figure-html/unnamed-chunk-3-2.png, b6cd9664669db41f
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_cache/html/unnamed-chunk-2_edc4f73b75051a052658ee01ff7c238d.RData, d302b5d01f32ce39
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_cache/html/unnamed-chunk-4_5baa25f80c0eb7397bda10ff6f04439c.rdx, 72b5860d04ce4e80
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_cache/html/unnamed-chunk-4_5baa25f80c0eb7397bda10ff6f04439c.RData, 9100cf84f252d805
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_cache/html/unnamed-chunk-3_e5ef144aa878bfb15309a36f14ae2e25.rdx, 96aa4b2baeca9bc1
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_cache/html/unnamed-chunk-4_5baa25f80c0eb7397bda10ff6f04439c.rdb, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_cache/html/unnamed-chunk-1_15f9db7b9c3e8eba05ea4368cee3c898.RData, 53e12e89f86f318f
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_cache/html/aggregation into all_basiclevel_home_data_441374658758ed9130aa4fb65553b83a.rdb, cfcf2dfe8e8834c8
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_cache/html/reading in the data_4cc3fd86458efb8a2c1e2af97cfa3411.rdb, c67da536105b2a1d
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_cache/html/unnamed-chunk-3_e5ef144aa878bfb15309a36f14ae2e25.rdb, 8a4cdeda5fdac400
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_cache/html/__packages, c1def2007870158e
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_cache/html/aggregation into all_basiclevel_home_data_441374658758ed9130aa4fb65553b83a.RData, 2c295dae2948f13e
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_cache/html/unnamed-chunk-1_15f9db7b9c3e8eba05ea4368cee3c898.rdb, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_cache/html/aggregation into all_basiclevel_home_data_441374658758ed9130aa4fb65553b83a.rdx, abf16ac26aa9b899
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_cache/html/reading in the data_4cc3fd86458efb8a2c1e2af97cfa3411.rdx, 7f004b62d0b03594
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_cache/html/unnamed-chunk-3_e5ef144aa878bfb15309a36f14ae2e25.RData, bbb78f385a2b5288
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_cache/html/unnamed-chunk-2_edc4f73b75051a052658ee01ff7c238d.rdx, 7e046fa8c8899da7
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_cache/html/unnamed-chunk-1_15f9db7b9c3e8eba05ea4368cee3c898.rdx, 72b5860d04ce4e80
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_cache/html/reading in the data_4cc3fd86458efb8a2c1e2af97cfa3411.RData, 48087b1b59e508ef
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/eight_nine_ten_audio_video_cache/html/unnamed-chunk-2_edc4f73b75051a052658ee01ff7c238d.rdb, 9005227064136b78
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/exp word plots/exp words types.pdf, 0033f5ec48317bb6
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/exp word plots/exp words numspeakers, no CHI.pdf, fc2191f7c2563599
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/exp word plots/exp words types, no CHI.pdf, 172afbded0ccd112
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/exp word plots/exp words tokens, no CHI.pdf, e98409c76dc3ff43
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/exp word plots/exp words tokens.pdf, c6a323497851995c
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/exp word plots/exp words by utterance type, no CHI.pdf, 07af680c04a053cd
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/exp word plots/exp words numspeakers.pdf, d9eb78ccce796e16
+/Volumes/pn-opus/Seedlings/Compiled_Data/basiclevels/all_basic_level_Rfiles_5-9-16/exp word plots/exp words by utterance type.pdf, 74b0beb1b0393b70
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonth_06_audiovideo_allwords.csv, 5c71ad058f725301
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/.DS_Store, a1e9ce88c7368fc3
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonth_home_inlab_summary.txt, d36da35887decde3
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonth_words_speakers_tokens_vid.csv, 7cca9a6df19f7964

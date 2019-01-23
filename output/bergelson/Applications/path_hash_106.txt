@@ -1,0 +1,100 @@
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Formal Shadow.sfrframe/Contents/Resources/FormalShadow_11.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Formal Shadow.sfrframe/Contents/Resources/Formal shadow@2x.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Formal Shadow.sfrframe/Contents/Resources/FormalShadow_06.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Formal Shadow.sfrframe/Contents/Resources/FormalShadow_03.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Formal Shadow.sfrframe/Contents/Resources/FormalShadow_12.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Formal Shadow.sfrframe/Contents/Resources/FormalShadow_02.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Formal Shadow.sfrframe/Contents/Resources/FormalShadow_10.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Formal Shadow.sfrframe/Contents/Resources/index.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Formal Shadow.sfrframe/Contents/Resources/FormalShadow_01.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Formal Shadow.sfrframe/Contents/Resources/wellImage@2x.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Formal Shadow.sfrframe/Contents/Resources/Formal shadow.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/White Corners.sfrframe/Contents/Resources/WhiteCorners_07.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/White Corners.sfrframe/Contents/Resources/wellImage.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/White Corners.sfrframe/Contents/Resources/WhiteCorners_04.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/White Corners.sfrframe/Contents/Resources/WhiteCorners_03.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/White Corners.sfrframe/Contents/Resources/WhiteCorners_08.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/White Corners.sfrframe/Contents/Resources/WhiteCorners_02.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/White Corners.sfrframe/Contents/Resources/WhiteCorners_01.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/White Corners.sfrframe/Contents/Resources/WhiteCorners_09.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/White Corners.sfrframe/Contents/Resources/index.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/White Corners.sfrframe/Contents/Resources/WhiteCorners_06.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/White Corners.sfrframe/Contents/Resources/wellImage@2x.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/White Corners.sfrframe/Contents/Resources/WhiteCorners.tif
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/White Corners.sfrframe/Contents/Resources/WhiteCorners@2x.tif
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Portfolio.sfrframe/Contents/Resources/Portfolio_Frame_01.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Portfolio.sfrframe/Contents/Resources/Portfolio_Frame_03.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Portfolio.sfrframe/Contents/Resources/Portfolio.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Portfolio.sfrframe/Contents/Resources/Portfolio_Frame_09.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Portfolio.sfrframe/Contents/Resources/wellImage.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Portfolio.sfrframe/Contents/Resources/Portfolio@2x.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Portfolio.sfrframe/Contents/Resources/Portfolio_Frame_04.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Portfolio.sfrframe/Contents/Resources/Portfolio_Frame_08.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Portfolio.sfrframe/Contents/Resources/Portfolio_Frame_07.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Portfolio.sfrframe/Contents/Resources/Portfolio_Frame_02.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Portfolio.sfrframe/Contents/Resources/Portfolio_Frame_06.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Portfolio.sfrframe/Contents/Resources/index.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Portfolio.sfrframe/Contents/Resources/wellImage@2x.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Creme Small.sfrframe/Contents/Resources/wellImage.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Creme Small.sfrframe/Contents/Resources/Creme_frame3_08.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Creme Small.sfrframe/Contents/Resources/Creme_frame3_04.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Creme Small.sfrframe/Contents/Resources/Creme_frame3_09.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Creme Small.sfrframe/Contents/Resources/Creme_frame3_03.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Creme Small.sfrframe/Contents/Resources/Creme_frame3_06.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Creme Small.sfrframe/Contents/Resources/Creme_frame3_07.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Creme Small.sfrframe/Contents/Resources/Creme Small.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Creme Small.sfrframe/Contents/Resources/Creme_frame3_01.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Creme Small.sfrframe/Contents/Resources/index.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Creme Small.sfrframe/Contents/Resources/Creme_frame3_02.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Creme Small.sfrframe/Contents/Resources/wellImage@2x.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Hardcover Burgundy.sfrframe/Contents/Resources/hardcover-burgundy_ur.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Hardcover Burgundy.sfrframe/Contents/Resources/hardcover-burgundy_thumbnail.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Hardcover Burgundy.sfrframe/Contents/Resources/wellImage.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Hardcover Burgundy.sfrframe/Contents/Resources/hardcover-burgundy_top.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Hardcover Burgundy.sfrframe/Contents/Resources/hardcover-burgundy_bottom.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Hardcover Burgundy.sfrframe/Contents/Resources/hardcover-burgundy_ul.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Hardcover Burgundy.sfrframe/Contents/Resources/hardcover-burgundy_left.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Hardcover Burgundy.sfrframe/Contents/Resources/hardcover-burgundy_ll.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Hardcover Burgundy.sfrframe/Contents/Resources/hardcover-burgundy_lr.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Hardcover Burgundy.sfrframe/Contents/Resources/index.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Hardcover Burgundy.sfrframe/Contents/Resources/wellImage@2x.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Hardcover Burgundy.sfrframe/Contents/Resources/hardcover-burgundy_right.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Roadtrip.sfrframe/Contents/Resources/Roadtrip_S_TAdornment.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Roadtrip.sfrframe/Contents/Resources/wellImage.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Roadtrip.sfrframe/Contents/Resources/Roadtrip_S_T.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Roadtrip.sfrframe/Contents/Resources/Roadtrip_S_B.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Roadtrip.sfrframe/Contents/Resources/Roadtrip_C_BR.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Roadtrip.sfrframe/Contents/Resources/Roadtrip_S_L.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Roadtrip.sfrframe/Contents/Resources/Roadtrip_S_R.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Roadtrip.sfrframe/Contents/Resources/index.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Roadtrip.sfrframe/Contents/Resources/Roadtrip_C_BL.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Roadtrip.sfrframe/Contents/Resources/Roadtrip_C_TL.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Roadtrip.sfrframe/Contents/Resources/Roadtrip_C_TR.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Roadtrip.sfrframe/Contents/Resources/wellImage@2x.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Venetian3.sfrframe/Contents/Resources/Venetian3_frame_09.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Venetian3.sfrframe/Contents/Resources/wellImage.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Venetian3.sfrframe/Contents/Resources/Venetian3_frame_08.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Venetian3.sfrframe/Contents/Resources/Venetian3_frame_02.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Venetian3.sfrframe/Contents/Resources/Venetian3_frame_04.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Venetian3.sfrframe/Contents/Resources/index.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Venetian3.sfrframe/Contents/Resources/Venetian3_frame_03.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Venetian3.sfrframe/Contents/Resources/Venetian3_frame_07.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Venetian3.sfrframe/Contents/Resources/wellImage@2x.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Venetian3.sfrframe/Contents/Resources/Venetian3_frame_06.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Venetian3.sfrframe/Contents/Resources/Venetian3_frame_01.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Crayon Line.sfrframe/Contents/Resources/Crayonline.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Crayon Line.sfrframe/Contents/Resources/Crayon_BK_v4 (01).png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Crayon Line.sfrframe/Contents/Resources/wellImage.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Crayon Line.sfrframe/Contents/Resources/Crayon_BK_v4 (06).png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Crayon Line.sfrframe/Contents/Resources/Crayon_BK_v4 (03).png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Crayon Line.sfrframe/Contents/Resources/Crayon_BK_v4 (07).png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Crayon Line.sfrframe/Contents/Resources/Crayon_BK_v4 (05).png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Crayon Line.sfrframe/Contents/Resources/Crayonline@2x.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Crayon Line.sfrframe/Contents/Resources/index.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Crayon Line.sfrframe/Contents/Resources/Crayon_BK_v4 (08).png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Crayon Line.sfrframe/Contents/Resources/Crayon_BK_v4 (04).png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Crayon Line.sfrframe/Contents/Resources/wellImage@2x.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Crayon Line.sfrframe/Contents/Resources/Crayon_BK_v4 (02).png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Screenprint Brush.sfrframe/Contents/Resources/Screenprint-Brush-alpha_07.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Screenprint Brush.sfrframe/Contents/Resources/Screenprint-Brush-alpha_03.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Frames/Screenprint Brush.sfrframe/Contents/Resources/Screenprint-Brush_04.png
