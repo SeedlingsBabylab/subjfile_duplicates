@@ -1,0 +1,19 @@
+/Volumes/psych/BergelsonLab/Lab_Resources/ggplot2-book.pdf, 3c20b1551002b412
+/Volumes/psych/BergelsonLab/Lab_Resources/Python_Data_Science_Handbook.pdf, 7af4af93577760d1
+/Volumes/psych/BergelsonLab/Lab_Resources/SalverdaTanenhausinpress.pdf, 3c2fe3cd5a69951c
+/Volumes/psych/BergelsonLab/Lab_Resources/.DS_Store, 53b221b46c2d6d5d
+/Volumes/psych/BergelsonLab/Lab_Resources/LDLR^2.pptx, 6e947ee09be9c792
+/Volumes/psych/BergelsonLab/Lab_Resources/HowTo_EyeTracker_study_checklist.docx, 7197f42060c25e8c
+/Volumes/psych/BergelsonLab/Lab_Resources/AoA_ratings_Kuperman_et_al_BRM.xlsx, c6f2225f6af2cee3
+/Volumes/psych/BergelsonLab/Lab_Resources/SRCD17talk_Slone_Burstiness.pdf, 572da0645d07f22c
+/Volumes/psych/BergelsonLab/Lab_Resources/output_stimgendict_9-22-16.csv, 73642d6b5a7042a9
+/Volumes/psych/BergelsonLab/Lab_Resources/Thumbs.db, 57ea339495516719
+/Volumes/psych/BergelsonLab/Lab_Resources/brent_all_freq.xlsx, c3eaa28b497680c5
+/Volumes/psych/BergelsonLab/Lab_Resources/git seminar.docx, 0f890a906a136c97
+/Volumes/psych/BergelsonLab/Lab_Resources/LanguageBackgroundSurveys/283_SpeechOlympics-questionnaire-participant.doc, 6f184eb0e643395b
+/Volumes/psych/BergelsonLab/Lab_Resources/LanguageBackgroundSurveys/Misc Dialect questions.docx, 7ed6a62a139df1df
+/Volumes/psych/BergelsonLab/Lab_Resources/LanguageBackgroundSurveys/165_16-Implicit-questionnaire.doc, aa0b92556e4f4ace
+/Volumes/psych/BergelsonLab/Lab_Resources/LanguageBackgroundSurveys/362_Accent-adultquestionnaire.docx, e0cc96f6ac8a8fd5
+/Volumes/psych/BergelsonLab/Lab_Resources/papers_to_read_meetings/ambrose_2016.pdf, e35b45b5db18c789
+/Volumes/psych/BergelsonLab/Lab_Resources/papers_to_read_meetings/DayByDay_unblinded_subm3.pdf, cc85d54e0b9e25c3
+/Volumes/psych/BergelsonLab/Lab_Resources/papers_to_read_meetings/vandam_etal_2012.pdf, 47f4cf85c170d492

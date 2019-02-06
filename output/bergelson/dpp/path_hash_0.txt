@@ -1,0 +1,9 @@
+/Volumes/psych/BergelsonLab/dpp/participants.csv
+/Volumes/psych/BergelsonLab/dpp/.DS_Store
+/Volumes/psych/BergelsonLab/dpp/~$rk_notes.docx
+/Volumes/psych/BergelsonLab/dpp/work_notes.docx
+/Volumes/psych/BergelsonLab/dpp/dpp.2017-08-09.dump
+/Volumes/psych/BergelsonLab/dpp/DPP_MASTER.fmp12
+/Volumes/psych/BergelsonLab/dpp/dpp-connect
+/Volumes/psych/BergelsonLab/dpp/Version 16/fmp_16.0.1.162.dmg
+/Volumes/psych/BergelsonLab/dpp/Version 16/License info.txt

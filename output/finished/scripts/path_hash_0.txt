@@ -1,0 +1,100 @@
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/words_not_coded.txt
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/.DS_Store
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/NIH Toolbox 302.ipa
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/.smbdeleteAAA1030c1adc
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/no_personal_info.txt
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/converted_pasted_txt_back_to_cha.txt
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/fix_speakercodes.rb
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/DirectoryReader.jar
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/.DS_Store
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/AdjustTimestamps.rb
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/compare_columns.rb
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/Audio_Consensor.jar
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/basiclevel_dataprep/seedlings_basiclevels_dataprep.R
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/audiowords-subregions/clanfile.pyc
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/audiowords-subregions/clanfile.py
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/audiowords-subregions/overlaps.py
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/audiowords-subregions/audiowords.py
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/audiowords-subregions/silences.py
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/audiowords-subregions/silences.pyc
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/audiowords-subregions/.gitignore
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/audiowords-subregions/overlaps.pyc
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/audiowords-subregions/audiowords.pyc
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/audiowords-subregions/data/input/03_08_silences_added.cex
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/audiowords-subregions/data/input/04_08.cex
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/audiowords-subregions/data/input/ek audacity regions.txt
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/audiowords-subregions/data/input/01_08_fiveminute_forandrei_v2.csv
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/audiowords-subregions/data/input/lena_01_5min_forandrei.csv
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/audiowords-subregions/data/input/04_08_silences.txt
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/audiowords-subregions/data/input/03_08_lena5min.csv
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/audiowords-subregions/data/input/04_08_lena5min.csv
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/audiowords-subregions/data/input/lena_02_5min_forandrei.csv
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/audiowords-subregions/data/input/03_08.cex
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/audiowords-subregions/data/input/03_08_silences.txt
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/audiowords-subregions/data/input/04_08_silences_added.cex
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/all_bl_comp/data/all_basiclevel-10-11-17.csv
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/all_bl_comp/data/all_basiclevel.csv
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/scripts from datavyu/Fix_RelMomMovement.rb
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/scripts from datavyu/Fix-Milestones.rb
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/scripts from datavyu/Fix-Code-mainroom_lbko.rb
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/scripts from datavyu/Fix-Code-place_har.rb
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/scripts from datavyu/Fix-MomMovement.rb
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/scripts from datavyu/Fix-UpDown.rb
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/scripts from datavyu/Fix-Questionnaire.rb
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/scripts from datavyu/Fix-BindLocMov.rb
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/scripts from datavyu/Fix-Location.rb
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/scripts from datavyu/Fix-FootPlacementCodes.rb
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/code/scripts from datavyu/Fix-ImportDigiframesML.rb
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/.DS_Store
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/01_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/26_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/40_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/08_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/03_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/21_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/33_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/32_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/16_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/14_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/23_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/18_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/46_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/29_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/07_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/28_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/38_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/25_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/13_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/20_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/36_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/10_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/09_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/41_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/30_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/04_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/12_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/43_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/06_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/15_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/19_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/39_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/42_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/27_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/22_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/31_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/02_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/44_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/35_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/45_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/17_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/11_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/34_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/07_month_its/37_07.its
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio_bymonth_scrubbed/.DS_Store
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio_bymonth_scrubbed/17/01_17.wav
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio_bymonth_scrubbed/17/29_17.wav
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio_bymonth_scrubbed/17/39_17_scrubbed.wav
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio_bymonth_scrubbed/17/21_17_scrubbed.wav
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio_bymonth_scrubbed/17/31_17_scrubbed.wav
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio_bymonth_scrubbed/17/34_17.wav
+/Volumes/pn-opus/Seedlings/Scripts_and_Apps/aggregations/audio_bymonth_scrubbed/17/32_17_scrubbed.wav

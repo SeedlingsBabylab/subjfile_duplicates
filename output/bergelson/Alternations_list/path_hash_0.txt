@@ -1,0 +1,12 @@
+/Volumes/psych/BergelsonLab/Alternations_list/audio_dat.csv
+/Volumes/psych/BergelsonLab/Alternations_list/.DS_Store
+/Volumes/psych/BergelsonLab/Alternations_list/audio_alternations_cleaned.csv
+/Volumes/psych/BergelsonLab/Alternations_list/family_var_abstract.docx
+/Volumes/psych/BergelsonLab/Alternations_list/prob_objs_annot.csv
+/Volumes/psych/BergelsonLab/Alternations_list/video_alternations_cleaned.csv
+/Volumes/psych/BergelsonLab/Alternations_list/older stuff/audio_alternations.xlsx
+/Volumes/psych/BergelsonLab/Alternations_list/older stuff/video_alternations.xlsx
+/Volumes/psych/BergelsonLab/Alternations_list/older stuff/Alternations coding protocol for RAs.docx
+/Volumes/psych/BergelsonLab/Alternations_list/older stuff/video_alternations.csv
+/Volumes/psych/BergelsonLab/Alternations_list/older stuff/audio_alternations.csv
+/Volumes/psych/BergelsonLab/Alternations_list/older stuff/~$video_alternations.xlsx

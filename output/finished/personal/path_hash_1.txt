@@ -1,0 +1,78 @@
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_15_ASL/27_15_transcription_SW.opf
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_15_ASL/27_15_coderSW_ASL_ready_for_check.xlsx
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_15_ASL/27_15_coderSW_ASL.opf
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_15_ASL/27_15_Video_Coding_Issues.docx
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_15_ASL/27_15_coderSW_ASL.csv
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_15_ASL/27_15_coderSW_ASL_checkSD.xlsx
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_15_ASL/27_15_coderSW_ASL_checkSD.csv
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_06_ASL/27_06_coderSW_ASL.csv
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_06_ASL/27_06_transcription_SW.opf
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_06_ASL/27_06_coderSW_ASL_ready_for_check.xlsx
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_06_ASL/27_06_coderSW_ASL.opf
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_06_ASL/27_06_coderSW_ASL_checkSD.xlsx
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_06_ASL/27_06_coderSW_ASL_checkSD.csv
+/Volumes/pn-opus/Seedlings/Personal/Sophie/27_06_ASL/27_06_Video_Coding_Issues.docx
+/Volumes/pn-opus/Seedlings/Personal/hgg/39_06_Trial7.mp4
+/Volumes/pn-opus/Seedlings/Personal/hgg/22_06_Trial14.mp4
+/Volumes/pn-opus/Seedlings/Personal/hgg/39_06_Trial7again.mp4
+/Volumes/pn-opus/Seedlings/Personal/hgg/27_06_Trial15.mp4
+/Volumes/pn-opus/Seedlings/Personal/hgg/T7.m4v
+/Volumes/pn-opus/Seedlings/Personal/hgg/14_06_Trial7.mp4
+/Volumes/pn-opus/Seedlings/Personal/hgg/20_06_Trial8.mp4
+/Volumes/pn-opus/Seedlings/Personal/hgg/30_06_Trial10.mp4
+/Volumes/pn-opus/Seedlings/Personal/hgg/27_06_Trial5.mp4
+/Volumes/pn-opus/Seedlings/Personal/hgg/39_06_Trial12.mp4
+/Volumes/pn-opus/Seedlings/Personal/hgg/14_06_Trial20.mp4
+/Volumes/pn-opus/Seedlings/Personal/hgg/11_06_Trial33.mp4
+/Volumes/pn-opus/Seedlings/Personal/hgg/39_06_Trial15.mp4
+/Volumes/pn-opus/Seedlings/Personal/hgg/T12.mp4
+/Volumes/pn-opus/Seedlings/Personal/hgg/08_06_Trial6.mp4
+/Volumes/pn-opus/Seedlings/Personal/Josh/Thumbs.db
+/Volumes/pn-opus/Seedlings/Personal/Josh/Methods_Writing/Methods_Writing_2015-04-15-JS.docx
+/Volumes/pn-opus/Seedlings/Personal/Josh/Methods_Writing/Methods_Writing_2015-03-25-JS_editEB.docx
+/Volumes/pn-opus/Seedlings/Personal/Josh/Methods_Writing/Methods_Writing_2015-04-15-JS_editEB.docx
+/Volumes/pn-opus/Seedlings/Personal/Josh/Methods_Writing/Thumbs.db
+/Volumes/pn-opus/Seedlings/Personal/Josh/Methods_Writing/Methods_Writing_2015-03-23-JS.docx
+/Volumes/pn-opus/Seedlings/Personal/Alex/readme.txt
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/Avg_CVC&Month_First_Word.png
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/graph2_without_bestfitline.png
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/CVC_Count_Total_Input_without6&7.png
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/CVC_Count_Reading_Count.png
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/Total_Input&Month_First_Word.png
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/months of first word.xlsx
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/CVC_Prouduction_Month.png
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/Number of Subjects-Month of Language Onset.png
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/CVC compressed.csv
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/CVC_Count_Reading_Count_bysubject.png
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/important_r_script.R
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/CVC output.csv
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/graph5_without_bestfitline.png
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/Thumbs.db
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/audio_counts_Sub01-16_Mon06-13.csv
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/months of first word.csv
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/audio_reading_counts.csv
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/CVC_Production_Month_bysubject.png
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/Time of first word.csv
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/CVC_Count&Total_Input.png
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/Word_Input_Month_without6&7.png
+/Volumes/pn-opus/Seedlings/Personal/Alex/Graphs, R Script, Excel Spreadsheet/Word_Input_Month_bysubject_without6&7.png
+/Volumes/pn-opus/Seedlings/Personal/Tessa/MotorTimestamps_TE.xlsx
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Seedlings_CDI_Words_deidentified_Seedlings.csv
+/Volumes/pn-opus/Seedlings/Personal/Tessa/.DS_Store
+/Volumes/pn-opus/Seedlings/Personal/Tessa/readme.txt
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Scripts/response_id.py
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Scripts/replicationgraphs.R
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Scripts/walk_point.R
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Parent Surveys/Seedlings_CDI_Words_deidentified_Seedlings.csv
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Parent Surveys/motor-diff-final.csv
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Parent Surveys/Seedlings_Motor_Survey_de-identified.csv
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Parent Surveys/cdi-diff-final.xlsx
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Data/ObservedWalk_CDI.csv
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Data/Prewalk_Input_First_WordWalk_Month.csv
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Data/ReportedWalk_CDI.csv
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Data/all_basiclevel_home_data_3_16_16.txt
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Data/Reported_Observed_Walk_InDays.csv
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Data/pwt.csv
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Data/walk_point.csv
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Data/wallecampos.csv
+/Volumes/pn-opus/Seedlings/Personal/Tessa/Data/CDI.csv

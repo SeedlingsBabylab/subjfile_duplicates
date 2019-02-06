@@ -1,0 +1,100 @@
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonth_06_audiovideo.csv, e73ddfa728fe1552
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods.Rmd, 43edfed01df7f462
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table.html, b8d1ce56ce5535fd
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/subnums_deid_cleaned_6mo.csv, 235d16ae2efb403c
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_mo_methods_table_data.csv, f495434df2a4a936
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/Demo_deid_cleaned_SESadded_6mo.csv, 8e3b282d8997ae38
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/Audio_recordings_duration.csv, be96e0a3e454c6d5
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/motor_6mo.csv, 1739abbaa307e169
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/brent_exp_words_sum.csv, a8665eeb7fbe3f90
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/clantime.csv, bd76db0f17cc9a38
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mos_vocab_exposure.csv, 6e61dbb197b03604
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table.Rmd, 0a0d4e7b8002b766
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/stim_wavlength.csv, daa43b4daccbc44e
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/cdi_06mo_testedwords_7-14-17.csv, 7158ab8474d5bfa7
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/cdi_6mos_test.csv, 24ae0ec9041736e3
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/.Rhistory, 36f33366889aa180
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods.html, 37052bc7ea8a0fd8
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/feeding_1158ffe20dd0cbdd83f1ca2af4900c16.rdb, 14f037b4028278b8
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/table_d1c75110ac44778c4fc0c8b49b0ef8be.rdx, 980ee79b5324034f
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/motor_6286e91b631e71d67996398c6bf35f0a.RData, 76ac404a606361df
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/reading in the data_187f30b7ba61c745e0f1c2eb80db1a9a.rdb, 88394435c14c10a3
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/ve_463bb10f2aeaeb633c7e285b212a9f12.rdb, a6c83b84cb87e09a
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/reading in the data_187f30b7ba61c745e0f1c2eb80db1a9a.RData, 7b24f170afee196f
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/production_49197d0938869c9a6632f9588e6a63e3.rdb, b2cd0b27c9189521
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/feeding_1158ffe20dd0cbdd83f1ca2af4900c16.rdx, 8ceafaac50d84809
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/production_49197d0938869c9a6632f9588e6a63e3.RData, 1c4216374169ed7b
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/table_d1c75110ac44778c4fc0c8b49b0ef8be.RData, 13d360f06d797224
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/__packages, d98e51287b536255
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/functions_dfd71b16be95c65eb23951e21bb4a6ca.RData, fc0c0b3eb1cf9954
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/motor_6286e91b631e71d67996398c6bf35f0a.rdb, e3c504edd2d01290
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/ve_463bb10f2aeaeb633c7e285b212a9f12.RData, b1cf32288b9ce7e9
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/ve_463bb10f2aeaeb633c7e285b212a9f12.rdx, e99bb34c26e001fe
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/cdi_0a8980c8adf3d7459b99bd9c5dc07d60.RData, e5f010fbef3199a3
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/cdi_0a8980c8adf3d7459b99bd9c5dc07d60.rdb, d6abef37e490785f
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/functions_dfd71b16be95c65eb23951e21bb4a6ca.rdx, 6904ac991f143b6b
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/feeding_1158ffe20dd0cbdd83f1ca2af4900c16.RData, 51e0594f52294598
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/cdi_0a8980c8adf3d7459b99bd9c5dc07d60.rdx, 50c1345dc0f94b55
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/table_d1c75110ac44778c4fc0c8b49b0ef8be.rdb, 937d3958a7dcf5ee
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/production_49197d0938869c9a6632f9588e6a63e3.rdx, bcc5a9f88e9a3885
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/reading in the data_187f30b7ba61c745e0f1c2eb80db1a9a.rdx, 92f56c3248d6c7e2
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/functions_dfd71b16be95c65eb23951e21bb4a6ca.rdb, ca0e81f5289e628e
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/06_methods_table_cache/html/motor_6286e91b631e71d67996398c6bf35f0a.rdx, 9e3fe8f970a1d41d
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/babbling feeding_5ac72194df24ea10880381bdd83d3a48.rdx, 33def52fcf8d3db3
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/stimuli and audio duration_6dfa6b9d10ee124e6d59437402dc57c9.rdb, 901f48901bfc3059
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/babbling_7e3c6596c7be0a60bf59ced1ab888d9e.rdx, 33def52fcf8d3db3
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/cdi prep_f8cf2c6290ed6298cd61f0e244f6dcf6.RData, ed652590a742a6c1
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/subj age and gender_e43d0fa658d4572b7d8cb1d5e6550f71.rdb, da493a6d5e80231d
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/cdi sd_df7809b202687986aa2726e65550736a.RData, b263169054503328
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/seed education level_d9364b7c3de0182399a8443ffbbd0220.rdb, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/brent moms_c99feeb68cc584dc2c4391b18e07268a.rdx, 33def52fcf8d3db3
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/brent count_25a46e3ef5376af89915e0f51d0eb9c2.rdx, 33def52fcf8d3db3
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/subj age_1af45f0ff1c95a92c37b67234d430224.RData, edc461836640d140
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/audios_d16cf7655ec04bf878c0f086a8b3e7b5.rdb, b10f30d3abea8d81
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/audios_d16cf7655ec04bf878c0f086a8b3e7b5.RData, 4be3c1e2f8206bef
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/brent corpus_bb1becf8fbffbba9c9601f682f7341f8.rdx, 33def52fcf8d3db3
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/subj age_1af45f0ff1c95a92c37b67234d430224.rdx, d04b0054255451a2
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/brent moms_c99feeb68cc584dc2c4391b18e07268a.rdb, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/cdi_9314092d909eb1f952f10b4e6065e8a8.RData, 0e94c9b20e33a22f
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/vocab exposure_b9ffa89af97fb5500072a50f888eea96.RData, 2f2fc0e2ffab46b5
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/race prep_b9226c275f56b7f27b5e3673e72cdd88.rdb, 9f9b8da41dd2f0c2
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/feeding_fa91e119f5ddd2030e03e7fa40b76f45.RData, c0c9fd0b24690007
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/reading in the data_271d75070ef5dc1017041a5fcbb9c07a.RData, e6edaf6e9581f8e1
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/audio stim_b6e5fd3e839b4895768938c75992043d.rdb, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/prep_3bfad0947cad92060f40ba530490edac.rdx, a3b10fb6f014234f
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/cdi sd_df7809b202687986aa2726e65550736a.rdx, 33def52fcf8d3db3
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/gender_4d87425f920cc6e2d0851fce848a213e.rdb, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/demo_a6961254a527355dbdca4f5ddd01ffe6.rdb, 9f9b8da41dd2f0c2
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/audio stim_b6e5fd3e839b4895768938c75992043d.RData, 4a696735a2d834c7
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/seedlings race_9a51b74dc0cc49d3b3281117a222b265.RData, 333c3f5e6f0f1718
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/brent count_25a46e3ef5376af89915e0f51d0eb9c2.RData, df892c752e6a7788
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/babbling_7e3c6596c7be0a60bf59ced1ab888d9e.RData, 82ddffbc36b466de
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/brent corpus_bb1becf8fbffbba9c9601f682f7341f8.rdb, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/cdi prep_f8cf2c6290ed6298cd61f0e244f6dcf6.rdb, a5bf93222ca5f611
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/motor_551a7dc2bcc61c4d903e2d78f4a83cc0.rdb, e0c8bc5990083393
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/ns race_d0d290aa9aad8347798355502ab01208.rdx, adf688b8ef4631c0
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/prep_3bfad0947cad92060f40ba530490edac.rdb, 49268f357944b047
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/__packages, d98e51287b536255
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/brent corpus_bb1becf8fbffbba9c9601f682f7341f8.RData, 29475bdac41009d8
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/demo_a6961254a527355dbdca4f5ddd01ffe6.rdx, 5257c85be4bc66a4
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/cdi mode_82100028e27d561c6fab3619e1dc4378.rdx, 33def52fcf8d3db3
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/seedlings race_9a51b74dc0cc49d3b3281117a222b265.rdx, 245d1d67cd8b780b
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/cdi mode_82100028e27d561c6fab3619e1dc4378.rdb, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/reading in the data_271d75070ef5dc1017041a5fcbb9c07a.rdx, 488706373d86fc7f
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/stimuli and audio duration_6dfa6b9d10ee124e6d59437402dc57c9.rdx, ef1565a0495adf4b
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/vocab exposure_b9ffa89af97fb5500072a50f888eea96.rdx, 83ee74835f75f1c0
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/ns race_d0d290aa9aad8347798355502ab01208.rdb, 66eac282b97f0d09
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/subj age and gender_e43d0fa658d4572b7d8cb1d5e6550f71.rdx, d04b0054255451a2
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/feeding_fa91e119f5ddd2030e03e7fa40b76f45.rdx, 33def52fcf8d3db3
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/subj age_1af45f0ff1c95a92c37b67234d430224.rdb, da493a6d5e80231d
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/seedlings race_9a51b74dc0cc49d3b3281117a222b265.rdb, 9bf9799a19363262
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/race prep_b9226c275f56b7f27b5e3673e72cdd88.RData, d74630d666c71e75
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/babbling feeding_5ac72194df24ea10880381bdd83d3a48.RData, 1db1cd18894a3865
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/seed education level_d9364b7c3de0182399a8443ffbbd0220.RData, 16f8e5b0c3cd60b7
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/babbling_7e3c6596c7be0a60bf59ced1ab888d9e.rdb, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/motor_551a7dc2bcc61c4d903e2d78f4a83cc0.RData, 10ddd9a885664a9c
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/stimuli and audio duration_6dfa6b9d10ee124e6d59437402dc57c9.RData, eae648c9cbf337be
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/gender_4d87425f920cc6e2d0851fce848a213e.rdx, 33def52fcf8d3db3
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/feeding_fa91e119f5ddd2030e03e7fa40b76f45.rdb, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/babbling feeding_5ac72194df24ea10880381bdd83d3a48.rdb, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/audio stim_b6e5fd3e839b4895768938c75992043d.rdx, 33def52fcf8d3db3

@@ -6,7 +6,7 @@
 This script has two functionalities: 1. crawling the cloud storage file system for a complete list of files that are present 2. process the list of files to generate a new list that excludes certain files according to the given ignore rules.  
 To crawl the file system, run
 ```
-python list_files.py --crawl
+python list_files.py --crawl Path_To_Be_Crawled
 ```
 A text file 'files.txt' that contains a list of files on the storage will be generated.  
 To exclude ignore files, run
@@ -14,6 +14,12 @@ To exclude ignore files, run
 python list_files.py --ignore ignore.txt --input files.txt
 ```
 where ignore.txt contains the ignore rules and files.txt is the list of all files.
+
+run  
+```
+python list_files.py -h
+```
+if unsure
 
 ### dup_match_by_checksum.py
 This script computes the xxhash of each file and stores the hashes in a dictionary for later write-out to serialized json format.  

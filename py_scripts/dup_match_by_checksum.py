@@ -5,15 +5,9 @@ import sys
 import xxhash
 import json
 import time
+import argparse
 
-files = []
-hash_dict = {}
 hashf = xxhash.xxh64
-
-def get_all_files(path):
-	for entry in scandir.walk(path):
-		for item in entry[2]:
-			files.append(os.path.join(entry[0], item))
 
 def compute_hash(file):
 	def file_as_blockiter(file, blocksize=4096):
@@ -30,25 +24,23 @@ def compute_hash(file):
 	except:
 		return ("Error", file)
 
-def file_filter():
-	global files
-	exclude_file_type = ['mp4', 'wav']
+def file_filter(files, exclude_file_type):
 	def get_extension(file):
 		try:
 			return file.split('.')[-1]
 		except:
 			return ""
 	files = [x for x in files if not (get_extension(x) in exclude_file_type)]
-	with open('new_file.txt', 'w') as f:
-		f.write('\n'.join(files))
+	return files
 
-def write_out():
+def write_out(hash_dict):
 	with open('output.txt', 'w') as f:
 		json.dump(hash_dict, f)
 
-def multithread_checksum():
+def multithread_checksum(files):
 	p = Pool(20)
 	counter = 0
+	hash_dict = {}
 	for i in range(0, len(files), 20):
 		results = p.map_async(compute_hash, files[i:min(i+20, len(files))])
 		results = results.get()
@@ -61,19 +53,16 @@ def multithread_checksum():
 		counter += len(results)
 		print('FINISHED {}/{}	ESTIMATED TIME REMAINING: {}'.format(counter, len(files), (time.time()-start_time)*(len(files)-counter)/counter))
 		if counter%100==0:
-			write_out()
+			write_out(hash_dict)
 
 if __name__ == '__main__':
-	if sys.argv[1]:
-		with open(sys.argv[1]) as f:
-			files = f.readlines()
-		files = [x.rstrip() for x in files]
-	else:
-		get_all_files('/Volumes/pn-opus/Seedlings')
-		with open('files.txt', 'w') as f:
-			for file in files:
-				f.write(file + '\n')
-	file_filter()
+	parser = argparse.ArgumentParser(description='Computing xxhash of all files in a given list')
+	parser.add_argument('--input', action='store', required=True, help='The file that contains paths to files whose checksum needs to be computed')
+	parser.add_argument('--filter', action='store', default='wav,mp4', help='The file types to be excluded from duplicate check, separated by comma, by default, wav and mp4 files will be excluded')
+	with open(sys.argv[1]) as f:
+		files = f.readlines()
+	files = [x.rstrip() for x in files]
+	files = file_filter(files, args.filter.split(','))
 	global start_time
 	start_time = time.time()
-	multithread_checksum()
+	multithread_checksum(files)

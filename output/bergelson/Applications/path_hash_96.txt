@@ -1,0 +1,100 @@
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/PagesOldAssetNameMap.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMAMovieBrowserMovieCellView.nib
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMACollaboratorListTableCellView.nib
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDCurveInterpolationShader.frag
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLShaderDefaultRandomColor.frag
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLMotionBlurEffectNeighborMax.vert
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/KnownFonts.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/mac_remotedata_table_arrow_down@2x.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDAnnotationAuthorColors.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSWPMissingBulletImage.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLEdgeDistance_Morph.frag
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Parchment.sfcimage.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/AppIcon.icns
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Stained Wood.sfctex.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Glossy.lpg.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/insp_chart_popup_3d_barh.tiff
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMAExportOptionsDisclaimerView.nib
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Medium Left.lpg.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Showroom.sfccolor.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/insp_chart_popup_3d_line.tiff
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/ReplacementFontMap.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/insp_chart_popup_stakarea.tiff
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/insp_chart_popup_pie.tiff
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Granite.sfctex.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDMacAnnotationGrayBlueTheme.car
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DefaultColorScheme.xml
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/PagesDocument.icns
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Gray.sfctex.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDBrush_Feathered Brush.svg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDBrush_Basic.svg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/FontTemplateIndex.xml
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/PagesOldTemplateNameMap.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDMacAnnotationBlueTheme.car
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DefaultObjectDefaults.xml
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMAFirstLaunchFeatureItemView.nib
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMAPreferencesPanel.nib
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/SDWPDefaultCharacterStyleDictionary.xml.gz
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/PresetDrawableStyles.xml
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/SDWPDefaultParagraphStyleDictionary.xml.gz
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Notebook Paper.sfctex.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLBloom.frag
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Default.lpg.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Acknowledgments.pdf
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Speckled Paper.sfctex.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSKMacCollectionAlertWindowController.nib
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLImageSegmenterOutput.frag
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Corrugated Paper.sfcimage.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/PlaceholderMovie.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Stained Wood.sfcimage.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSKMacDefaultAppearanceTheme.car
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLImageSegmenterPixelScale2X.frag
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Soft Fill.lpg.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/bullet_gbutton_gray.png
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMATemplateManagerCategoryCellView.nib
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Gray Paper.sfctex.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDBrushShader.vert
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Stock Paper.sfcimage.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Venetian_Paper2 Tile-2.tif
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMAFloatingInspectorWindow.nib
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Linen.sfctex.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DefaultStyleMatrix.xml
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMAFirstLaunchFeaturesView.nib
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLShaderDefaultTextureCoordinates.frag
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMAStatusHUDWindowController.nib
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLShaderDefaultVelocityVisualizer.frag
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMADisclosureInspectorPaneView.nib
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMAWarningsView.nib
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLImageSegmenterDensityMap.frag
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/LocaleIDData.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/MathMLProlog.xml
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLShaderDefaultGaussianBlur.frag
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/sf-mac_canvas_bg@2x.tiff
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLMotionBlurEffectNeighborMax.frag
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMAFirstLaunchWindow.nib
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/RemoteDefaults.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Car Paint.sfctex.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Rough Paper.sfcimage.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/BlankDelimited.xls
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Metal.sfctex.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/defaultEquation.tex
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLEdgeDistance_Trace.frag
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/insp_chart_popup_3d_stakbarh.tiff
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDMacAnnotationTealTheme.car
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMAStylePickerInspector.nib
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/insp_chart_popup_stakbarh.tiff
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDBrush_Chalk2.svg
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/insp_chart_popup_area.tiff
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMAProgressPanel.nib
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Bright.sfctex.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Retro.sfctex.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Blue Paper.sfctex.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Precious Metals.sfctex.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/SDBGDefaultSlideStyleSheet.xml.gz
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Gray.sfccolor.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Portfolio Paper.sfcimage.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDAlphaExtractShader.vert
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLShaderDefaultVelocityCollection.frag
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/OAShapeTypes.zip
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDBrush_Pen.svg

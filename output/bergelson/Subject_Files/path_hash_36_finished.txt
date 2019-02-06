@@ -1,0 +1,100 @@
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d15/e0015450.au, 14abc2de264f6e58
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d15/e0015592.au, 668c7550cc6b2b9c
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d15/e0015ef4.au, 344f71992c829f93
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d15/e0015c45.au, 7f54cad6a099ddb8
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d15/e0015776.au, d87d010978fa8709
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d15/e0015778.au, b1acfd46183ad801
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d15/e0015c24.au, 389e0744fcdc34bd
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d15/e0015ce7.au, 69e5b8162c3c0ae4
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d15/e00151d2.au, fe780a20eaa6d85c
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d15/e0015f75.au, 012bf2621c03bcc6
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d18/e0018483.au, 2e22f9c8361df852
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d18/e0018021.au, b919c351512b6474
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d18/e0018e7d.au, 39a0ecc9009a104a
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d18/e0018ad1.au, 727cf9c9bb64ecaa
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d18/e0018d58.au, e3edff714776e0dc
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d18/e0018229.au, 7e68930c144a277a
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d18/e0018554.au, 2d7c658468b4af35
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d18/e001861b.au, dc41520b046da531
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d18/e0018268.au, 777b98a4e15c1bf2
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d18/e001856b.au, e4ec9ea8f51f4b4f
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d18/e001866c.au, 67ddc0f2239add19
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d18/e001822c.au, 2b4b577de6ce130e
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d18/e0018526.au, c858a4834237dfca
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d18/e001879e.au, c18fdf3dc7ba4d67
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d00/e000038b.auf, b35b7b251525ff7b
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d00/e0000d8b.auf, b25ce4b22aeaf686
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d00/e0000af2.auf, acfdefdece0b015d
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d00/e0000335.auf, e5e11f13e8999363
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d00/e000087c.auf, 6f7a2553830b1005
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d00/e00005e9.auf, 482b2485a586694e
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d00/e0000d50.auf, c1da2578af2c00bf
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d00/e0000e14.auf, 824b803ed36a2471
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d00/e0000f20.auf, 2467f8a76dcd61bd
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d00/e0000d9d.auf, 0d5547c344f5bfd3
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d00/e00007a3.auf, 12985aae1265733d
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d00/e000047a.auf, 3f9300ae35cda522
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d00/e00003de.auf, fc1019d0d3bdae99
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d00/e00006b3.auf, 480b6944a287f4e5
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d00/e00009d4.auf, 13fe396019ffd75c
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d00/e000092f.auf, 64f70475bc2bd806
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d00/e000033c.auf, b269d5a5b7385682
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d00/e0000980.auf, 9ed18e0fecdbe724
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d00/e0000bf5.auf, 5ba21c00901413a8
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d0e/e000e68a.au, 2f0d421a10f1dd4e
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d0e/e000eab2.au, 36e65d8fcec15c7f
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d0e/e000e147.au, 90b120fe1f44644f
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d0e/e000e1de.au, 093042ae84439325
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d0e/e000efe5.au, a97f924f68b87a68
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d0e/e000efeb.au, 7958c9e9c69c8617
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d0e/e000ec50.au, a995bec6b57a55ce
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d0e/e000e5a2.au, b900577ba61e7f34
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d0e/e000ea5c.au, 216330243e7d8272
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d0e/e000e351.au, 653a69067f3bb2af
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d0e/e000edfd.au, bb2e74ac5c32cbe6
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d0e/e000e111.au, aef6713dec9b92d6
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d0e/e000e622.au, a381c9a9e6e4eb4b
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d0e/e000e8a4.au, 8214b46e71141ca7
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d0e/e000e369.au, 24f043dda4acbb71
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d0e/e000e4c4.au, 9bac114f2c855d7c
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d0e/e000eab1.au, 72de79d86c772fac
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d0e/e000e055.au, a4e2960c26d6b9eb
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d0e/e000e9b6.au, 2f8c5572b87693dc
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d0e/e000ef0d.au, 7a181c0a10570af5
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d0e/e000e448.au, c39b0b4818bd1b99
+/Volumes/psych/BergelsonLab/Subject_Files/HI_OSU_LENA /BT0153/BT0153_08April2018_data/e00/d0e/e000eba8.au, c73b74194793a8b7
+/Volumes/psych/BergelsonLab/Subject_Files/YM/~$Y13_Stimuli.xlsx, 3bdd188492336ad8
+/Volumes/psych/BergelsonLab/Subject_Files/YM/YM_participant_tracking.xlsx, fb31e7c2b11da45e
+/Volumes/psych/BergelsonLab/Subject_Files/YM/.DS_Store, 648f333cbac4a535
+/Volumes/psych/BergelsonLab/Subject_Files/YM/audio_reliability2.csv, 7f74a4b35fed769f
+/Volumes/psych/BergelsonLab/Subject_Files/YM/keypressissues_yoursmy.xls, b6ead7b6441de7d9
+/Volumes/psych/BergelsonLab/Subject_Files/YM/keypressissues_yoursmy.csv, ef1f43ad9dd8d636
+/Volumes/psych/BergelsonLab/Subject_Files/YM/~$Y20_Stimuli.xlsx, 3bdd188492336ad8
+/Volumes/psych/BergelsonLab/Subject_Files/YM/latetargetonset_yoursmy.csv, 9cd1293c14ff38f8
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Thumbs.db, a28e20b9620c4653
+/Volumes/psych/BergelsonLab/Subject_Files/YM/latetargetonset_yoursmy.xlsx, 51ebd8a20dffe4f8
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Template_Stimuli.xlsx, 5bac205206bbd983
+/Volumes/psych/BergelsonLab/Subject_Files/YM/images_list.csv, fd3ba0a98c002fdb
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Most Recent Stimuli Last #.docx, be0f062abe53c474
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/DataSource0013.txt, 97f2b59920f88273
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Y13_Stimuli.xlsx, a0e0da29e484afe1
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/.DS_Store, 028fd1af4b6961bc
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Y13_Stimuli (2).xlsx, a0e0da29e484afe1
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Image_Stims/blocks17.jpg, a07d51a0ca249b20
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Image_Stims/kitty13.jpg, 480210144733638e
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Image_Stims/blocks.jpg, 2db88122c4b593b9
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Image_Stims/teddy2.jpg, ff441fc4d48036e3
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Image_Stims/elephant19.jpg, 7d527d29aa9adbf3
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Image_Stims/shoe.jpg, 5cf4d23a88440bb2
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Image_Stims/.DS_Store, dceefb29ad9a50dd
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Image_Stims/elephant.jpg, 43324c9f630702b1
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Image_Stims/phone.jpg, 7b1afcd5f7e87f91
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Image_Stims/phone13.jpg, 69f171398c27876a
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Image_Stims/monkey.jpg, 2ae455dce99d0c90
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Image_Stims/monkey20.jpg, b151f8dcefb4b892
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Image_Stims/kitty.jpg, 67544af04158926e
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Image_Stims/Thumbs.db, b7fa1ec690689f87
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Image_Stims/bottle.jpg, 84971e8d9f2b2722
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Image_Stims/teddy6.jpg, 624adeb64af3d9bc
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Image_Stims/shoe13.jpg, a790458e4af3cea9
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y13/Image_Stims/bottle18.jpg, 17cdd8a5f4e1d235

@@ -1,0 +1,39 @@
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TSCHDefaultDataScatter.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TMATouchIDPreferencesView.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TMATemplatePreferencesSheet.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TSDMacIAHUDWindow.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TPMacExportEPubOptionsAccessoryView.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TSCHDesignDefaultData3DArea.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TPMacGeneralPreferencesPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TSApplicationTouchBar.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TSTMacFormulaCellEditorWindow.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TSTextPlatform.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TSTMacStickyBitViewController.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TMACloudSharingOptionsSheetView.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TPMacAnnotationBar.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TMAMovieStartStopTimeInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TMATextBorderInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TSCHDefaultDataMultiDataScatter.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TSCHMacChartPresetSheet.nib
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TMATableDirectionInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TMAExportPDFAdvancedOptionsView.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TMAChartCategoryAxisOptionsInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TMAChartBubbleOptionsInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TMATextListInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TMAPasswordInputView.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TSWPMacHyperlink.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TMAChartPieLabelDistanceFromCenterInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TMAOriginalSizeInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TMAActivityLogEntryCellView.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TMAPassphraseUI.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TPMacFootnoteInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TMAChartValueAxisOptionsInspectorPane.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TSStyles.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/th.lproj/TMAEmptyStylePickerInspector.strings
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Stained Wood.sfctex.mipmaps/wood_dkgray_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Stained Wood.sfctex.mipmaps/wood_ltgray_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Stained Wood.sfctex.mipmaps/wood_ltbrown_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Stained Wood.sfctex.mipmaps/wood_dkgreen_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Stained Wood.sfctex.mipmaps/wood_brown_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Stained Wood.sfctex.mipmaps/wood_ltgreen_mipmaps.plist
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Brown.sfctex.lowres/white_low_res.jpg

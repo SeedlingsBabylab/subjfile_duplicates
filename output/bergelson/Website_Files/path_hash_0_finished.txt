@@ -1,0 +1,84 @@
+/Volumes/psych/BergelsonLab/Website_Files/.DS_Store, 68e5ac37cc15c255
+/Volumes/psych/BergelsonLab/Website_Files/FB Privacy Policy.docx, 4f3da2172fef14ce
+/Volumes/psych/BergelsonLab/Website_Files/eyelinklarge.jpg, 9c8105fb515b5e3c
+/Volumes/psych/BergelsonLab/Website_Files/Thumbs.db, 34e95dcbcc98ed45
+/Volumes/psych/BergelsonLab/Website_Files/bright-colors-mosiac-background.jpg, 96ca7afc0df6d32b
+/Volumes/psych/BergelsonLab/Website_Files/Video stills/18_08_etracking0000.jpg, 7d741d6cb70d0cea
+/Volumes/psych/BergelsonLab/Website_Files/Video stills/.DS_Store, 67ba97d383b3a2f2
+/Volumes/psych/BergelsonLab/Website_Files/Video stills/18_16_etracking_20000.jpg, ec0967fd0c9f30fd
+/Volumes/psych/BergelsonLab/Website_Files/Video stills/Thumbs.db, 79225e52c305c2f1
+/Volumes/psych/BergelsonLab/Website_Files/Video stills/18_16_etracking0000.jpg, 9b25fc10cc30c6f4
+/Volumes/psych/BergelsonLab/Website_Files/Video stills/Not using/18_18_etracking0000.jpg, b4f520e6a2f0614d
+/Volumes/psych/BergelsonLab/Website_Files/Video stills/Not using/18_16_etracking_20001.jpg, ab64dd0178c8d677
+/Volumes/psych/BergelsonLab/Website_Files/Video stills/Not using/18_08_etracking_20000.jpg, 40d08f803d33d2fb
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/vernooij.jpg, 1c1fd908de52e8fc
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/ballockbaby.jpg, 76ae6a0f8083d91a
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/hess.JPG, d74b6ca6b09ac40e
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/breitfeld.jpg, 0e1e2cd048d73e05
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/laing.jpg, ae18b51a56bf2750
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/ansahbaby.jpg, 6f33e04079266ab4
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/.DS_Store, 22306bdbae0ff862
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/bergelson.jpg, 1eb1e8eb76487323
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/han.jpg, ea16a812a4c9665d
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/daileybaby.jpg, c96d6f29893a344a
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/bergelsonbaby.jpeg, e74f8c220e054ae6
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/dillmanhasso.jpg, 1186860a070f9551
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/ansah.jpg, 10dea7ef1b968217
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/hessbaby.jpg, fe90391c54c91644
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/IMG_0377.JPG, 0554db93c7a4c8f6
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/moore.jpg, 523e654c5e1fc947
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/alvaradobaby.jpg, 4d657f2816268e0f
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/vernooij_baby.jpg, ef4c8cadcf27c6db
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/dillmanhassobaby.jpg, 9fd5cd03e88be4a9
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/amatunibaby.jpg, 6fefa1d6c33a1b39
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/brewington.jpg, 45a75b9e1e50a8a1
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/Thumbs.db, 670f496cc519a78e
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/laingbaby.jpg, 895612597b143dfe
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/IMG_0376.JPG, cfcec35520006eca
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/moorebaby.jpg, a072d2e8dac7909c
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/breitfeldbaby.jpg, ee9d695021cc5cf5
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/alvarado.jpg, 6e7aaec632132926
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/amatuni.JPG, 5da0224640a4d644
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/ballock.jpg, 9491387462562144
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/dailey.jpg, 01fbd4c9e22bd261
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/brewingtonbaby.jpg, dc5f8bdca3d37fd5
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/hanbaby.jpg, 0daa6451b01f904d
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/originals/ballockbaby.JPG, bde81bb1bc5bbe56
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/originals/laing.jpg, ae18b51a56bf2750
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/originals/IMG_5599.JPG, ba69c8cffdfd5e2a
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/originals/han.jpg, 5f0b8bbc1584f7e2
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/originals/1056_1477930627600.jpeg, fcd7f77641a002ba
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/originals/moore.jpg, 523e654c5e1fc947
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/originals/ballock.PNG, 8098fccb8b5064f2
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/originals/brewington.jpg, 47067b1ee04dc75c
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/originals/laingbaby.jpg, 895612597b143dfe
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/originals/moorebaby.jpg, a072d2e8dac7909c
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/originals/FullSizeRender.jpg, 1bd6d8c68f387410
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/originals/IMG_7428.JPG, 071be8fc627d12f7
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/originals/brewingtonbaby.jpeg, 52e4889fae437e0d
+/Volumes/psych/BergelsonLab/Website_Files/Lab member photos/originals/hanbaby.jpg, 6a5afc9b5f4facd4
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/07_2.jpg, 980c3473e706be4e
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/14_2.JPG, 9d6b58dd2fd445c7
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/33_1.JPG, 5b9ee0fc5cda313a
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/07_1.jpg, a7e5ded53ea9ab9e
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/19_1.jpg, 68086015d1523b63
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/.DS_Store, c4de5aa5a0de4a9e
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/14_3.JPG, be9992e938110849
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/14_1.JPG, 9405efe57c7a1eab
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/33_3.JPG, ee855cbbbb351f44
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/Thumbs.db, 80c1074040583633
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/Front page circles/07_2.png, 273e1099d171c4cc
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/Front page circles/14_1.psd, 54aa0e1abab154c6
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/Front page circles/19_1.psd, 3d14e3c6900df5b5
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/Front page circles/19_1.png, d0405b678bcde28b
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/Front page circles/07_2.psd, b05470befd96befb
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/Front page circles/33_3.psd, e497ed059c0f9983
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/Front page circles/33_3.png, 893e7f1993896b83
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/Front page circles/14_1.png, c6bc7afdc8d286f9
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/Images_approved_for_duke&bergelsonlab_websites/33_2.JPG, 4407e662f31bbcc2
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/Images_approved_for_duke&bergelsonlab_websites/14_2.JPG, 9d6b58dd2fd445c7
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/Images_approved_for_duke&bergelsonlab_websites/33_1.JPG, 5b9ee0fc5cda313a
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/Images_approved_for_duke&bergelsonlab_websites/19_1.jpg, d67fa25e6fcc2898
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/Images_approved_for_duke&bergelsonlab_websites/14_3.JPG, be9992e938110849
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/Images_approved_for_duke&bergelsonlab_websites/14_1.JPG, 9405efe57c7a1eab
+/Volumes/psych/BergelsonLab/Website_Files/Photos from families/Images_approved_for_duke&bergelsonlab_websites/33_3.JPG, ee855cbbbb351f44

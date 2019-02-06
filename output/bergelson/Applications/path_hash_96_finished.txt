@@ -1,0 +1,100 @@
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/PagesOldAssetNameMap.plist, 1a53a59fcf1771f0
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMAMovieBrowserMovieCellView.nib, 0949530eb356db7a
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMACollaboratorListTableCellView.nib, 393105b70a94a074
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDCurveInterpolationShader.frag, 9e07471529baeea6
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLShaderDefaultRandomColor.frag, a979409729a33d0b
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLMotionBlurEffectNeighborMax.vert, f278e80c730e703f
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/KnownFonts.plist, c7c65c6e689fb2e7
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/mac_remotedata_table_arrow_down@2x.png, 6a7b9fe5644e444b
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDAnnotationAuthorColors.plist, 548a29fb6f027c9e
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSWPMissingBulletImage.png, b83dcd530fb846e4
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLEdgeDistance_Morph.frag, 2ba9286b95c47ff9
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Parchment.sfcimage.plist, 4ff46c93aecbd1fa
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/AppIcon.icns, 9687d57f4a0244bc
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Stained Wood.sfctex.plist, 473bf2f56ad1a0ca
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Glossy.lpg.plist, ee38fec7f6453da9
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/insp_chart_popup_3d_barh.tiff, 20d97997b9731393
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMAExportOptionsDisclaimerView.nib, 49d4d2767668a849
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Medium Left.lpg.plist, 0313b722daa00672
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Showroom.sfccolor.plist, eaa5cb71335ed371
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/insp_chart_popup_3d_line.tiff, 68b101ad798afaac
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/ReplacementFontMap.plist, 5bb925f62e6d1987
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Scrapbook Paper.sfctex.plist, 13f23dec70c285a2
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/insp_chart_popup_stakarea.tiff, c818377a00f123df
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/insp_chart_popup_pie.tiff, 3833cf143e1dc40b
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Granite.sfctex.plist, c7c951cb18dc7c5e
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDMacAnnotationGrayBlueTheme.car, 311fed9fe3e32c15
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DefaultColorScheme.xml, 3d0d9c7e30e5ab72
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/PagesDocument.icns, 2161c7c25131af0e
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Gray.sfctex.plist, e2062fc79fca8272
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDBrush_Feathered Brush.svg, 9f20d2fbad99e954
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDBrush_Basic.svg, d58037a0e91c220b
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/FontTemplateIndex.xml, 319b41b77b99d4cb
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/PagesOldTemplateNameMap.plist, c1fadd838039f0e6
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDMacAnnotationBlueTheme.car, 25991b7dcaedb526
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DefaultObjectDefaults.xml, d13d529dc9375c62
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMAFirstLaunchFeatureItemView.nib, 354158ab4402a749
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMAPreferencesPanel.nib, 920a0ba6d56247c8
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/SDWPDefaultCharacterStyleDictionary.xml.gz, 47bbe70ad15b8da2
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/PresetDrawableStyles.xml, 17cdecc78b847e3b
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/SDWPDefaultParagraphStyleDictionary.xml.gz, 029212b31d84e9b6
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Notebook Paper.sfctex.plist, aa3e42b9b09a7d02
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLBloom.frag, f68e5e30e6fa4cd0
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Default.lpg.plist, 281d098f16037a6b
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Acknowledgments.pdf, f82c3d95d680ec7d
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Speckled Paper.sfctex.plist, fb049996d2557bc0
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSKMacCollectionAlertWindowController.nib, dd08f5041ba41688
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLImageSegmenterOutput.frag, 6a65b8716cd9aa94
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Corrugated Paper.sfcimage.plist, 1ab8222e64a1e552
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/PlaceholderMovie.png, 615596e09f061d31
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Stained Wood.sfcimage.plist, 72abe1ca0320475e
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSKMacDefaultAppearanceTheme.car, 034b96e737e73cc6
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLImageSegmenterPixelScale2X.frag, b2264d82bc40a1c9
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Soft Fill.lpg.plist, 49e69ebd2680959c
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/bullet_gbutton_gray.png, fc2fe00ba84c67b6
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMATemplateManagerCategoryCellView.nib, 6a7a15efb45dfff9
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Gray Paper.sfctex.plist, ed0971afbea97f9b
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDBrushShader.vert, 5be65aed4aaa2bb5
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Stock Paper.sfcimage.plist, 660b0642f087e517
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Venetian_Paper2 Tile-2.tif, 717007d0e141baa6
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMAFloatingInspectorWindow.nib, 8046fa92d92a40e4
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Linen.sfctex.plist, 503cc40f20867412
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/DefaultStyleMatrix.xml, 41e97cc33fe2ab8c
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMAFirstLaunchFeaturesView.nib, 74c2c07453dc2d33
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLShaderDefaultTextureCoordinates.frag, fdec885773ecef41
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMAStatusHUDWindowController.nib, 3d577b408ff701c5
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLShaderDefaultVelocityVisualizer.frag, 6f8a780dcea93e29
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMADisclosureInspectorPaneView.nib, 0a0d3efab7404942
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMAWarningsView.nib, 44f15d8aa44f7a88
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLImageSegmenterDensityMap.frag, c4dabacbea980d6b
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/LocaleIDData.plist, 8b4e969751ba8a9c
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/MathMLProlog.xml, 2a14a8683196ed36
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLShaderDefaultGaussianBlur.frag, 72d4d0fc420bd9cb
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/sf-mac_canvas_bg@2x.tiff, bea2f55f790cddd5
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLMotionBlurEffectNeighborMax.frag, 90cc210ac5d68e57
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMAFirstLaunchWindow.nib, fc18f1d965a7d4c0
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/RemoteDefaults.plist, 104af1278108ecfa
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Car Paint.sfctex.plist, c89f175834bc8442
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Rough Paper.sfcimage.plist, c2c5942a05f5694d
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/BlankDelimited.xls, adc26278f3243e8f
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Metal.sfctex.plist, 4456a94e690fdfa5
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/defaultEquation.tex, a0d2a651128175cf
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLEdgeDistance_Trace.frag, b05337dc1466285d
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/insp_chart_popup_3d_stakbarh.tiff, 58331fba643af548
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDMacAnnotationTealTheme.car, e92d88aeb6c162c8
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMAStylePickerInspector.nib, d53f61aac966e11e
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/insp_chart_popup_stakbarh.tiff, 82df504da7e915b2
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDBrush_Chalk2.svg, d1a559cab7ee8c50
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/insp_chart_popup_area.tiff, 70413418c8a84f4c
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TMAProgressPanel.nib, 5063dab3257d9726
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Bright.sfctex.plist, c08ef1960745056d
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Retro.sfctex.plist, 46e00104b27bcb3e
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Blue Paper.sfctex.plist, f212f4612afc3fb8
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Precious Metals.sfctex.plist, 4904b4dabaa05648
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/SDBGDefaultSlideStyleSheet.xml.gz, d1c8bc3896c941d5
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Gray.sfccolor.plist, 2f3ab0b219d5324f
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/Portfolio Paper.sfcimage.plist, 39fd06a3a8de1af8
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDAlphaExtractShader.vert, c46eef90022cd8ff
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDGLShaderDefaultVelocityCollection.frag, 2c74383980ea4033
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/OAShapeTypes.zip, 9b68071ac75cd4b8
+/Volumes/psych/BergelsonLab/Applications/Pages.app/Contents/Resources/TSDBrush_Pen.svg, c08725be1b2f071f

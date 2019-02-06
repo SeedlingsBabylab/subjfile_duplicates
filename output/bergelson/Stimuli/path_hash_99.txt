@@ -1,0 +1,100 @@
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y17/ball.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y17/headphones.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y17/toothbrush.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y17/.DS_Store
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y17/book.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y17/block.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y17/cat.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y17/book.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y17/cat.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y17/block.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y17/toothbrush.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y17/sippycup.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y17/ball.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y17/headphones.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y17/Thumbs.db
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y17/truck.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y17/brush.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y17/brush.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y17/truck.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y17/sippycup.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05/Ball.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05/Blocks.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05/Puppy.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05/Stroller.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05/Shoe.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05/Stroller.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05/.DS_Store
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05/Book.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05/Highchair.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05/Puppy.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05/Book.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05/Cow.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05/Blocks.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05/Ball.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05/Spoon.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05/Thumbs.db
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05/Bananas.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05/Spoon.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05/Highchair.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05/Bananas.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05/Diaper.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05/Diaper.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05/Shoe.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Blocks.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Puppy.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Cow.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Stroller.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Shoe.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Stroller.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Book.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Highchair.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Puppy.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Book.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Ball (1) copy.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Bottle.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Cow.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Blocks.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Spoon.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Bananas.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Spoon.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Ball (1).psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Car.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Highchair.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Bananas.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Car.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Bottle.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Diaper.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Diaper.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y05 copy_EB training/Shoe.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y36/ball.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y36/cup.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y36/shoes.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y36/highchair.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y36/doggy.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y36/chair.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y36/chair.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y36/ball.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y36/spoon.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y36/fish.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y36/fish.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y36/spoon.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y36/highchair.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y36/doggy.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y36/cup.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y36/shoes.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y18/ball.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y18/vacuum.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y18/cup.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y18/vacuum.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y18/pouch.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y18/.DS_Store
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y18/duck.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y18/piano.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y18/doggy.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y18/bear.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y18/bathtub.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y18/bear.psd
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y18/ball.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y18/pouch.jpg
+/Volumes/psych/BergelsonLab/Stimuli/YM/images_greybackground_960x960_150dpi/Y18/piano.psd

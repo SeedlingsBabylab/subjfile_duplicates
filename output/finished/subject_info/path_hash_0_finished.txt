@@ -1,0 +1,100 @@
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Processing_Recording_Notes.xlsx, 881a651bf7a61535
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/~$SubNums_final.xlsx, 26bb00865b676f1e
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/.DS_Store, ea361d052eca1bec
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Pilot_Baby_Info.xlsx, 56f40b5e4324b969
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/SubNums_final.xlsx, ea8b570bbed06e21
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Thumbs.db, a680213bae9dd1ff
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Updated_all_SEEDLingS_permissions.xlsx, 6bd3050cbe8465fe
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/six_seven/sixseven_speakers_dictionary.csv, 536d0cf818b1fc8e
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/six_seven/recording_dates_6mo.xlsx, eb2b49117f43ac15
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/six_seven/sixseven_speakers_dictionary_exceptions.csv, 0f6ce5534551545b
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/six_seven/6mos_babbling_feeding.csv, d33a663ca6767f62
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/six_seven/6mos_vocab_exposure.csv, 415ff84253c5f95c
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/LENA_dates_ages/LENA_Export_Daily_cleaned.csv, 99fb270280978343
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/LENA_dates_ages/LENA_Tracking_Dates.xlsx, 4502891f1ca137b3
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/LENA_dates_ages/LENA_export_cleaning.R, c50df206d305fd1f
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/LENA_dates_ages/audio_recording_ages_lena.csv, e70fc0c378846ed3
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/LENA_dates_ages/LENA Export (Daily) 20170424 113553.csv, 3f13d8a4172fcfc1
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/LENA_dates_ages/LENA_Export_Daily_cleaned_deid.csv, f127f6671b1dac83
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/LENA_dates_ages/.Rhistory, 93dd1dd4f32f1b60
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/LENA_dates_ages/LENA_to_subjmonth.csv, 75aa9eaa1e341608
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/Baby_Walking.xlsx, b9511741ff778960
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/Baby_Pointing.xlsx, 429e0168f1069f02
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/First_five_words_CDI.csv, 57a40d07ba644bd2
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/.DS_Store, e768e012817572ef
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/First_Two_Words.xlsx, 19a482514515bb5c
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/Observed_PWT_dates.xlsx, 47aa19bd3dc8c595
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/~$First_five_words.xlsx, 557af8712ca091b4
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/First_Object_Word.xlsx, 88a5093668817527
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/Thumbs.db, 17b19c157028d32e
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/First_five_words_CDI.xlsx, fee1417250c0f1ea
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/Pointing_checks_2018.xlsx, 068b0d4ebc0a174e
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/First_five_words.xlsx, 0284cba311b9f488
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/first_word.csv, 8987b16b18e837ac
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/~$Pointing_checks_2018.xlsx, 2cecca0f8d683e39
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/~$First_Any_Word.xlsx, 557af8712ca091b4
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/First_Any_Word.xlsx, bd6718f6021e4c78
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/old/Baby_Talking_old_original.xlsx, 3181aa7818b69fb0
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/old/Baby_talking_checks.xlsx, 9d4d1b2d6b2b7e1d
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/Point_and_Walk_Reliability/.DS_Store, 8c67870ac59aa75c
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/Point_and_Walk_Reliability/Point/.DS_Store, 3d217c89b81ac72e
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/Point_and_Walk_Reliability/Point/Point_Reliability_2.xlsx, d8c8d6755b84d532
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/Point_and_Walk_Reliability/Point/Point_Reliability_3.xlsx, c10128d1e4bb279e
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/Point_and_Walk_Reliability/Point/Thumbs.db, 6ef58fa35e8a2328
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/Point_and_Walk_Reliability/Point/Point_Reliability.xlsx, dca699c571ea922f
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/Point_and_Walk_Reliability/Point/08_10_point_clip.mp4, 6c34c0c79b4d5b3d
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/Point_and_Walk_Reliability/Point/point_reliability_blurb.txt, 50d7dc62939d8d61
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/Point_and_Walk_Reliability/Walk/Walk_reliablility.csv, 50495350debd774c
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/Point_and_Walk_Reliability/Walk/walk_reliability_blurb.txt, 1b2fb46ad2cc3fe0
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Point_Walk_Talk/Point_and_Walk_Reliability/Walk/14_12_walking_clip.mp4, a73fdeaf6c13fbe8
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/Picture_Book_Data.xlsx, cb5673129e5cd6af
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/Picture_Books_signed_out.docx, 1f558003dc8d572e
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/Reading_log_PB.docx, 53fa28340c709faa
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/picturebook_timestamps.csv, f8788d261bbfc5e8
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/picturebook_recording_log_template.xlsx, 840e0687cf962a21
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/Picture_Book_Data_New.csv, 2a67598f935e2cd2
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/Thumbs.db, be8d3ed5e194a21a
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/PB_recordings_wavlength.csv, 46b1be85c5a4cfe5
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/PB_Reading_Log_template.xlsx, a24bfd2345f9e729
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/photobook_directions.docx, 422248746a21434f
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/Picture Book Study Instructions.docx, bc2889aee99edca4
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/PB_mean_wavlengths.csv, d8a4cf4fe4704bd1
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/.Rhistory, a4ce528cd5b70c72
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/Picture_Book_IDs.xlsx, dc9630f98fad0fd0
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/Flash_card_images/dax.png, 6f416d44c193d1b6
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/Flash_card_images/banoona.png, 96c02608bd7b1476
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/Flash_card_images/Thumbs.db, 2592c65b3b39ad18
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/Flash_card_images/shang.png, d9858665017d9e41
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/Picture Book/nonce book 2.jpg, cbd8af5cc1d394ef
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/Picture Book/nonce book 1.pdf, 671adad30ab3bdeb
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/Picture Book/nonce book 1.jpg, 7ba1baacf0be189a
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/Picture Book/download.jpeg, 66c32bbf707d828f
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/Picture Book/nonce book 3.jpg, a003be2da8863323
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/Picture Book/download (2).jpeg, 5e99537d24d6799a
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/Picture_Book_Study/Picture Book/download (1).jpeg, 418855aea356f543
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/cdi_and_motor_cleanup.R, 29ac3b34e5e7e2f1
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/.DS_Store, b642e95806aecebf
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/missing_surveys.csv, 84adde710fb86185
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Thumbs.db, d3e1ce5fa4fe1742
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Qualtrics_headers_conversion_cdi.csv, bf7cdfdd603746e9
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/CDI_response_key.xlsx, 1059da3fabef7dc1
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/README.rtf, 00d75fe054a14e31
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Motor_response_key.xlsx, 4bd3cc6340a35577
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/.Rhistory, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/cdi_and_motor_dates_notes.txt, 70bcac633e2e5c7c
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Qualtrics_headers_conversion_motor.csv, 5fe63452f08d3aef
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/cdi_and_motor_dates.csv, 39aa5f019af72de1
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Latest_Qualtrics_download_05-04-2018/latest_cdi_with_idmap_with_SeedlingsFinalSample.csv, 52a5bd8f5e8a5218
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Latest_Qualtrics_download_05-04-2018/latest_motor_with_idmap.csv, e6a68e4074153953
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Latest_Qualtrics_download_05-04-2018/.DS_Store, 5461b75e25f95bfd
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Latest_Qualtrics_download_05-04-2018/latest_motor_with_idmap_with_SeedlingsFinalSample.csv, eb4d7934599aa5b1
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Latest_Qualtrics_download_05-04-2018/latest_locomotor_cleaned.csv, 6e2d48bbfb4f3185
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Latest_Qualtrics_download_05-04-2018/.Rhistory, 113b55a6495a5579
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Latest_Qualtrics_download_05-04-2018/latest_cdi_with_idmap.csv, ddb1c2534f9a533d
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Latest_Qualtrics_download_05-04-2018/locomotor_precleaning.csv, 4f17e0be1d323a49
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Latest_Qualtrics_download_05-04-2018/Qualtrics_exports/Vocabulary+%28CDI%29+Words+%26+Gestures%3A+Seedlings_May+4%2C+2018_10.56.tsv, 4460696bff5964af
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Latest_Qualtrics_download_05-04-2018/Qualtrics_exports/Vocabulary_CDI_Words__Gestures_Seedlings_legacy.csv, d0377ac20b5a5bd5
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Latest_Qualtrics_download_05-04-2018/Qualtrics_exports/Vocabulary+%28CDI%29+Words+%26+Gestures%3A+Seedlings_May+4%2C+2018_10.51.csv, e20b98c4b0e6ef6e
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Latest_Qualtrics_download_05-04-2018/Qualtrics_exports/Seedlings_Motor_Survey_legacy.csv, db047fafe4112238
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Latest_Qualtrics_download_05-04-2018/Qualtrics_exports/Seedlings+Motor+Survey_May+4%2C+2018_11.04.csv, 6aef3c11fd1befa9
+/Volumes/pn-opus/Seedlings/Subject_Info_and_Paperwork/CDI & Motor/Latest_Qualtrics_download_05-04-2018/Qualtrics_exports/Seedlings+Motor+Survey_May+4%2C+2018_11.04.tsv, 0c231fcfc3d9bfd3

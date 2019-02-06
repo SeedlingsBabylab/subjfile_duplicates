@@ -1,0 +1,100 @@
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/.DS_Store
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/DataSource0036.txt
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Image_Stims/shoe18.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Image_Stims/cup.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Image_Stims/fish14.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Image_Stims/shoe.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Image_Stims/highchair9.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Image_Stims/doggy.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Image_Stims/cup20.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Image_Stims/chair.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Image_Stims/chair17.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Image_Stims/spoon19.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Image_Stims/ball.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Image_Stims/fish.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Image_Stims/doggy25.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Image_Stims/Thumbs.db
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Image_Stims/spoon.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Image_Stims/highchair.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Image_Stims/ball62.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Audio_Stims/where_highchair.wav
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Audio_Stims/look_fish.wav
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Audio_Stims/where_shoe.wav
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Audio_Stims/can_chair.wav
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Audio_Stims/look_doggy.wav
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Audio_Stims/can_spoon.wav
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Audio_Stims/do_ball.wav
+/Volumes/psych/BergelsonLab/Subject_Files/YM/Y36/Audio_Stims/do_cup.wav
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Generic and Unique Stimuli and Random Number Generator.xlsx
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/.DS_Store
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Thumbs.db
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/~$Generic and Unique Stimuli and Random Number Generator.xlsx
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y24 stimuli/Y24_book_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y24 stimuli/Y24_shoes_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y24 stimuli/Y24_drum_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y24 stimuli/Y24_maraca_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y24 stimuli/Y24_cat_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y24 stimuli/Y24_hammer_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y24 stimuli/Y24_tambourine_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y24 stimuli/Y24_paci_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y29 stimuli/Y29_book_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y29 stimuli/Y29_water_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y29 stimuli/Y29_dolly_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y29 stimuli/Y29_ducky_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y29 stimuli/Y29_brush_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y29 stimuli/Y29_puppy_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y29 stimuli/Y29_keys_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y29 stimuli/Y29_wubby_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y30 stimuli/Y30_book_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y30 stimuli/Y30_drum_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y30 stimuli/Y30_plate_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y30 stimuli/Y30_cup_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y30 stimuli/Y30_train_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y30 stimuli/Y30_broom_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y30 stimuli/Y30_blocks_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y30 stimuli/Y30_chair_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y12 stimuli/Y12_water_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y12 stimuli/Y12_garbage_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y12 stimuli/Y12_remote_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y12 stimuli/Y12_bath_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y12 stimuli/Y12_gate_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y12 stimuli/Y12_glasses_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y12 stimuli/Y12_tractor_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y12 stimuli/Y12_milk_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y38 stimuli/Y38_crib_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y38 stimuli/Y38_paci_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y38 stimuli/Y38_brush_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y38 stimuli/Y38_ball_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y38 stimuli/Y38_applesauce_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y38 stimuli/Y38_toothbrush_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y38 stimuli/Y38_iPad_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y38 stimuli/Thumbs.db
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y38 stimuli/Y38_milk_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y05 stimuli/Y05_puppy_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y05 stimuli/Y05_blocks_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y05 stimuli/MISSING STIMULI LIST.txt
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y05 stimuli/Y05_cow_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y05 stimuli/Y05_book_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y05 stimuli/Y05_shoe_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y05 stimuli/Thumbs.db
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y05 stimuli/Y05_spoon_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y05 stimuli/Y05_highchair_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y05 stimuli/Y05_stroller_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y11 stimuli/Y11_hat_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y11 stimuli/Y11_water_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y11 stimuli/Y11_phone_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y11 stimuli/Y11_keys_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y11 stimuli/Y11_shoe_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y11 stimuli/Y11_highchair_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y11 stimuli/Y11_diaper_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y11 stimuli/Y11_spoon_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y16 stimuli/Y16_pacifier_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y16 stimuli/Y16_bed_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y16 stimuli/Y16_diaper_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y16 stimuli/Y16_book_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y16 stimuli/Y16_doll_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y16 stimuli/Y16_puppy_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y16 stimuli/Y16_table_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y16 stimuli/Y16_ball_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y21 stimuli/Y21_highchair_combined.jpg
+/Volumes/psych/BergelsonLab/Subject_Files/YM/generic_and_unique/Y21 stimuli/Y21_dog_combined.jpg

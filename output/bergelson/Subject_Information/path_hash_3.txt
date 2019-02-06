@@ -1,0 +1,100 @@
+/Volumes/psych/BergelsonLab/Subject_Information/Etracking/VNA/V09_etracking.mp4
+/Volumes/psych/BergelsonLab/Subject_Information/Etracking/VNA/Thumbs.db
+/Volumes/psych/BergelsonLab/Subject_Information/Etracking/VNA/V19_etracking.mp4
+/Volumes/psych/BergelsonLab/Subject_Information/Etracking/VNA/V27_etracking.mp4
+/Volumes/psych/BergelsonLab/Subject_Information/Etracking/VNA/V21_etracking.mp4
+/Volumes/psych/BergelsonLab/Subject_Information/Etracking/VNA/V26_etracking.mp4
+/Volumes/psych/BergelsonLab/Subject_Information/Etracking/VNA/V35_etrackingpractice.mp4
+/Volumes/psych/BergelsonLab/Subject_Information/Etracking/VNA/V28_etracking.mp4
+/Volumes/psych/BergelsonLab/Subject_Information/Etracking/VNA/V36_etracking.mp4
+/Volumes/psych/BergelsonLab/Subject_Information/Etracking/VNA/V01_etracking.mp4
+/Volumes/psych/BergelsonLab/Subject_Information/Etracking/VNA/V08_etracking.mp4
+/Volumes/psych/BergelsonLab/Subject_Information/Etracking/VNA/V32_etracking.mp4
+/Volumes/psych/BergelsonLab/Subject_Information/DSC/.DS_Store
+/Volumes/psych/BergelsonLab/Subject_Information/DSC/~$DSC_demographics.xlsx
+/Volumes/psych/BergelsonLab/Subject_Information/DSC/DSC_vocab_exposure.xlsx
+/Volumes/psych/BergelsonLab/Subject_Information/DSC/.smbdeleteAAA1ff58e7db
+/Volumes/psych/BergelsonLab/Subject_Information/DSC/Thumbs.db
+/Volumes/psych/BergelsonLab/Subject_Information/DSC/DSC_babbling_feeding.xlsx
+/Volumes/psych/BergelsonLab/Subject_Information/DSC/DSC_demographics.xlsx
+/Volumes/psych/BergelsonLab/Subject_Information/DSC/Picture_Book/Picture_Book_Study.xlsx
+/Volumes/psych/BergelsonLab/Subject_Information/DSC/Picture_Book/Thumbs.db
+/Volumes/psych/BergelsonLab/Subject_Information/DSC/Picture_Book/PB_sign_out_sheet.xlsx
+/Volumes/psych/BergelsonLab/Subject_Information/NALTS/NALTS_vocab_exposure.xlsx
+/Volumes/psych/BergelsonLab/Subject_Information/NALTS/NALTS_babbling_feeding.xlsx
+/Volumes/psych/BergelsonLab/Subject_Information/NALTS/NALTS_demographics.xlsx
+/Volumes/psych/BergelsonLab/Subject_Information/NALTS/.smbdeleteAAA1ff624a71
+/Volumes/psych/BergelsonLab/Subject_Information/VNA/VNA_demographics.xlsx
+/Volumes/psych/BergelsonLab/Subject_Information/VNA/VNA_vocab_exposure.xlsx
+/Volumes/psych/BergelsonLab/Subject_Information/VNA/.smbdeleteAAA1ffed1d22
+/Volumes/psych/BergelsonLab/Subject_Information/VNA/~$VNA_demographics.xlsx
+/Volumes/psych/BergelsonLab/Subject_Information/VNA/VNA_babbling_feeding.xlsx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/HI_ELSSP_Subject_Numbers.xlsx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/Duke Research Data - ABD-redacted- Annual Assessment March 2017.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/~$ke Research-redacted-Data 12.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/JB Annual Progress-Redacted 1-17-18.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/HP Annual-redacted-assessment 6-3-15.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/.DS_Store
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/Duke Research Data - MJF Progress-redacted February 2018.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/.smbdeleteAAA1fd44a7eb
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/readme.txt
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/~$HI_ELSSP_SubjectInformation.xlsx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/HP transition report-redacted 11-16.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/HI_ELSSP_Subject_Information.xlsx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/kpk-redacted transition mc art 9-2018.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/Duke Research Data - ABD-redacted Annual Assessment March 2018.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/HI_ELSSP_SubjectInfo_10-29-18.csv
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/ojlm transition mc art-redacted 10-2018.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/Duke Research Data - MJF Progress February 2018.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/Duke Research Data - ABD 6-Month Progress-redacted- Assessment September 2017.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/HP Annual assessment-redacted 5-18-16.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/Duke Research Data - MJF-redacted- Annual Progress September 2018.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Final-TransitionReport-JR-Feb17.doc
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/TT-Redacted-Trans-final- 5.16.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research Data-Redacted %287%29.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research Data - RDM Annual Progress Assessment-redacted February 2017.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research Data-Redacted %288%29.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Redacted-TF-FinalReport%2716.doc
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/AJ-Redacted-Final-Transition Assessment-Aug17.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/SB Annual Assessment -redacted6-18.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/MW-Redacted-Trans-final- 11.16.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/CHP-Final-Transition Assessment-April18.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/DS Annual Report-redacted 6-17.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research Data - RDM Annual Progress Assessment-redacted March 2018.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research Data-redacted 17.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/.DS_Store
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/SB-Final-Transition Assessment-July17.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research Data - APM Progress-redacted Feb 2017.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/HA-Redacted-Initial assessment-Sept17.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/SG-redacted- transFinal 2.17.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research Data-Redacted 18.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/KS-Redacted-TransFinal 11.16.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/readme.txt
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research-redacted-Data 13.doc
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/LO-Redacted-Annual Progress-July18.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research Data-redacted14.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/JF-redacted-initialassessment.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research-redacted-Data 12.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Resarch Data - APM Annual Progress-redacted Assessment July 2017.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research-redacted-Data 11.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research Data-Redacted 21.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/SB Initial assessment-redacted  5-17.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research-redacted-Data 9.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research Data-Redacted20.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/AG-Final-Transition Assessment-July18.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research Data (3)-Redacted.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/MT-Redacted-Transition Assessment-Sept.17-Final.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research Data-Redacted 19.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/GM Annual Progress-Redacted Report 12-17.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research Data-Redacted.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/HH-Initial assessment-July18.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research Data-redacted 15.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/MT-Redacted-Annual Progress-April%2717.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research Data-Redacted (2).docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research Data (4)-Redacted.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/AW-Redacted-Annual Progress-July18.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/HG-Redacted-Initial assessment-July18.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/CP-Redacted-Annual Progress-Nov.17.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research-redacted- Data10.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/JT-Redacted-Final-Initial assessment-jun 2718.docx
+/Volumes/psych/BergelsonLab/Subject_Information/HI_ELSSP/IntakeSheetsFiled/Duke Research Data-redacted %286%29.docx

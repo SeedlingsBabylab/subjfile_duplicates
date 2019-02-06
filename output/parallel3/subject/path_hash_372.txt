@@ -1,0 +1,100 @@
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Analysis/Audio_Analysis/old_files/29_08_audio_sparse_code_2018-03-14.csv
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Analysis/Audio_Analysis/old_files/29_08_coderTE_audio_checkSM.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Analysis/Audio_Analysis/old_files/29_08_audiocount.txt
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Analysis/Audio_Analysis/old_files/29_08_coderTE_audio_ready_for_check.csv
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Analysis/Audio_Analysis/old_files/29_08_audio_sparse_code_2018-03-13.csv
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Analysis/Audio_Analysis/old_files/Thumbs.db
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Analysis/Video_Analysis/29_08_video_sparse_code.csv
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Analysis/Video_Analysis/old_files/29_08_videocount.txt
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Analysis/Video_Analysis/old_files/29_08_coderJH_video_checkSM.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Analysis/Video_Analysis/old_files/Thumbs.db
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Analysis/Video_Analysis/old_files/29_08_coderJH_video_ready_for_check.csv
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Analysis/Video_Analysis/old_files/29_08_video_sparse_code_2017-09-14.csv
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Coding/Video_Annotation/29_08_sparse_code.opf
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Coding/Video_Annotation/29_08_Video_Coding_Issues.docx
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Coding/Video_Annotation/29_08_coderJH_personal_info.csv
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Coding/Audio_Annotation/29_08_sparse_code.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Coding/Audio_Annotation/29_08_Audio_Coding_Issues.docx
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Coding/Audio_Annotation/29_08_sparse_code_timestamp_error.csv
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Coding/Audio_Annotation/old_chas/29_08_sparse_code_2018-04-17.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Coding/Audio_Annotation/old_chas/29_08_sparse_code_2018-10-24-16-19-15.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Coding/Audio_Annotation/old_chas/29_08_sparse_code_2018-10-19-11-40-35.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Coding/Audio_Annotation/old_chas/29_08_sparse_code_2018-10-29-10-52-52.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Coding/Audio_Annotation/old_chas/29_08_sparse_code_2018-10-24-15-7-41.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Coding/Audio_Annotation/old_chas/29_08_differences.cex
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Coding/Audio_Annotation/old_chas/29_08_coderLN.cex
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Coding/Audio_Annotation/old_chas/29_08_sparse_code_2018-10-29-16-50-52.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Coding/Audio_Annotation/old_chas/29_08_sparse_code_2018-10-29-14-45-44.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Coding/Audio_Annotation/old_chas/29_08_sparse_code_2018-10-22-16-39-19.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Coding/Audio_Annotation/old_chas/29_08_sparse_code_2018-10-29-14-4-5.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Coding/Audio_Annotation/old_chas/29_08_coderLN.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Coding/Audio_Annotation/old_chas/29_08_sparse_code_2018-07-12.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Coding/Audio_Annotation/old_chas/29_08_sparse_code_2018-10-29-10-5-42.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/Home_Visit/Coding/Audio_Annotation/old_chas/29_08_sparse_code_2018-04-27.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/In-Lab_Visit/Eyetracking/29_08_etracking.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/In-Lab_Visit/Eyetracking/DataSource2908.txt
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/In-Lab_Visit/Eyetracking/29_08_etracking.MTS
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/In-Lab_Visit/Eyetracking/Thumbs.db
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/In-Lab_Visit/Stimuli/29_08_stimuli.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/In-Lab_Visit/Stimuli/Image_Stims/baby.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/In-Lab_Visit/Stimuli/Image_Stims/chewy.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/In-Lab_Visit/Stimuli/Image_Stims/bed.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/In-Lab_Visit/Stimuli/Image_Stims/stroller2.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/In-Lab_Visit/Stimuli/Image_Stims/ball16.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/In-Lab_Visit/Stimuli/Image_Stims/Thumbs.db
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/In-Lab_Visit/Stimuli/Image_Stims/monkey6.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/In-Lab_Visit/Stimuli/Image_Stims/chicken4.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/In-Lab_Visit/Stimuli/Image_Stims/foot.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/In-Lab_Visit/Stimuli/Audio_Stims/do_monkey.wav
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/In-Lab_Visit/Stimuli/Audio_Stims/look_chewy.wav
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/In-Lab_Visit/Stimuli/Audio_Stims/can_bed.wav
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/In-Lab_Visit/Stimuli/Audio_Stims/look_stroller.wav
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/In-Lab_Visit/Stimuli/Audio_Stims/where_ball.wav
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/In-Lab_Visit/Stimuli/Audio_Stims/do_baby.wav
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/In-Lab_Visit/Stimuli/Audio_Stims/can_foot.wav
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_08/In-Lab_Visit/Stimuli/Audio_Stims/where_chicken.wav
+/Volumes/pn-opus/Seedlings/Subject_Files/29/Toy pictures/chewy.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/29/Toy pictures/IMAG1453.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/29/Toy pictures/IMAG1201.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/29/Toy pictures/IMAG1455.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/29/Toy pictures/IMAG1205.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/29/Toy pictures/IMAG1450.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/29/Toy pictures/IMAG1208.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/29/Toy pictures/IMAG1202.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/29/Toy pictures/IMAG1206.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/29/PictureBook_29_14/29_14_PB_Reading_Log.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Files/29/PictureBook_29_14/29_14_PB_Recordings/REC005.WAV
+/Volumes/pn-opus/Seedlings/Subject_Files/29/PictureBook_29_14/29_14_PB_Recordings/REC004.WAV
+/Volumes/pn-opus/Seedlings/Subject_Files/29/PictureBook_29_14/29_14_PB_Recordings/REC001.WAV
+/Volumes/pn-opus/Seedlings/Subject_Files/29/PictureBook_29_14/29_14_PB_Recordings/REC002.WAV
+/Volumes/pn-opus/Seedlings/Subject_Files/29/PictureBook_29_14/29_14_PB_Recordings/REC017.WAV
+/Volumes/pn-opus/Seedlings/Subject_Files/29/PictureBook_29_14/29_14_PB_Recordings/REC010.WAV
+/Volumes/pn-opus/Seedlings/Subject_Files/29/PictureBook_29_14/29_14_PB_Recordings/REC016.WAV
+/Volumes/pn-opus/Seedlings/Subject_Files/29/PictureBook_29_14/29_14_PB_Recordings/REC013.WAV
+/Volumes/pn-opus/Seedlings/Subject_Files/29/PictureBook_29_14/29_14_PB_Recordings/REC019.WAV
+/Volumes/pn-opus/Seedlings/Subject_Files/29/PictureBook_29_14/29_14_PB_Recordings/REC008.WAV
+/Volumes/pn-opus/Seedlings/Subject_Files/29/PictureBook_29_14/29_14_PB_Recordings/REC011.WAV
+/Volumes/pn-opus/Seedlings/Subject_Files/29/PictureBook_29_14/29_14_PB_Recordings/REC003.WAV
+/Volumes/pn-opus/Seedlings/Subject_Files/29/PictureBook_29_14/29_14_PB_Recordings/REC012.WAV
+/Volumes/pn-opus/Seedlings/Subject_Files/29/PictureBook_29_14/29_14_PB_Recordings/REC007.WAV
+/Volumes/pn-opus/Seedlings/Subject_Files/29/PictureBook_29_14/29_14_PB_Recordings/REC009.WAV
+/Volumes/pn-opus/Seedlings/Subject_Files/29/PictureBook_29_14/29_14_PB_Recordings/REC015.WAV
+/Volumes/pn-opus/Seedlings/Subject_Files/29/PictureBook_29_14/29_14_PB_Recordings/REC006.WAV
+/Volumes/pn-opus/Seedlings/Subject_Files/29/PictureBook_29_14/29_14_PB_Recordings/REC018.WAV
+/Volumes/pn-opus/Seedlings/Subject_Files/29/PictureBook_29_14/29_14_PB_Recordings/REC014.WAV
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_14/.DS_Store
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_14/Home_Visit/.DS_Store
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_14/Home_Visit/Processing/Video_Files/29_14_main1.MTS.sfk
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_14/Home_Visit/Processing/Video_Files/29_14_down1.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_14/Home_Visit/Processing/Video_Files/29_14_main2.MTS.sfk
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_14/Home_Visit/Processing/Video_Files/29_14_parent1.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_14/Home_Visit/Processing/Video_Files/29_14_down1.mp4.sfk
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_14/Home_Visit/Processing/Video_Files/29_14_up1.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_14/Home_Visit/Processing/Video_Files/29_14_up1.mp4.sfk
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_14/Home_Visit/Processing/Video_Files/29_14_combined.veg.bak
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_14/Home_Visit/Processing/Video_Files/Thumbs.db
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_14/Home_Visit/Processing/Video_Files/29_14_usbaudio1.WAV
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_14/Home_Visit/Processing/Video_Files/29_14_usbaudio1.sfk
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_14/Home_Visit/Processing/Video_Files/29_14_combined.veg
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_14/Home_Visit/Processing/Video_Files/29_14_video.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/29/29_14/Home_Visit/Processing/Video_Files/29_14_parent1.mp4.sfk

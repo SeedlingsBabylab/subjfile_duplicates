@@ -1,0 +1,100 @@
+/Volumes/psych/BergelsonLab/Lab_Papers/.DS_Store, 857c6cd4f7cec218
+/Volumes/psych/BergelsonLab/Lab_Papers/Bergelson&Aslin_underreview/Bergelson&Aslin_manuscript_pnas.pdf, 08a7e38ff37f980b
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/amatuni_5_11.pdf, e4530a40f3566a6a
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/.DS_Store, 2f05495cdd8616a0
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/.DS_Store, 5584f9cc1e8d3dca
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/notebooks/merge_data.ipynb, ccc1de9eafc800de
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/notebooks/new_words.ipynb, a5ff3d1651e4b915
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/notebooks/generate_graphs.ipynb, 93418aef632e4995
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/notebooks/.DS_Store, 416406f91d840a6f
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/notebooks/word_learning.ipynb, 3874763a69c013df
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/notebooks/example_graph.ipynb, 2486b90f3a257602
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/notebooks/random_uniform.ipynb, 2c0858450456626a
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/notebooks/freq_vs_edges.ipynb, 27713b072001ba51
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/notebooks/clustering.ipynb, 01ba6e3faae9dabb
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/notebooks/powerlaw_fits.ipynb, 7a444f8c890ce17d
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/notebooks/compare_graph.ipynb, a4dc0fc8546281f5
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/notebooks/degree_distribution.ipynb, c26b66dceed1327e
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/notebooks/data/wordbank_english.csv, 6f88863e639d1f38
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/notebooks/data/glove_unit_42b_300.npy, bc3f13c20e1c228a
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/notebooks/data/dict_glove_42b_300, cc2343ddd4f1b337
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/notebooks/data/all_bl_no_fixme_no_CHI.csv, 0f55bd5f3eb89a7d
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/edges_v_freq.R, edb8778b64483a0c
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/.DS_Store, a52173d38d0d6837
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/degree_distributions.R, ff59d9c13088f86c
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/wordlearning.R, 0b8ab7f8725fe54e
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/binary_learn.R, db7879c1386f6021
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/semspace.R, 31496eaf72724286
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/semspace.Rproj, ede91fd86ecb7619
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/overlapping_fits.R, 146ddf3126e6e3fc
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/edges_vs_cdi.R, ff6c977db9aed0ef
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/data/seedlings_all_13_wordbank_freq.csv, 3a24fcaa7aa35528
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/data/edges_vs_cdi_seedlings1617mo.csv, 28cdf9b5b202c35f
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/data/edges_vs_cdi_seedlings_all.csv, 00047423dce24a9d
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/data/.DS_Store, b3310d6eca4e9d11
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/data/wordlearning_original.csv, 7e91cebbe3b6f3c8
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/data/seed_wordbank_overlapping_powerlaw.csv, 77fa8607aab2a9a5
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/data/degree_dist.csv, ae678af3cf113813
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/data/edges_vs_cdi_wordbank.csv, 94b324c3cc391e83
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/data/seedlings_all_013_freq_edges.csv, c3779eedea62dcc0
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/data/seed_013_deg_dist.csv, 4b34756522fd696b
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/data/edges_vs_cdi_seedlings6mo.csv, 452603c635ae0367
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/data/seedlings_1617mo_012_freq_edges.csv, 7d000ed23ca94c34
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/data/wordlearning.csv, 1b954939aacc71af
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/data/seedlings_6mo_016_freq_edges.csv, c98b987fc0a01983
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/data/binary/seed_all_0.13.csv, 8c7f1a13830ed5a4
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/data/binary/.DS_Store, 3d217c89b81ac72e
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/data/binary/wordbank_16_0.6.csv, 95371dce1f692ad9
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/data/binary/seed_6mo_0.16.csv, 70ca2e0fa98d3ac7
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/data/binary/wordbank_23_0.6.csv, 98031ae621a88517
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/data/binary/seed_1617mo_0.12.csv, 706303cac3a498ba
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/R/data/binary/wordbank_30_0.6.csv, 86bf89e255197439
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/wordgraph/README.md, 65a510cb21d92cd1
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/wordgraph/.DS_Store, 3c6ec9298f4fdb03
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/wordgraph/setup.py, 7fe3722922009cbe
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/wordgraph/wordgraph/simfunc.py, bae36de5fd85581f
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/wordgraph/wordgraph/vecmodel.py, 09057b126499fb88
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/wordgraph/wordgraph/write.py, 21e42daf83e78214
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/wordgraph/wordgraph/wordgraph.py, d39810a9cad5052b
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/wordgraph/wordgraph/__init__.py, aa3048e97fd67ba5
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/code/wordgraph/wordgraph/load.py, 84858f391480f31e
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/tex/.DS_Store, e514216f69da8529
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/tex/main.tex, 731d7f4f0294ef10
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/tex/cogsci.sty, 5a25092464cf9f41
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/tex/amatuni_cogsci2017.bib, 83718ffdc2646c28
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/tex/graphs/.DS_Store, 3d217c89b81ac72e
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/tex/graphs/wordlearning.pdf, 7f4065fa66738e25
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/tex/graphs/semgraph.png, 8486170fb12ba9a6
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/tex/graphs/pl_deg_dist.pdf, 20d9582003bffe56
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/poster/amatuni_bergelson_32x51.pdf, f1d0c51d623d74f6
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/poster/.DS_Store, 3d217c89b81ac72e
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2017/poster/semnets_poster.pages, d9b34e71f3752b8a
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2018/.DS_Store, d2cbf1972b2e822d
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2018/reading/[Abbott] Testing a Bayesian Measure of Representativeness Using a Large Image Database.pdf, 4bda42c37e0981ba
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2018/reading/[Griffiths] Exploring Human Cognition Using Large Image Databases.pdf, be8ff8cc86299d4b
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2018/reading/[Tversky] Subjective probability- A judgment of representativeness.pdf, bb2c2b922a1610e5
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2018/reading/[Tversky] Extensional versus Intuitive Reasoning- The Conjunction Fallacy in Probability Judgment,.pdf, fd08d9f51598a811
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2018/reading/[Sun] Exploring Implicit Image Statistics for Visual Representativeness Modeling.pdf, b37d3c77a66bfadf
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2018/reading/[Jia] Visual Concept Learning- Combining Machine Vision and Bayesian Generalization on Concept Hierarchies.pdf, ee13881b6b40ec5b
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2018/reading/[Twomey] All the Right Noises- Background Variability Helps EarlyWord Learning.pdf, 73779c99dfe7dc08
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2018/reading/[Donahue] DeCAF- A Deep Convolutional Activation Feature for Generic Visual Recognition.pdf, bc721c50e209e2e5
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2018/reading/[Popov] Target-to-distractor similarity can help visual search performance.pdf, aa113db1b3a6b45b
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2018/reading/[Rafferty] Optimal Language Learning- The Importance of Starting Representative.pdf, ad0b89cef9e93817
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2018/reading/[Hsu] Identifying representations of categories of discrete items using Markov chain Monte Carlo with People.pdf, ac9e011ea0c983c4
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2018/reading/[Hsu] Subjective randomness and natural scene statistics.pdf, ddd6e1a6dca00e42
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_cogsci2018/reading/[Tenenbaum] The Rational Basis of Representativeness.pdf, 1e39a22afcc57a3e
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_openmind2018/.DS_Store, 48f0c42804c53d37
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_openmind2018/model/glove_unit_42b_300.npy, bc3f13c20e1c228a
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_openmind2018/model/dict_glove_42b_300, cc2343ddd4f1b337
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_openmind2018/output/graphs/.DS_Store, cd89a6b5068eba18
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_openmind2018/output/graphs/cc_7/cos_0.25, df0aeae5baccfb53
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_openmind2018/output/graphs/cc_7/cos_0.5, 20ac78b1703ba912
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_openmind2018/output/graphs/cc_7/cos_0.28, b3e790f02daaefa3
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_openmind2018/output/graphs/cc_7/cos_0.56, a75fbf6d7263e593
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_openmind2018/output/graphs/cc_7/cos_0.06, ade3973645e5d5b4
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_openmind2018/output/graphs/cc_7/cos_0.63, aca67c903c60722c
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_openmind2018/output/graphs/cc_7/cos_0.73, c941a205c98ae92a
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_openmind2018/output/graphs/cc_7/cos_0.23, 196da2b76bcb3b3f
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_openmind2018/output/graphs/cc_7/cos_0.66, 7f7ed2d2d89b913e
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_openmind2018/output/graphs/cc_7/cos_0.29, e06d59b419a3d5ca
+/Volumes/psych/BergelsonLab/Lab_Papers/andrei_openmind2018/output/graphs/cc_7/cos_0.89, 66336506973bc8df

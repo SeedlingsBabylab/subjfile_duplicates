@@ -1,0 +1,100 @@
+/Volumes/psych/BergelsonLab/temp/Consonant production 4-13.csv, ff236541a2515b64
+/Volumes/psych/BergelsonLab/temp/DataViewerScreenCap.JPG, f04f068763e6a3ed
+/Volumes/psych/BergelsonLab/temp/eye002.log, 853363d60ddb8325
+/Volumes/psych/BergelsonLab/temp/d101.edf, ef46db3751d8e999
+/Volumes/psych/BergelsonLab/temp/.DS_Store, 122f3c3a50404e45
+/Volumes/psych/BergelsonLab/temp/eye001.log, 01b3249dd890189b
+/Volumes/psych/BergelsonLab/temp/warning_test.JPG, 0d44442c6432e60a
+/Volumes/psych/BergelsonLab/temp/warning_subj.JPG, 34daaa482b5d5992
+/Volumes/psych/BergelsonLab/temp/d101 (2).edf, ef46db3751d8e999
+/Volumes/psych/BergelsonLab/temp/Thumbs.db, 5f7474c25044a903
+/Volumes/psych/BergelsonLab/temp/eye002.zip, 71515b97e7c80671
+/Volumes/psych/BergelsonLab/temp/eye.log, d140985e46799287
+/Volumes/psych/BergelsonLab/temp/01_06_coderJS_final.opf, 7eb8c2cc8ce6be52
+/Volumes/psych/BergelsonLab/temp/error_subj.JPG, bb0d61427e981143
+/Volumes/psych/BergelsonLab/temp/01_06_video.mp4, c34d9e1ba2acb3c5
+/Volumes/psych/BergelsonLab/temp/Catherine R problem.R, a7937464aaf0cdf9
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/Preferences.properties, e23ee454db5c91de
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/pn-3232626029231207286_exp.pyc, cb6d9603eacf9b73
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/graph.ebd.bak, 48ccf4c4152076d8
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/graph.ebd, 64731cedd7a26da9
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/results/test/actual_TRIAL_DataSource_VNAfadeinTRIAL.dat, d42741bc5a7a87aa
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/results/test/eb_messages.log, 16e969ef27ee4029
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/results/test/RESULTS_FILE.txt, 9b270adf3ee7fa14
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/results/test/warning.log, 3cbb7f677fcf88a5
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/banana_stereo.wav, e7b765d8cfb52eba
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/joomp_can.wav, a4bac86e2a56c397
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/kiss_about.wav, af7a9f24530a2484
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/AG2.wav, b408ce0be446e95f
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/rowd_can.wav, 2ab9fcaa5504b107
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/koss_about.wav, 00ecb1e0afdde394
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/roan_can.wav, 3b3cf87dc9a20468
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/read_can.wav, c1061e2ecb0f10d8
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/cracker_stereo.wav, 29d4e145809a7df3
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/apple_stereo.wav, dfc74707b28c4316
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/cline_can.wav, 78a45dd35282aac9
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/aulait2.wav, e9f10d55d40fcfcb
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/AG4.wav, 1ca146ae6b0fbae9
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/run_can.wav, cc6f06ff8db4e3fc
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/throw_gonna.wav, 87012f158ffec813
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/thraw_gonna.wav, 5d2af308d23a0f24
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/aulait3.wav, e5ee3efd1f78ea9f
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/wick_gonna.wav, fa1875f2cf8245fc
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/pop_65db.wav, f0fbc6900f0af754
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/aulait1.wav, 7f05178b31d22fc5
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/pop.wav, f81ba99171671a89
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/cat_stereo.wav, d9e13950068110fc
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/AG1.wav, f064d41364d6aae8
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/attention_getter.wav, ef72652788d48721
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/beep_65db.wav, 1456dde5fd2295ae
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/AG3.wav, df95022b82b77987
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/bird.wav, 3fcdd64dd09855a6
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/aulait4.wav, cf8d0a23c34a3b9a
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/jump_can.wav, 0634746e0508d082
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/droink_about.wav, a353909066f49834
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/beep.wav, 52e950145b8e64da
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/walk_gonna.wav, 865ec364ad4ffee3
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/clean_can.wav, 1a1c420637c40170
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/audio/drink_about.wav, e90471623f29633d
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/cal_bulls_eye_black_bg.avi, a20f874d5cb7fa40
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/ref1.xvd.png, 7691fb8183abd177
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/fixation1.xvd.png, d0f7cbcea15b2842
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/drink.xvd, 78ee6c212a32234b
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/fixation2.xvd.png, d0f7cbcea15b2842
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/cal_bulls_eye.avi, 38b36ce5199a8ce3
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/cal_star_black_bg.avi, bfe8c3991513d564
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/kiss.xvd, 2ec5f6881e569e20
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/ref3.xvd, 6938cce263c453ee
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/fixationstar.xvd, fcd8654a2cf2a2d8
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/fixation3.xvd, e2f4364a9a36780f
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/fixation1.xvd, a7feb308f841ac7e
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/kiss.xvd.png, e2489bddca9d12a5
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/cal_bulls_eye_black_bg.avi.png, 432424831519947d
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/fixation2.xvd, 4e445b1a19777d9f
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/walk.xvd, 51fef440ef80d237
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/fixation4.xvd, 6aedd26b6c895478
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/jump.xvd, cd4d0550dd16f6b1
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/cal_star_black_bg.avi.png, e3387298f7a05f12
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/ref2.xvd.png, e10768b8875b0a23
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/ref2.xvd, 3618ded69bd723d5
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/walk.xvd.png, e2489bddca9d12a5
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/run.xvd.png, c9808a2e59073fb5
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/clean.xvd, 17c70312a958477a
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/fixation_centering_star_largeX.xvd, 9b2d81bdb2494bf5
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/drink.xvd.png, e2489bddca9d12a5
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/fixation_centering_star_largeX.xvd.png, 83347374f2d1d6b3
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/cal_bulls_eye.avi.png, 432424831519947d
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/throw.xvd, 7bca039225e89a04
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/jump.xvd.png, a0cc47b635a780b0
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/fixationstar.xvd.png, 2069aae421662068
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/star1500.xvd, 244f5c45f725faa8
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/throw.xvd.png, e2489bddca9d12a5
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/run.xvd, fc994f374adcec81
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/ref1.xvd, 50422d256cbb15ce
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/read.xvd, 3c2d0626c8b42221
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/read.xvd.png, 2ff98ff9a8c3ada4
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/star1500.xvd.png, 6cb4ac7b6d8177aa
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/fixation3.xvd.png, d0f7cbcea15b2842
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/clean.xvd.png, e2489bddca9d12a5
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/fixation4.xvd.png, 574191096e2ea750
+/Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/ref3.xvd.png, 35b8373118d61fff

@@ -1,0 +1,100 @@
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/seed education level_d9364b7c3de0182399a8443ffbbd0220.rdx, 33def52fcf8d3db3
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/cdi_9314092d909eb1f952f10b4e6065e8a8.rdx, 33def52fcf8d3db3
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/cdi_9314092d909eb1f952f10b4e6065e8a8.rdb, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/ns race_d0d290aa9aad8347798355502ab01208.RData, 38916f74847168a1
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/cdi sd_df7809b202687986aa2726e65550736a.rdb, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/ns education level_9a141ab4edbb082b0e7f5050628a6f12.rdb, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/cdi mode_82100028e27d561c6fab3619e1dc4378.RData, 6e2d3cbb6d848aaa
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/prep_3bfad0947cad92060f40ba530490edac.RData, 218298243217cba4
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/brent moms_c99feeb68cc584dc2c4391b18e07268a.RData, 70fdfffbf5771a7c
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/cdi prep_f8cf2c6290ed6298cd61f0e244f6dcf6.rdx, cb2b1f27a43ad885
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/race prep_b9226c275f56b7f27b5e3673e72cdd88.rdx, 5257c85be4bc66a4
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/reading in the data_271d75070ef5dc1017041a5fcbb9c07a.rdb, e3d3f08997d4b7bb
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/gender_4d87425f920cc6e2d0851fce848a213e.RData, 05282a1228232749
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/ns education level_9a141ab4edbb082b0e7f5050628a6f12.RData, 9a3388710bd6f4d1
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/subj age and gender_e43d0fa658d4572b7d8cb1d5e6550f71.RData, 0d914847cfaea4ca
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/vocab exposure_b9ffa89af97fb5500072a50f888eea96.rdb, 2747730fdc65383f
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/audios_d16cf7655ec04bf878c0f086a8b3e7b5.rdx, 318a0579ee81711e
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/ns education level_9a141ab4edbb082b0e7f5050628a6f12.rdx, 33def52fcf8d3db3
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/brent count_25a46e3ef5376af89915e0f51d0eb9c2.rdb, ef46db3751d8e999
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/demo_a6961254a527355dbdca4f5ddd01ffe6.RData, 1b2454d521f1c131
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/Shannon_06mo_methods/6mo_methods_cache/html/motor_551a7dc2bcc61c4d903e2d78f4a83cc0.rdx, 8f9013384af49f02
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/.DS_Store, f3d89444fcebcb9e
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.evs, 0728e2dba96d3f69
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/23.trl, ea32f736d4d4d977
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/3.trl, 231eb961b94d52bd
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/7.trl, bd4fbff5a2a2ff92
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/10.trl, ab20010df486b2cd
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/31.trl, fee2c39b5300f227
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/8.trl, a30f4fd7d23a8b31
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/30.trl, 1401a4b84921c8c9
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/26.trl, 6ee34bae3b372def
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/14.trl, 36ebc28ddd69bd64
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/13.trl, d4392c22da0e2605
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/25.trl, 0198e436af334989
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/5.trl, 84484e1adb50259d
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/24.trl, 84a7de46475be918
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/2.trl, 06fc676533eb3ba5
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/1.trl, 4774cc18ea754626
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/36.trl, 6a81dfe327afd1fb
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/32.trl, ed27f78124cb4c5b
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/15.trl, 4eea546b22486e81
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/29.trl, f4bfa5b935710c50
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/18.trl, 455696fa60e6b413
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/27.trl, b8487ca231167453
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/20.trl, 14ce19544d4695f1
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/35.trl, 23d93a7f29c0b8ca
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/33.trl, dcbc2b8466a38a75
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/34.trl, 177b67b43e2e2f9b
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/28.trl, 1b2b3072aae5c406
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/17.trl, 55bc05c24a9b6249
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/16.trl, 0be0120460a21a8c
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/19.trl, 4b2feca5cdb5d3cf
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/22.trl, 7a1d3b11d4e674dd
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/12.trl, e5e72607d415d73c
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/4.trl, edcd988d7051540e
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/21.trl, 66dd145687d97c06
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/31_06.ses, c90a29dd86851f8f
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/6.trl, 193cd02e95a9755a
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/11.trl, 37e353c97808d1d4
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/31_06/9.trl, d6d24153552ae4b3
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/23.trl, e589dcc1571ed147
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/3.trl, 10b21590c225e781
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/7.trl, d685630b101f4df3
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/10.trl, 33194369fa4bfb09
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/31.trl, 6b343859dd8d1f68
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/8.trl, aabaa533e97c1276
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/30.trl, f3d253309af43898
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/26.trl, 59afcb0c98b2c62b
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/14.trl, a9e1076520b59736
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/13.trl, 6f11169c17724c70
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/25.trl, 3aba22bf165b41b1
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/5.trl, fd7d1524ea20e39c
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/24.trl, ff42bb9f1934ea05
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/2.trl, e998a9f189ec7422
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/1.trl, e5ecaf7ed35bb44c
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/36.trl, 5f92265d976dba10
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/32.trl, 5bf327857b846ad3
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/15.trl, 7de38ebd005ad909
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/29.trl, 64366ac46d5a85d2
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/18.trl, 4f441ee90aca193c
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/27.trl, ef12ae9cabbfae5f
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/20.trl, e5960f4456488f1a
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/04_06.ses, be77ed1b964b1746
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/35.trl, 38271194ab29e9a4
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/33.trl, 3add03a62830ab23
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/34.trl, f5e88579ba7d7c21
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/28.trl, 7901f1b41276ca46
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/17.trl, 02530110bf3d69aa
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/16.trl, 7acf3a6d4436900a
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/19.trl, 42b857e0e3b403db
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/22.trl, 0652b695076bd9ec
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/12.trl, 1ece5a24cee408aa
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/4.trl, 7cfe3afce24f5129
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/21.trl, 4ceb4682f46584e8
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/6.trl, 7b4fb10369c4586f
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/11.trl, 935cc0c21779441a
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/04_06/9.trl, 5b590f62dc013001
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/ns02/23.trl, 02497973b87c2990
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/ns02/3.trl, e395ea77e152fa8b
+/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonthstudy_sixmonthsonly1_6_17/sixmonthstudy_sixmonthsonly1_6_17.res/ns02/7.trl, 793a88512a7ef42c

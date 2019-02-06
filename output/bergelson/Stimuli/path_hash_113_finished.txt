@@ -1,0 +1,100 @@
+/Volumes/psych/BergelsonLab/Stimuli/VNA/original_footage/older footage/Original footage/20170523151207.MTS, 7ab227b1273a6315
+/Volumes/psych/BergelsonLab/Stimuli/VNA/original_footage/older footage/Original footage/20170523151616.MTS, 45dd130490465259
+/Volumes/psych/BergelsonLab/Stimuli/VNA/original_footage/older footage/Original footage/20170523142703.MTS, bffdf53ea7cfcd56
+/Volumes/psych/BergelsonLab/Stimuli/VNA/original_footage/older footage/Original footage/20170523152058.MTS, e8152e3fe07f1e6d
+/Volumes/psych/BergelsonLab/Stimuli/VNA/original_footage/older footage/Original footage/20170523151545.MTS, 011e5ace4b4a0101
+/Volumes/psych/BergelsonLab/Stimuli/VNA/original_footage/older footage/Original footage/20170523145541.MTS, dc3572b8f589c143
+/Volumes/psych/BergelsonLab/Stimuli/VNA/original_footage/older footage/Original footage/20170523151722.MTS, 281016ede5968f20
+/Volumes/psych/BergelsonLab/Stimuli/VNA/original_footage/older footage/Original footage/20170523150838.MTS, 33519b899cdf18ac
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/.DS_Store, 6d2b898a038e5ea8
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/read/read_can2.wav, 1fc1f51233163706
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/read/read_gonna5.wav, a3c6b3b6cb9485a8
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/read/rowd_can3.wav, 113954e6a459b066
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/read/rowd_gonna5.wav, e9775272531f2b64
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/throw/throw_wowgonna1.wav, e374b9e89139ff67
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/throw/thraw_wowgonna1.wav, 87328296af6e3885
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/throw/throw_about2.wav, d180ed7f5c5c2c70
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/throw/thraw_about2.wav, cd82ad53df792264
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/throw/thraw_can1.wav, b646e80c591cded3
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/throw/throw_can3.wav, 3a7e6a15a05b6f27
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/run/roan_can3.wav, 65ca2cc0a218183c
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/run/reen_can3.wav, 2c5a9013934a1b8b
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/run/run_can1.wav, 1ca541ea28c60de8
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/run/reen_wowgonna5.wav, 4644c20787f8ca66
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/run/roan_wowgonna3.wav, 603cf354325cb39f
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/run/run_wowgonna1.wav, 77554a022dc8b4a6
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/drink/drink_can1.wav, 28905da2eba634a9
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/drink/droink_gonna3.wav, a99dfacdb79e96c0
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/drink/droink_about1.wav, c15a24ebbc988b41
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/drink/drink_about2.wav, dbc8ec4db8fa4b6e
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/drink/droink_can1.wav, ad0bf0dfe71a077b
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/drink/drink_gonna3.wav, 233dec00e1f8d618
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/Offramp/03 Au Lait.m4a, ec77f13850b61949
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/kiss/koss_gonna3.wav, f278877c45480edc
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/kiss/kiss_can1.wav, 67d2975b7f4c2303
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/kiss/koss_can3.wav, c31dd15ebcd25288
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/kiss/kiss_gonna4.wav, 23cf40c8577b03f9
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/kiss/kiss_about2.wav, dff46521da9a2635
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/kiss/koss_about2.wav, cb13b08229def5c8
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/jump/joomp_wowgonna3.wav, 030affb7b332bd11
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/jump/joomp_can3.wav, 5d258969dad12dd7
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/jump/jump_can2.wav, 61e80cc5f3f62690
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/jump/jump_wowgonna3.wav, 354d9e587847c542
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/FINALS/joomp_can.wav, a4bac86e2a56c397
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/FINALS/kiss_about.wav, af7a9f24530a2484
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/FINALS/rowd_can.wav, 2ab9fcaa5504b107
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/FINALS/koss_about.wav, 00ecb1e0afdde394
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/FINALS/roan_can.wav, 3b3cf87dc9a20468
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/FINALS/read_can.wav, c1061e2ecb0f10d8
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/FINALS/cline_can.wav, 78a45dd35282aac9
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/FINALS/aulait2.wav, e9f10d55d40fcfcb
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/FINALS/run_can.wav, cc6f06ff8db4e3fc
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/FINALS/throw_gonna.wav, 87012f158ffec813
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/FINALS/thraw_gonna.wav, 5d2af308d23a0f24
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/FINALS/aulait3.wav, e5ee3efd1f78ea9f
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/FINALS/wick_gonna.wav, fa1875f2cf8245fc
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/FINALS/aulait1.wav, 7f05178b31d22fc5
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/FINALS/aulait4.wav, cf8d0a23c34a3b9a
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/FINALS/jump_can.wav, 0634746e0508d082
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/FINALS/droink_about.wav, a353909066f49834
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/FINALS/walk_gonna.wav, 865ec364ad4ffee3
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/FINALS/clean_can.wav, 1a1c420637c40170
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/FINALS/drink_about.wav, e90471623f29633d
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/walk/wick_wowgonna1.wav, 1819328c50d7f462
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/walk/walk_wowgonna1.wav, 33647bc3439dae8f
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/walk/wick_about1.wav, f0003df11da2f9ab
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/walk/walk_gonna4.wav, d3462bc6f61dce9b
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/walk/walk_about2.wav, 5250c966718c9c2b
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/walk/walk_can3.wav, b5480931f4eac00b
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/walk/wick_gonna4.wav, 35b29c29dabbc983
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/walk/wick_can3.wav, 8ecfb7d90143479f
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/clean/cline_can2.wav, 693ea7bc32cdbcd0
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/clean/clean_can2.wav, 90f3d2e9a45d1012
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/clean/clean_gonna1.wav, d4d0318367516394
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/clean/cline_gonna4.wav, 8295e173623f4db1
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/attentiongetters/AG2.wav, b408ce0be446e95f
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/attentiongetters/AG4.wav, 1ca146ae6b0fbae9
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/attentiongetters/AG1.wav, f064d41364d6aae8
+/Volumes/psych/BergelsonLab/Stimuli/VNA/audio/attentiongetters/AG3.wav, df95022b82b77987
+/Volumes/psych/BergelsonLab/Stimuli/VNA/videos/throw.avi, de3e0a4a9e194960
+/Volumes/psych/BergelsonLab/Stimuli/VNA/videos/jump.mp4, ad8c5911ac5d42e6
+/Volumes/psych/BergelsonLab/Stimuli/VNA/videos/fixation3.mp4, e8d04eb7a11d60eb
+/Volumes/psych/BergelsonLab/Stimuli/VNA/videos/throw.mp4, 7d4fa069c99c70eb
+/Volumes/psych/BergelsonLab/Stimuli/VNA/videos/walk.avi, 69f038a1794a99ff
+/Volumes/psych/BergelsonLab/Stimuli/VNA/videos/.DS_Store, 36bfd9e70f96d3cb
+/Volumes/psych/BergelsonLab/Stimuli/VNA/videos/drink.mp4, 1f351da0cc050a73
+/Volumes/psych/BergelsonLab/Stimuli/VNA/videos/debug.log, 9698bf11a6cade0a
+/Volumes/psych/BergelsonLab/Stimuli/VNA/videos/Sequence 03.mp4, 5f0b444b3df0054b
+/Volumes/psych/BergelsonLab/Stimuli/VNA/videos/jump.avi, e9a92f5338286f6c
+/Volumes/psych/BergelsonLab/Stimuli/VNA/videos/run.mp4, 79a95df725592232
+/Volumes/psych/BergelsonLab/Stimuli/VNA/videos/clean.avi, 8c6bb0ed92db6b7f
+/Volumes/psych/BergelsonLab/Stimuli/VNA/videos/kiss.mp4, 88e84928eb4b93d6
+/Volumes/psych/BergelsonLab/Stimuli/VNA/videos/walk.mp4, 1706382f20b3be46
+/Volumes/psych/BergelsonLab/Stimuli/VNA/videos/fixation2.mp4, a295945f90de7b0b
+/Volumes/psych/BergelsonLab/Stimuli/VNA/videos/clean.mp4, 412914904960adda
+/Volumes/psych/BergelsonLab/Stimuli/VNA/videos/drink.avi, 9f56472d0d66ec0d
+/Volumes/psych/BergelsonLab/Stimuli/VNA/videos/fixation4.mp4, 5e8ce2ce5a2d9ba7
+/Volumes/psych/BergelsonLab/Stimuli/VNA/videos/run.avi, 94f8709df0b55bca
+/Volumes/psych/BergelsonLab/Stimuli/VNA/videos/Thumbs.db, 684bcbe521452308
+/Volumes/psych/BergelsonLab/Stimuli/VNA/videos/kiss.avi, 49dabcfd62b1be70
+/Volumes/psych/BergelsonLab/Stimuli/VNA/videos/read.avi, cb92a737f4cb4165

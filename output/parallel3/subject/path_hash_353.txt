@@ -1,0 +1,100 @@
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_07/Home_Visit/Coding/Audio_Annotation/old_chas/22_07_sparse_code_2018-10-29-14-42-1.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_07/Home_Visit/Coding/Audio_Annotation/old_chas/22_07_sparse_code_2018-10-29-16-47-22.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_07/Home_Visit/Coding/Audio_Annotation/old_chas/22_07_sparse_code_2018-10-29-14-0-32.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_07/Home_Visit/Coding/Audio_Annotation/old_chas/22_07_sparse_code_2018-10-29-10-1-58.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_07/Home_Visit/Coding/Audio_Annotation/old_chas/22_07_sparse_code_2018-04-17.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_07/Home_Visit/Coding/Audio_Annotation/old_chas/22_07_coderVL_final.cex
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_07/Home_Visit/Coding/Audio_Annotation/old_chas/22_07_sparse_code_2018-10-19-11-35-23.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_07/Home_Visit/Coding/Audio_Annotation/old_chas/22_07_sparse_code_2018-04-27.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_07/Home_Visit/Coding/Audio_Annotation/old_chas/22_07_sparse_code_2018-10-24-15-4-8.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_07/Home_Visit/Coding/Audio_Annotation/old_chas/22_07_sparse_code_2018-10-29-10-49-28.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/Toy pictures/IMG_0129.JPG
+/Volumes/pn-opus/Seedlings/Subject_Files/22/Toy pictures/IMG_0124.JPG
+/Volumes/pn-opus/Seedlings/Subject_Files/22/Toy pictures/IMG_0127.JPG
+/Volumes/pn-opus/Seedlings/Subject_Files/22/Toy pictures/IMG_0136.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/22/Toy pictures/IMG_0135.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/22/Toy pictures/IMG_0132.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/22/Toy pictures/IMG_0128.JPG
+/Volumes/pn-opus/Seedlings/Subject_Files/22/Toy pictures/IMG_0125.JPG
+/Volumes/pn-opus/Seedlings/Subject_Files/22/Toy pictures/IMG_0130.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/22/Toy pictures/IMG_0122.JPG
+/Volumes/pn-opus/Seedlings/Subject_Files/22/Toy pictures/IMG_0126.JPG
+/Volumes/pn-opus/Seedlings/Subject_Files/22/Toy pictures/IMG_0131.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/22/Toy pictures/IMG_0123.JPG
+/Volumes/pn-opus/Seedlings/Subject_Files/22/Toy pictures/IMG_0134.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/22/Toy pictures/IMG_0133.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/22/Toy pictures/IMG_0137.jpg
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Video_Files/22_17_usbaudio1.sfk
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Video_Files/22_17_combined.veg.bak
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Video_Files/22_17_up1.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Video_Files/22_17_down1.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Video_Files/22_17_main1.MTS.sfk
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Video_Files/22_17_down1.mp4.sfk
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Video_Files/22_17_main1.MTS
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Video_Files/22_17_usbaudio1.WAV
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Video_Files/Thumbs.db
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Video_Files/22_17_parent1.mp4.sfk
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Video_Files/22_17_main2.MTS.sfk
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Video_Files/22_17_combined.veg
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Video_Files/22_17_parent1.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Video_Files/22_17_up1.mp4.sfk
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Video_Files/22_17_main2.MTS
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Video_Files/22_17_video.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Audio_Files/22_17.wav
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Audio_Files/22_17.its
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Audio_Files/22_17.lena.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Audio_Files/22_17_lena5min.csv
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Audio_Files/22_17_coderGC_final.cha.bak
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Audio_Files/22_17_subregions.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Audio_Files/22_17_silences.txt
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Processing/Audio_Files/22_17_silences_added.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Analysis/22_17_unique.txt
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Analysis/Audio_Analysis/22_17_audio_sparse_code.csv
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Analysis/Audio_Analysis/old_files/22_17_audiocount.txt
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Analysis/Audio_Analysis/old_files/22_17_coderGC_audio_checkST.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Analysis/Audio_Analysis/old_files/22_17_audio_sparse_code_2018-04-09.csv
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Analysis/Audio_Analysis/old_files/22_17_coderGC_audio_ready_for_check.csv
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Analysis/Video_Analysis/22_17_video_sparse_code.csv
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Analysis/Video_Analysis/old_files/22_17_videocount.txt
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Analysis/Video_Analysis/old_files/22_17_coderJS_video_ready_for_check.csv
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Analysis/Video_Analysis/old_files/22_17_coderJS_video_checkST.xlsx
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Analysis/Video_Analysis/old_files/22_17_video_sparse_code_2018-04-09.csv
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Coding/Video_Annotation/22_17_chi_checked.opf
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Coding/Video_Annotation/22_17_Video_Coding_Issues.docx
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Coding/Audio_Annotation/22_17_Audio_Coding_Issues.docx
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Coding/Audio_Annotation/22_17_sparse_code_timestamp_error.csv
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Coding/Audio_Annotation/22_17_sparse_code.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Coding/Audio_Annotation/old_chas/22_17_sparse_code_2018-10-29-10-2-26.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Coding/Audio_Annotation/old_chas/22_17_sparse_code_2018-10-29-16-47-49.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Coding/Audio_Annotation/old_chas/22_17_sparse_code_2018-10-29-14-1-0.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Coding/Audio_Annotation/old_chas/22_17_sparse_code_2018-10-29-10-49-54.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Coding/Audio_Annotation/old_chas/22_17_sparse_code_2018-10-29-14-42-29.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Coding/Audio_Annotation/old_chas/22_17_sparse_code_2018-10-24-15-4-35.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Coding/Audio_Annotation/old_chas/22_17_sparse_code_2018-10-22-16-36-40.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Coding/Audio_Annotation/old_chas/22_17_sparse_code_2018-04-27.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Coding/Audio_Annotation/old_chas/22_17_chi_checked_2018-04-17.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Coding/Audio_Annotation/old_chas/22_17_sparse_code_2018-07-12.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Coding/Audio_Annotation/old_chas/22_17_sparse_code_2018-10-24-16-16-17.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_17/Home_Visit/Coding/Audio_Annotation/old_chas/22_17_sparse_code_2018-10-19-11-36-0.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_14/Home_Visit/Processing/Video_Files/22_14_down1.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_14/Home_Visit/Processing/Video_Files/22_14_combined.veg
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_14/Home_Visit/Processing/Video_Files/22_14_usbaudio1.sfk
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_14/Home_Visit/Processing/Video_Files/22_14_usbaudio1.WAV
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_14/Home_Visit/Processing/Video_Files/22_14_up1.mp4.sfk
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_14/Home_Visit/Processing/Video_Files/22_14_video.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_14/Home_Visit/Processing/Video_Files/22_14_up1.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_14/Home_Visit/Processing/Video_Files/22_14_parent1.mp4.sfk
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_14/Home_Visit/Processing/Video_Files/22_14_main1.MTS
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_14/Home_Visit/Processing/Video_Files/22_14_main1.MTS.sfk
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_14/Home_Visit/Processing/Video_Files/Thumbs.db
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_14/Home_Visit/Processing/Video_Files/22_14_down1.mp4.sfk
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_14/Home_Visit/Processing/Video_Files/22_14_combined.veg.bak
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_14/Home_Visit/Processing/Video_Files/22_14_parent1.mp4
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_14/Home_Visit/Processing/Audio_Files/22_14.its
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_14/Home_Visit/Processing/Audio_Files/22_14_lena5min.csv
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_14/Home_Visit/Processing/Audio_Files/22_14.lena.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_14/Home_Visit/Processing/Audio_Files/22_14_subregions.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_14/Home_Visit/Processing/Audio_Files/22_14.wav
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_14/Home_Visit/Processing/Audio_Files/22_14_silences_added.cha
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_14/Home_Visit/Processing/Audio_Files/22_14_silences.txt
+/Volumes/pn-opus/Seedlings/Subject_Files/22/22_14/Home_Visit/Analysis/22_14_unique.txt
