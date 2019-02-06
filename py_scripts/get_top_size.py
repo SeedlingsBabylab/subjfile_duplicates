@@ -23,5 +23,8 @@ if __name__ == '__main__':
     dir = sys.argv[1]
 
     for folder in os.listdir(dir):
-        if os.path.isdir(os.path.join(dir, folder)):
-            print("\"{}\": {}\n".format(folder, convert_size(get_size_sum(os.path.join(dir, folder)))))
+        path = os.path.join(dir, folder)
+        if os.path.isdir(path):
+            print("{}: {}\n".format(path, convert_size(get_size_sum(path))))
+        else:
+            print("{}: {}\n".format(path, convert_size(os.path.getsize(path))))
