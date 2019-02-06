@@ -24,7 +24,7 @@ dup_df <- as.data.frame(json_file)
 
 ```{r filtering}
 # remove Pages.app, SSI/ssi[...], .DS_Store
-cleaned_dup <- dup_df %>% 
+cleaned_dup <- dup_df %>%
   filter(!(grepl("Pages", duplicates))) %>%
   filter(!(grepl("/SSI/ssi-master/", duplicates))) %>%
   filter(!(grepl(".DS_Store", duplicates)))
@@ -40,4 +40,45 @@ cleaned_dup <- cleaned_dup %>%
 max(cleaned_dup$num_duplicates)
 
 write_csv(cleaned_dup, "cleaned_duplicates.csv")
+```
+
+```{r comment}
+# /Volumes/psych/BergelsonLab/Subject_Files/YM/YXX/Image_Stims/XXXX.jpg/wav
+# /Volumes/psych/BergelsonLab/Eyetracking ebd files/XXXX/XXXX/images or video/XXXX.jpg/avi/png
+# /Volumes/psych/BergelsonLab/Scripts_and_Apps/VIP_data/image/XXXX.jpg/wav
+# /Volumes/psych/BergelsonLab/Stimuli/seedlings_stimuli/images_greybackground_960x960_150dpi/XXXX.jpg/wav
+# diaper vs. diapey(305); bottle vs. milk(1949); dog vs. doggy vs. puppy (1372); cat vs. kitty (2255)
+# blanket vs. blankey (595); foot vs. toe vs. piggies(1088); teddy vs. teddybear(2401); dog vs. doggy(3151)
+# book vs. book8(560); crayon vs. crayon2(1796); baby vs. baby9(2141); pajama vs. pajamas2 vs. jammies(2264)
+# yogurt vs. yogurt3(2307); cracker vs. cracker2(2482); birdie vs. bird(735); bike vs. bicycle(1158)
+# all .id2word file (those are models when I was doing a summer project)
+# .ias file /Volumes/psych/BergelsonLab/Eyetracking ebd files/NVAfeb21/runtime/dataviewer/test/aoi/IA_X.ias
+# two duplicates in same folder /Volumes/psych/BergelsonLab/Stimuli/seedlings_stimuli/images_greybackground_960x960_150dpi/elephant.jpg and elephant 2.jpg
+# some different .xlsx files(some are locked) are recognized as duplicates
+# all files except txt in /Volumes/psych/BergelsonLab/LENA_Backup/LENA/storage/dataproc/jobs/XXXXX/ckpt/
+# /Volumes/psych/BergelsonLab/LENA_Backup/LENA/storage/dataproc/jobs/x20160111_142301_003593/rslt/adpt/mod/XXXX.percent.X
+# /Volumes/psych/BergelsonLab/Eyetracking ebd files/NVAfeb21/library/video/fixationX.mp4.png and /Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library/video/fixationX.xvd.png
+# /Volumes/psych/BergelsonLab/LENA_Backup/LENA/storage/dataproc/jobs/XXXX/rslt/adpt/out/X/XXXX.lkl.gmm-names
+# /Volumes/psych/BergelsonLab/temp/ExpB folders/VNAfadein/library or runtime/video or images/XXXX.png/avi/png
+# all ref1/filler.xvd.png files
+# all ref1/filler.xvd
+# /Volumes/psych/BergelsonLab/LENA_Backup/LENA/storage/dataproc/jobs/x20160314_095349_004265/ckpt/run-time-ver-etc or Make-Dirs
+# /Volumes/psych/BergelsonLab/LENA_Backup/LENA/storage/dataproc/jobs/xXXXX/rslt/adpt/out/X/XXXX.lkl.gmm-names
+# /Volumes/psych/BergelsonLab/Stimuli/seedlings_stimuli/audio_stimuli_stereo_rightsilent_72db/XXX.wav
+# /Volumes/psych/BergelsonLab/datavyu/runtime/jre/lib/images/cursors/XXXX.gif
+# /Volumes/psych/BergelsonLab/Scripts_and_Apps/pho_checks/video/chi_cv_checks_roundX/input_orig/XXXX.opf
+# /Volumes/psych/BergelsonLab/Scripts_and_Apps/pho_checks/audio/XXXXX/XXXX.cha
+# /Volumes/psych/BergelsonLab/Scripts_and_Apps/old_aggregations/batch_basic_level_audio or old_batch_basic_level/batch_basic_level_audio_old/ or /Volumes/psych/BergelsonLab/Scripts_and_Apps/wordmerge/sample_data/batch_audio_data have duplicate csv
+# /Volumes/psych/BergelsonLab/Subject_Information/XXX/.smbdeleteAAAXXXXX
+# /Volumes/psych/BergelsonLab/LENA_Backup/lenamonth6_7_fiveminute/06_lena5min Folder/ and /Volumes/psych/BergelsonLab/Scripts_and_Apps/old_aggregations/lena5min_06_07/ have duplicate csv files
+# /Volumes/psych/BergelsonLab/LENA_Backup/LENA/storage/dataproc/jobs/XXXX/audio/XXXX.upl_header as duplicates
+# /Volumes/psych/BergelsonLab/datavyu/runtime/jre/lib/images/cursors/XXXX.gif as duplicates
+# /Volumes/psych/BergelsonLab/Stimuli/VNA/audio/FINALS/XXXX.wav
+# /Volumes/psych/BergelsonLab/LENA_Backup/LENA/storage/dataproc/jobs have a lot of system files
+# /Volumes/psych/BergelsonLab/Scripts_and_Apps/pho_checks/audio/recoded_17 or real_blank_out/XX_17_CLedit.noCHI.cha
+# /Volumes/psych/BergelsonLab/Stimuli/NVA/orig/XXX.wav
+# /Volumes/psych/BergelsonLab/Stimuli/NVA/keepers/XXXX.wav or /Volumes/psych/BergelsonLab/Stimuli/NVA/keepers/edits/XXX.wav
+# stop at 1530
+# stop at 150
+
 ```
