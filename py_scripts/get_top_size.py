@@ -21,10 +21,12 @@ def convert_size(size_bytes):
 
 if __name__ == '__main__':
     dir = sys.argv[1]
-
-    for folder in os.listdir(dir):
-        path = os.path.join(dir, folder)
-        if os.path.isdir(path):
-            print("{}: {}\n".format(path, convert_size(get_size_sum(path))))
-        else:
-            print("{}: {}\n".format(path, convert_size(os.path.getsize(path))))
+    with open("folder_size.txt", 'w+') as f:
+        for folder in os.listdir(dir):
+            path = os.path.join(dir, folder)
+            if os.path.isdir(path):
+                size = convert_size(get_size_sum(path))
+            else:
+                size = convert_size(os.path.getsize(path))
+            print("{}: {}\n".format(path, size))
+            f.write([path, size] + "\n")
