@@ -29,4 +29,4 @@ if __name__ == '__main__':
             else:
                 size = convert_size(os.path.getsize(path))
             print("{}: {}\n".format(path, size))
-            f.write([path, size] + "\n")
+            f.write("{}: {}\n".format(path, size))
