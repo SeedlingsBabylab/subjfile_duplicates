@@ -1,6 +1,0 @@
-/Volumes/psych/BergelsonLab/Lab_Papers/Catherine_Siblings/speaker.PC.demo.csv
-/Volumes/psych/BergelsonLab/Lab_Papers/Catherine_Siblings/demographics.csv
-/Volumes/psych/BergelsonLab/Lab_Papers/Catherine_Siblings/object.presence.demo.csv
-/Volumes/psych/BergelsonLab/Lab_Papers/Catherine_Siblings/utterance.type.demo.csv
-/Volumes/psych/BergelsonLab/Lab_Papers/Catherine_Siblings/.Rhistory
-/Volumes/psych/BergelsonLab/Lab_Papers/Catherine_Siblings/in.cdi.demo.csv

@@ -1,9 +1,0 @@
-/Volumes/psych/BergelsonLab/dpp/participants.csv, bea6f5f78f37464e
-/Volumes/psych/BergelsonLab/dpp/.DS_Store, fd2c14f0d9a89065
-/Volumes/psych/BergelsonLab/dpp/~$rk_notes.docx, dc8fc597d47cf0a9
-/Volumes/psych/BergelsonLab/dpp/work_notes.docx, d5db4336a8910948
-/Volumes/psych/BergelsonLab/dpp/dpp.2017-08-09.dump, 8f374af51a20ea71
-/Volumes/psych/BergelsonLab/dpp/DPP_MASTER.fmp12, ffa560a574ad24b9
-/Volumes/psych/BergelsonLab/dpp/dpp-connect, 2fbee25eaec884d4
-/Volumes/psych/BergelsonLab/dpp/Version 16/fmp_16.0.1.162.dmg, a4e15ae1721bcc78
-/Volumes/psych/BergelsonLab/dpp/Version 16/License info.txt, 621d98e02a9b21f8

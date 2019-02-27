@@ -1,6 +1,0 @@
-/Volumes/psych/BergelsonLab/Lab_Papers/Catherine_Siblings/speaker.PC.demo.csv, a67dd66ddd7a8cdd
-/Volumes/psych/BergelsonLab/Lab_Papers/Catherine_Siblings/demographics.csv, 31838a3a2ae6b3f8
-/Volumes/psych/BergelsonLab/Lab_Papers/Catherine_Siblings/object.presence.demo.csv, 5f27e02f7ecb3f86
-/Volumes/psych/BergelsonLab/Lab_Papers/Catherine_Siblings/utterance.type.demo.csv, 4e4eb648726a5c9a
-/Volumes/psych/BergelsonLab/Lab_Papers/Catherine_Siblings/.Rhistory, ef46db3751d8e999
-/Volumes/psych/BergelsonLab/Lab_Papers/Catherine_Siblings/in.cdi.demo.csv, d938556fc0fcdc2b

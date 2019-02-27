@@ -1,8 +1,0 @@
-/Volumes/psych/BergelsonLab/first_five/First_five_words_CDI.csv, 0f3ac36890a21cb1
-/Volumes/psych/BergelsonLab/first_five/.DS_Store, 3d217c89b81ac72e
-/Volumes/psych/BergelsonLab/first_five/all_basiclevel.csv, 0e9f56704565e326
-/Volumes/psych/BergelsonLab/first_five/wordbank_firstfive.csv, 37aded0b7074f897
-/Volumes/psych/BergelsonLab/first_five/first_five_hg.R, d4a71a2be51dae5b
-/Volumes/psych/BergelsonLab/first_five/first_five_by_sub.csv, ff078d03447d586f
-/Volumes/psych/BergelsonLab/first_five/.RData, 2ca2d07e30a5c35c
-/Volumes/psych/BergelsonLab/first_five/.Rhistory, 0cae8293883cea10

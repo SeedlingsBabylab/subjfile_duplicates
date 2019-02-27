@@ -1,5 +1,0 @@
-/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonth_audio_video/16_06_coderSM_audio_checkAS.csv
-/Volumes/pn-opus/Seedlings/Compiled_Data/sixmonth/sixmonth_audio_video/02_06_coderVL_video_checkSM.csv
-/Volumes/pn-opus/Seedlings/Compiled_Data/idslabel_samplefiles/proposed_sample_summary-22Jun16.xlsx
-/Volumes/pn-opus/Seedlings/Compiled_Data/idslabel_samplefiles/proposed_sample_summary.csv
-/Volumes/pn-opus/Seedlings/Compiled_Data/idslabel_samplefiles/LENAvsHuman_confusionmatrix.pdf
