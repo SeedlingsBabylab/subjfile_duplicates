@@ -1,5 +1,0 @@
-/Volumes/pn-opus/Seedlings/Duplicate Files/checksums of all non-video-audio files.txt
-/Volumes/pn-opus/Seedlings/Duplicate Files/all_files_excluding_video_audio.txt
-/Volumes/pn-opus/Seedlings/Duplicate Files/all_files.txt
-/Volumes/pn-opus/Seedlings/Duplicate Files/directory structure of Seedling.txt
-/Volumes/pn-opus/Seedlings/Duplicate Files/duplicates.json
